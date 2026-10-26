@@ -99,8 +99,9 @@ Template:
   **Clínica Tajamar** near Plaza Italia, sold years ago.
 - **Looks and voice:** tall, stooped, a cane, a tie always; old-fashioned formal Spanish, calls
   everyone *"colega"*.
-- **Relationship:** remembered Rodrigo; wrote him a recommendation for the residency. Hasn't been
-  seen in years. **Regard: +2**
+- **Relationship:** remembered Rodrigo; wrote him a recommendation for the residency because of
+  the **1991 blackout in the Salvador's theatre** (the student with the torch who asked about the
+  diesel). Hosted the lunch at the Club de la Unión, 19 Apr 2005. **Regard: +3**
 
 ## Money and power
 
@@ -118,11 +119,14 @@ Template:
 - **Age:** ~38 · Gonzalo's university classmate; a small commercial-law office in Providencia;
   bow ties; obsessed with exit clauses. **Regard: +1**
 
-### Don Anselmo Larrañaga Correa — (known only by name and record)
-- **Age:** over 80 · Textiles, then banking in the 1980s; on bank boards during the 1983
+### Don Anselmo Larrañaga Correa — Inversiones Huelén
+- **Born / age:** 1920, 84 · Textiles, then banking in the 1980s; on bank boards during the 1983
   interventions; close to the regime, low profile. His family company, **Inversiones Huelén
-  Ltda.**, stood behind the sale of the Caja Austral. Invited to lunch by Prof. Salinas.
-  **Regard: —** (not met)
+  Ltda.**, stood behind the sale of the Caja Austral.
+- **Looks and voice:** small, dry, double-breasted suit, white hair combed back, signet ring,
+  hearing aid; bad knees. Speaks "como se hablaba antes": formal, exact, a Latin or French tag.
+- **Relationship:** met at the Club de la Unión, 19 Apr 2005. Offered up to 45,000 UF on four
+  conditions. Since the night of 21 Dec 1978, afraid of the bomb. **Regard: +1**
 
 ## The street
 

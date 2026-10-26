@@ -2,22 +2,22 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-04-15",
-  "time": "07:50",
-  "weekday": "Friday",
-  "location": "Santiago Centro — Posta Central, end of shift",
+  "date": "2005-04-19",
+  "time": "15:40",
+  "weekday": "Tuesday",
+  "location": "Santiago Centro — the Alameda, outside the Club de la Unión",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 2,
-    "stress": 7,
+    "fatigue": 0,
+    "stress": 8,
     "conscience": "Clear",
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 3100000,
+    "money_clp": 3050000,
     "savings_uf": 6300
   },
   "standing": {
@@ -26,7 +26,7 @@
     "state": 1,
     "street": 1,
     "uniforms": 1,
-    "old_men": 0,
+    "old_men": 1,
     "press": 0
   },
   "network": {
@@ -51,14 +51,15 @@
     "Pato Leiva": 3,
     "Ximena Pizarro": 3,
     "Arturo Godoy": -2,
-    "Tomás Salinas": 2,
+    "Tomás Salinas": 3,
     "Mauricio Fierro": 1,
     "Verónica Saldías": 0,
-    "Andrés Molina": 1
+    "Andrés Molina": 1,
+    "Anselmo Larrañaga": 1
   },
   "flags": {
     "flagship_site_chosen": true,
-    "huelen_offer_made": false,
+    "huelen_offer_made": true,
     "b2_found": false,
     "told_carolina_about_bunkers": false,
     "left_posta": false,
@@ -68,17 +69,22 @@
     "promesa_signed": true,
     "partners_pact_signed": true,
     "huelen_identified": true,
-    "salinas_invitation_received": true
+    "salinas_invitation_received": true,
+    "lunch_with_old_men_done": true,
+    "old_men_know_cellar": true,
+    "botica_reaction_seen_by_larranaga": true
   },
   "clocks": {
-    "exposure_quilicura_drugs": "[■□□□□□]"
+    "exposure_quilicura_drugs": "[■□□□□□]",
+    "huelen_patience": "[■□□□] (Larrañaga: 'mientras no sea mucho')"
   },
   "open_threads": [
-    "Lunch invitation: Prof. Salinas + don Anselmo Larrañaga, Club de la Unión, Tue 19 Apr 2005 13:30 (R.S.V.P.)",
-    "Deed of sale for the Caja Austral due within 60 days of 14 Apr (by ~13 Jun 2005), subject to bank financing; deposit 5,500 UF paid",
-    "Bank committee (Verónica Saldías): business plan, 3-year projections, works budget; guarantees: building mortgage, partners' personal guarantees, maybe a second mortgage on the Ñuñoa house; answer in 3–4 weeks",
-    "Rodrigo owes 4,800 UF of capital within 12 months (sell the Providencia flat or part of MedSur)",
-    "Carolina wants to design the clinic",
-    "Close the money gap (≈40,000–50,000 UF beyond bank and partners, plus working capital)"
+    "Huelén's verbal offer (19 Apr): up to 45,000 UF as a 15-year loan at UF+2% or non-voting preferred shares; conditions: their retired army-engineer general designs and pays the deep works under the flagship and every future unit; a shelter beneath for them and their families; absolute discretion in writing and by word; a place on their list for Rodrigo, Carolina and the children",
+    "Deed of sale for the Caja Austral due by ~13 Jun 2005 (bank financing condition); deposit 5,500 UF paid",
+    "Bank committee (Verónica Saldías) in ~3 weeks: business plan, projections, works budget",
+    "Larrañaga knows about the cellar ('una botica bastante completa') and saw Rodrigo flinch",
+    "Who are 'nosotros'? More than two old men",
+    "Rodrigo owes 4,800 UF of capital within 12 months",
+    "Carolina wants to design the clinic"
   ]
 }

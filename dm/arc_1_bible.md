@@ -221,3 +221,12 @@
   La Mesa waited until the deposit was paid, then sent Salinas's card (lunch Tue 19 Apr).
   Larrañaga knows Gonzalo was in the Conservador asking about Santa Elena (a clerk's call):
   he'll mention it at lunch, lightly, to show he knows.
+- **S1 (16–19 Apr 2005):** Lunch voiced by npc-voice. New canon: the 1991 Salvador blackout
+  anecdote (torch, eleven minutes, the diesel question). Rodrigo's Empathy succeeded (read the
+  misalignment). His Nerve failed at "botica": Larrañaga now suspects illegal drugs in the
+  cellar/Quilicura (leverage). Salinas will phone within the week for a private talk at his home.
+  In ~2 weeks Covarrubias, Prieto & Asociados send the term sheet with the "condiciones
+  especiales" annex (the trap: perpetual right of access to "las instalaciones subterráneas").
+  Benavente starts sketching. Rehbein irritated. Larrañaga's lever if Rodrigo stalls: refusing an
+  extension of the promesa (deposit at risk if the bank fails, and the bank is being cooled by
+  Rehbein).

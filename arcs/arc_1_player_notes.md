@@ -36,6 +36,14 @@ he'll have to find.
 - (S1) Hora Dorada S.A. constituted (13 Apr); shareholders' pact signed; *promesa* signed at the notary on Huérfanos (14 Apr), deposit 5,500 UF. The seller's lawyer: "Es un edificio con mucha historia."
 - (S1) **15 Apr:** a handwritten invitation from **Prof. Tomás Salinas** to lunch at the **Club de la Unión**, Tue 19 Apr, 13:30, with "un amigo, don Anselmo Larrañaga Correa, que tiene mucho interés en conocerlo".
 
+- (S1) **Lunch at the Club de la Unión (19 Apr 2005)** with Prof. Salinas and don Anselmo Larrañaga (84):
+  - Salinas remembered the **1991 blackout in the Salvador's theatre**: Rodrigo, a 4th-year student, held a torch over the field for eleven minutes, then asked how much diesel the hospital had. That's why Salinas wrote his residency letter.
+  - Larrañaga knew about Gonzalo's week in the Conservador; admitted his cousin sold the building, bought cheap in Jan 1990.
+  - Larrañaga's fear: the night of 21 Dec 1978 (the state had "ni un sótano"); Argentina's enrichment announcement (Pilcaniyeu, Nov 1983); "la Guerra Fría no terminó, se fue a dormir". He knew of Hernán ("se hablaba bien de él" in La Reina) and of the Ñuñoa cellar, "una botica bastante completa", and saw Rodrigo's face move.
+  - **The offer:** Inversiones Huelén, up to **45,000 UF**, either a **15-year loan at UF+2%** or **non-voting preferred shares**. **Conditions:** (1) the deep works under the flagship and every future unit designed by *their* engineer, "un general de ingenieros, retirado", and paid by them, presented as seismic works, parking, generators, water; (2) **a shelter beneath for them and their families**, with a year of stores; (3) **absolute discretion**, in writing and by word; (4) **a place on their list** for Rodrigo, Carolina and the children.
+  - Rodrigo committed to nothing: any money goes to the board and the lawyer; asked for it in writing. Larrañaga: "Tómese el tiempo que necesite... mientras no sea mucho. Los dos sabemos cuánto dura una promesa de compraventa."
+  - Rodrigo's read: Salinas is warm and sincere, but shame or fear shows at "certificados" ("algunos no se olvidan nunca") and at "su papá"; Larrañaga weighs him like an asset. They're not fully aligned: Larrañaga cut Salinas off ("Hay cosas que hicimos que…" / "Tomás." / "…tarde y mal"). "Nosotros / nuestras familias": there are more of them.
+
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.
 
@@ -45,4 +53,7 @@ he'll have to find.
 ## Open questions
 - Where does the rest of the money come from?
 - Why does Larrañaga want *him* to buy *that* building, at that price?
+- Who else is "nosotros"? Who is the retired general?
+- What certificate can't Salinas forget? What did they do "tarde y mal"?
+- How does Larrañaga know about the cellar, and how much does he know?
 - What's behind the painted arch in basement −2?

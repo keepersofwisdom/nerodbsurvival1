@@ -38,6 +38,8 @@ written) history is the campaign's own.
 | Date | Event | ✔/✘ |
 |---|---|---|
 | 2005-04-02 | Pope John Paul II dies (15:37 Chile time); flags at half-mast; masses and TV specials | ✔ |
+| 2005-04-08 | Funeral of John Paul II in Rome | ✔ |
+| 2005-04-19 | **Benedict XVI elected**; the Chilean cardinal Jorge Medina Estévez announces the *Habemus Papam* (≈12:43 Santiago time) | ✔ |
 | 2005-04 | Costanera Norte opens in stages (tunnel under the Mapocho riverbed); TAG free-flow tolls begin | |
 | 2005-05-18 | **Antuco tragedy:** 45 conscripts die in a blizzard on a forced march | |
 | 2005-06-13 | Tarapacá earthquake (M≈7.8), ≈11 dead in the north | |
@@ -202,3 +204,5 @@ written) history is the campaign's own.
 | 2005-04-13 | Hora Dorada S.A. constituted; shareholders' pact signed | 1 |
 | 2005-04-14 | Promesa de compraventa signed for the Caja Austral (55,000 UF; deposit 5,500 UF) | 1 |
 | 2005-04-15 | Salinas's invitation to lunch with Larrañaga at the Club de la Unión (19 Apr) | 1 |
+| 2005-04-16 | Rodrigo tells Gonzalo everything; Gonzalo's four rules on a napkin | 1 |
+| 2005-04-19 | Lunch at the Club de la Unión: Huelén offers up to 45,000 UF on four conditions | 1 |
