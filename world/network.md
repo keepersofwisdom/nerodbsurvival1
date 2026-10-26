@@ -1,11 +1,11 @@
 # THE NETWORK — company sheet
 
 ```
-THE NETWORK — Hora Dorada S.A. (in formation; working name) · sociedad anónima cerrada
-Flagship (planned): Clínica Toesca (working name), civic district
-Owners (proposed, not signed): Bastías ~62% · Leiva ~17% · Contreras ~10.5% · Rivas ~10.5%
-Committed capital: 14,500 UF (Bastías 9,000 · Leiva 2,500 + equipment credit · Contreras 1,500 · Rivas 1,500)
-Cash: 14,500 UF (on paper; Bastías's share partly in illiquid MedSur stake) · Debt: none yet
+THE NETWORK — Hora Dorada S.A. · sociedad anónima cerrada · constituted 13 Apr 2005 (notary, Huérfanos)
+Flagship (planned): Clínica Toesca (working name), Edificio Caja Austral, Agustinas (promesa signed 14 Apr 2005, 55,000 UF)
+Owners: Bastías 62.1% → 58.1% after vesting · Leiva 17.2% · Contreras 10.35% → 12.35% · Rivas 10.35% → 12.35%
+Capital: committed 14,500 UF · paid in 9,700 UF · uncalled 4,800 UF (Bastías, within 12 months)
+Cash: ≈4,050 UF · Deposit paid: 5,500 UF (refundable if the title study fails; title study passed) · Debt: none yet
 Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · The Old Men 0 · Press 0
 ```
 
@@ -29,9 +29,17 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 ## Key staff
 | Name | Role | Since | Loyalty | Notes |
 |---|---|---|---|---|
-| Dr. Sebastián Contreras | Partner; wants clinical director | — | +4 | |
-| Gonzalo Rivas | Partner; finance | — | +1 | |
-| Patricio Leiva | Partner; supply (MedSur) | — | +3 | |
+| Dr. Rodrigo Bastías | Chairman and CEO | Apr 2005 | — | |
+| Dr. Sebastián Contreras | Medical director; partner | Apr 2005 | +4 | |
+| Gonzalo Rivas | CFO (salaried from opening); partner | Apr 2005 | +2 | Found the Larrañaga link; wary |
+| Patricio Leiva | Board member; preferred supplier (MedSur, 3 years) | Apr 2005 | +3 | New equipment with warranty only |
+| Andrés Molina | Company lawyer (external) | Apr 2005 | +1 | Gonzalo's classmate; bow ties |
+
+## Shareholders' pact (13 Apr 2005), key terms
+- Simple majority for ordinary decisions; **75% for a new shareholder, sale of the company, or sale of the flagship building**.
+- Sweat equity: 2% each to Contreras and Rivas from Bastías's stake, vesting over 3 years.
+- MedSur preferred supplier for 3 years at or below market; new equipment with manufacturer's warranty only.
+- Tag-along, drag-along, right of first refusal, 2-year non-compete, buy-out at book value on death or disability (insured).
 
 ## Contracts
 | Counterparty | What | Since | Value | Renewal |
@@ -40,9 +48,10 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 ## Projects (clocks)
 | Project | Clock | Cost so far / total | Next step |
 |---|---|---|---|
-| Find the flagship site | [□□□□] | 0 | Viewing with Fierro, Thu 31 Mar 2005 |
-| Close the money gap | [□□□□□□] | 14,500 / ~140,000 UF | The bank; partners; others |
-| Partners' agreement (statutes) | [□□□□] | lawyer's fees | Partners' dinner |
+| Find the flagship site | [■■■■] done | 5,500 deposit | Deed of sale by ~13 Jun 2005 (needs bank financing) |
+| Close the money gap | [■□□□□□] | 14,500 committed / ~152,000 UF all-in | Bank committee (3–4 weeks); ≈40,000–50,000 UF still missing |
+| Partners' agreement (statutes) | [■■■■] done | ≈120 UF (lawyer, notary) | Signed 13 Apr 2005 |
+| Business plan for the bank | [□□□□] | — | Gonzalo + Rodrigo; projections, works budget (Carolina?) |
 
 ## Threats (clocks)
 | Threat | Clock | Trigger |
@@ -51,3 +60,4 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 ## Books (by quarter, UF)
 | Quarter | Revenue | Costs | Result | Cash | Debt | Notes |
 |---|---|---|---|---|---|---|
+| Q2 2005 (to 15 Apr) | 0 | ≈150 (lawyer, notary, constitution) | −150 | ≈4,050 | 0 | Deposit 5,500 UF on the Caja Austral |

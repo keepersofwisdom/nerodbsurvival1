@@ -31,6 +31,11 @@ he'll have to find.
 - (S1) Partners' dinner (2 Apr): Seba wants to be clinical director ("no quiero ser tu empleado"); Gonzalo wants a lawyer-drafted pact with exit and drag-along clauses, +3% for running finance full-time, and no *promesa* without a title study; Pato wants 5 years' exclusive supply, offers equipment at cost on credit (and a "reconditioned" Bird ventilator). Nothing settled.
 - (S1) Carolina's verdict on the Caja Austral: "este edificio fue hecho para esto": ED on the ground floor by the courtyard, ORs on the 2nd, ICU on the 3rd; the damp in basement −2 needs waterproofing and a groundwater study before digging deeper.
 
+- (S1) **Gonzalo's findings (8 Apr):** the Caja Austral was built in 1938 by a regional pension fund (*caja de previsión*); after the 1980 pension reform it passed to the **INP (the state)**, which sold it in **January 1990**, two months before Aylwin took office, to **Rentas Santa Elena Ltda.** for **9,000 UF**. Santa Elena (1989) belongs to **María Elena Correa** and her children; she's a cousin of **don Anselmo Larrañaga Correa**, whose family company is **Inversiones Huelén Ltda.** (1979; domiciled at the law firm in El Golf). Larrañaga: textiles, then banking in the 1980s; on boards during the 1983 bank interventions and came out well; close to the regime, low profile; over 80. **Title is clean.** The "Chinese buyers from Meiggs" were invented: nobody else asked about the building in two years.
+- (S1) Bank (7 Apr): Verónica Saldías needs the full business plan, 3-year projections, the *promesa* and the works budget; guarantees would be the building's mortgage plus the partners' personal guarantees, and probably a second mortgage on the Ñuñoa house. Committee in 3–4 weeks.
+- (S1) Hora Dorada S.A. constituted (13 Apr); shareholders' pact signed; *promesa* signed at the notary on Huérfanos (14 Apr), deposit 5,500 UF. The seller's lawyer: "Es un edificio con mucha historia."
+- (S1) **15 Apr:** a handwritten invitation from **Prof. Tomás Salinas** to lunch at the **Club de la Unión**, Tue 19 Apr, 13:30, with "un amigo, don Anselmo Larrañaga Correa, que tiene mucho interés en conocerlo".
+
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.
 
@@ -39,3 +44,5 @@ he'll have to find.
 
 ## Open questions
 - Where does the rest of the money come from?
+- Why does Larrañaga want *him* to buy *that* building, at that price?
+- What's behind the painted arch in basement −2?

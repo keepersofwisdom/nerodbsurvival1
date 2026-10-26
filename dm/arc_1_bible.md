@@ -213,3 +213,11 @@
   1938 plans failed: she didn't notice the arch. Pincheira likes the children. Javiera has
   heard "Rentas Santa Elena". Hernán reacted to "Agustinas con Teatinos" (he knows the area
   from 1987; he says nothing yet).
+- **S1 (4–15 Apr 2005):** Gonzalo's Investigation succeeded (rolled 3): Huelén = Larrañaga;
+  Santa Elena = cousin María Elena Correa; the INP sold the building in Jan 1990 for 9,000 UF;
+  Fierro's fee NOT found. Rodrigo's Empathy on Verónica failed (he doesn't sense Rehbein's
+  pressure; the committee will come back cool). Pact signed: 75% needed for new shareholders,
+  so Huelén as equity requires partners; as a loan, Rodrigo can take it with a majority.
+  La Mesa waited until the deposit was paid, then sent Salinas's card (lunch Tue 19 Apr).
+  Larrañaga knows Gonzalo was in the Conservador asking about Santa Elena (a clerk's call):
+  he'll mention it at lunch, lightly, to show he knows.

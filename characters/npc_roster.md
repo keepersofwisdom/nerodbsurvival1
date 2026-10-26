@@ -114,6 +114,16 @@ Template:
 - **Looks and voice:** tailored, friendly, impossible to read; *"lo vemos con el comité"*.
 - **Relationship:** handles his mortgage; now his business loan. **Regard: 0**
 
+### Andrés Molina — company lawyer
+- **Age:** ~38 · Gonzalo's university classmate; a small commercial-law office in Providencia;
+  bow ties; obsessed with exit clauses. **Regard: +1**
+
+### Don Anselmo Larrañaga Correa — (known only by name and record)
+- **Age:** over 80 · Textiles, then banking in the 1980s; on bank boards during the 1983
+  interventions; close to the regime, low profile. His family company, **Inversiones Huelén
+  Ltda.**, stood behind the sale of the Caja Austral. Invited to lunch by Prof. Salinas.
+  **Regard: —** (not met)
+
 ## The street
 
 ### Pincheira — night watchman, Edificio Caja Austral

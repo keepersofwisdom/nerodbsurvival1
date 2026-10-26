@@ -2,23 +2,23 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-04-04",
-  "time": "08:40",
-  "weekday": "Monday",
-  "location": "Ñuñoa — the Bastías house; Gonzalo on the phone",
+  "date": "2005-04-15",
+  "time": "07:50",
+  "weekday": "Friday",
+  "location": "Santiago Centro — Posta Central, end of shift",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 0,
-    "stress": 6,
+    "fatigue": 2,
+    "stress": 7,
     "conscience": "Clear",
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 3180000,
-    "savings_uf": 10500
+    "money_clp": 3100000,
+    "savings_uf": 6300
   },
   "standing": {
     "medicine": 2,
@@ -30,11 +30,14 @@
     "press": 0
   },
   "network": {
-    "name": "Hora Dorada S.A. (in formation)",
+    "name": "Hora Dorada S.A. (constituted 13 Apr 2005)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": 14500,
-    "debt_uf": 0
+    "cash_uf": 4050,
+    "debt_uf": 0,
+    "paid_in_uf": 9700,
+    "uncalled_uf_rodrigo": 4800,
+    "deposit_paid_uf": 5500
   },
   "relationships": {
     "Carolina Ríos": 4,
@@ -50,7 +53,8 @@
     "Arturo Godoy": -2,
     "Tomás Salinas": 2,
     "Mauricio Fierro": 1,
-    "Verónica Saldías": 0
+    "Verónica Saldías": 0,
+    "Andrés Molina": 1
   },
   "flags": {
     "flagship_site_chosen": true,
@@ -60,17 +64,21 @@
     "left_posta": false,
     "caja_austral_offer_accepted_uf": 55000,
     "huelen_name_seen": true,
-    "carolina_saw_building": true
+    "carolina_saw_building": true,
+    "promesa_signed": true,
+    "partners_pact_signed": true,
+    "huelen_identified": true,
+    "salinas_invitation_received": true
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]"
   },
   "open_threads": [
-    "Promesa de compraventa for the Caja Austral within 30 days (by ~4 May 2005); 10% deposit = 5,500 UF, refundable if the title study fails",
-    "Who is Inversiones Huelén Ltda.? (named in the seller's acceptance, Covarrubias, Prieto & Asociados)",
-    "Partners' pact not signed: Seba wants clinical director; Gonzalo wants +3% sweat equity and a lawyer's pact; Pato wants 5-year exclusive supply",
-    "Bank meeting with Verónica Saldías, Thursday 7 Apr",
-    "Carolina wants to design the clinic (her layout: ED on the ground floor, ORs on 2, ICU on 3)",
+    "Lunch invitation: Prof. Salinas + don Anselmo Larrañaga, Club de la Unión, Tue 19 Apr 2005 13:30 (R.S.V.P.)",
+    "Deed of sale for the Caja Austral due within 60 days of 14 Apr (by ~13 Jun 2005), subject to bank financing; deposit 5,500 UF paid",
+    "Bank committee (Verónica Saldías): business plan, 3-year projections, works budget; guarantees: building mortgage, partners' personal guarantees, maybe a second mortgage on the Ñuñoa house; answer in 3–4 weeks",
+    "Rodrigo owes 4,800 UF of capital within 12 months (sell the Providencia flat or part of MedSur)",
+    "Carolina wants to design the clinic",
     "Close the money gap (≈40,000–50,000 UF beyond bank and partners, plus working capital)"
   ]
 }

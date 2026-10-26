@@ -197,3 +197,8 @@ written) history is the campaign's own.
 | 2005-04-02 | Partners' dinner at Seba's: positions stated, nothing settled | 1 |
 | 2005-04-03 | Family visit to the Caja Austral; Sunday lunch in the Villa Olímpica; offer accepted by phone | 1 |
 | 2005-04-04 | Written acceptance names "Inversiones Huelén Ltda." | 1 |
+| 2005-04-07 | First bank meeting (Verónica Saldías): committee in 3–4 weeks | 1 |
+| 2005-04-08 | Gonzalo traces Huelén to Anselmo Larrañaga; the building's 1990 sale by the INP | 1 |
+| 2005-04-13 | Hora Dorada S.A. constituted; shareholders' pact signed | 1 |
+| 2005-04-14 | Promesa de compraventa signed for the Caja Austral (55,000 UF; deposit 5,500 UF) | 1 |
+| 2005-04-15 | Salinas's invitation to lunch with Larrañaga at the Club de la Unión (19 Apr) | 1 |
