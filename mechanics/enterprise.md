@@ -7,9 +7,10 @@ a fleet of ambulances tying them together. Underneath, quietly, the bunkers.
 This file turns that into play: what it costs, what it earns, how it grows, how it fails. The
 company's name, structure and money sources are decided in character creation.
 
-> **Numbers are provisional** (order-of-magnitude, in UF so they survive inflation). They will
-> be reconciled with `research/04_chile_health_system.md` and checked with the `clinician` and
-> `researcher` agents before they matter in play. Convert with `tools/dice.py money`.
+> **Numbers** are order-of-magnitude estimates, in UF so they survive inflation, drawn from
+> `research/04_chile_health_system.md §2, §5` and `research/06_gazetteer_central_santiago.md §6`
+> (both mostly tagged [E]). Use ranges, not midpoints. Convert with `tools/dice.py money`
+> (in 2005, 1 UF ≈ CLP 17,300 ≈ US$31; in 2025, 1 UF ≈ CLP 38,400 ≈ US$40).
 
 ---
 
@@ -37,14 +38,17 @@ THREATS (clocks)
 
 ## 2. Unit types
 
-| Type | What it has | Capital (2005, approx.) | Staff (24/7) | Monthly running cost (approx.) |
+| Type | What it has | Capital (2005, approx.) | Staff (FTE) | Monthly running cost (2005, approx.) |
 |---|---|---|---|---|
-| **Flagship clinic** | ED with 3–4 resus bays and 10–15 boxes; 2 ORs; 6–10 ICU/intermediate beds; X-ray, ultrasound, CT (or a deal for one); lab; blood bank; pharmacy; ambulance base; HQ; possibly a helipad | 80,000–200,000 UF (building + fit-out + equipment) | 60–120 people | 6,000–12,000 UF |
-| **Stabilization unit** | 2 resus bays, 4–6 boxes, 1 damage-control OR, 2–4 monitored beds, X-ray + ultrasound, point-of-care lab, O-negative in a fridge, 1–2 ambulances | 15,000–40,000 UF | 25–40 people | 1,800–3,500 UF |
+| **Flagship clinic** | ED with 3–4 resus bays and 10–15 boxes; 2 ORs; 6–10 ICU/intermediate beds; X-ray, ultrasound, CT (or a deal for one); lab; blood bank; pharmacy; ambulance base; HQ; possibly a helipad | 100,000–250,000 UF (building + fit-out + equipment; a 2,000 m² Providencia building alone ≈ 50,000–64,000 UF) | 150–300 | 12,000–25,000 UF |
+| **Stabilization unit** | 2 resus bays, 1 damage-control OR (on call), 4 ICU beds, 6 observation chairs, X-ray + ultrasound, point-of-care lab, O-negative in a fridge, 2 advanced ambulances | 29,000–48,000 UF all-in for a converted casona near Plaza Italia (house 6,000–8,400 + fit-out 9,500–15,200 + equipment 13,000–26,000) | 70–100 | 5,500–9,500 UF (payroll ≈ 70–80%) |
+| **Small resus post** | 2 resus bays and 4 boxes, no OR, no ICU: stabilize and transfer within hours | 8,000–15,000 UF | 30–40 | 2,000–3,500 UF |
 | **Ambulance post** | A garage, a room, a radio | 1,000–3,000 UF | crews only | 300–700 UF + crews |
 
-Staff dominate costs. A 24/7 post needs **about five people per seat** (shifts, holidays, sick
-leave): one doctor on duty every hour of the year is ~5 doctors on the payroll.
+*2025 equivalents:* property ×2.5, construction ×1.6–1.9, salaries roughly ×1.3 in real terms (UF).
+
+Staff dominate costs. A 24/7 post needs **4–5 people per seat** (shifts, holidays, sick leave):
+one doctor on duty every hour of the year is 4–5 doctors on the payroll.
 
 **Quality (1–20)** measures a unit's equipment, protocols and team. It starts at 10 + the
 founder's Management/4 (round down) + money spent above minimum, and changes through play
@@ -55,23 +59,23 @@ baseline for that unit's patients (`medicine.md §7`) and the target for its inc
 
 ## 3. Ambulances
 
-| Type | Chilean name (approx.) | Crew | Capital, equipped (2005, approx.) | Use |
-|---|---|---|---|---|
-| **Basic** | básica / M1 | driver + TENS/paramedic | 900–1,500 UF | Non-critical transfers, events |
-| **Advanced** | avanzada / M2 | driver + nurse or paramedic + (doctor) | 1,800–3,000 UF | Emergencies, the core fleet |
-| **Critical care** | UCI móvil / M3 | driver + nurse + doctor; ventilator, pumps, monitor-defib | 2,500–4,000 UF | Inter-hospital transfer of ICU patients |
-| **Special** | rescue truck, 4×4, bike, motorcycle; later a helicopter contract | varies | varies | Disasters, traffic, the cordillera |
+| Type | Chilean name | Crew | Capital, equipped (2005) | Running cost of one 24/7 unit incl. crew (2005) | Use |
+|---|---|---|---|---|---|
+| **Basic** | AEB (básica) | driver + TENS | 800–1,250 UF (US$45–70k) | 230–350 UF/month | Non-critical transfers, events |
+| **Advanced** | AEA (avanzada), nurse-led | driver + TENS + nurse/reanimador | 1,450–2,200 UF (US$80–120k) | 460–700 UF/month | Emergencies, the core fleet |
+| **Advanced with physician** | AEA "M3" / UCI móvil | + doctor; transport ventilator, pumps | 1,800–2,700 UF | 700–1,050 UF/month | Inter-hospital transfer of ICU patients; the founder's signature |
+| **Special** | rescue 4×4, motorcycle, later a helicopter contract | varies | varies | varies | Disasters, traffic, the cordillera |
 
-Running cost: fuel, maintenance, insurance, consumables: roughly **60–150 UF per ambulance per
-month** without crew. Ambulances age: after ~6–8 years, or 300,000 km, condition drops.
-
----
+One 24/7 seat needs **≈4.2 full-time people**; an advanced unit is ~12–13 people. A van does
+150–300 km per 24 h in Santiago and is replaced every 5–7 years.
 
 ## 4. Revenue
 
 | Line | How it works | Notes |
 |---|---|---|
 | **Emergency care billed to Fonasa / Isapres / mutuales** | Every patient treated is billed. **Ley de Urgencia** cases are paid until the patient is stabilized | The core income; slow to collect (60–180 days), disputed, and sometimes unpaid |
+| **Rebase** (from 2015) | A stabilized Fonasa patient with no public bed stays in the unit's ICU and **Fonasa pays the days** | Lucrative, reliable, blocks the bed the next trauma needs, and a press target ("living off the rebase") |
+| **UGCC bed purchase** (from 2009) | The state's bed-management unit buys critical beds from private providers | Spikes in winter, H1N1, COVID |
 | **Transfers** | Charged per transfer, per km and per level of care | Clinics and Isapres outsource transfers |
 | **Rescue subscriptions** (*planes de rescate*) | Households and companies pay monthly for emergency response at home, at work | Chile's private "rescate" market already exists (see research); it's competitive |
 | **Contracts** | Mutuales (work accidents), Isapres, municipalities, events (stadiums, concerts, Fiestas Patrias), mines and construction sites, embassies | Big, steady, political |
@@ -83,6 +87,27 @@ month** without crew. Ambulances age: after ~6–8 years, or 300,000 km, conditi
 the poorest comunas earns less and matters more.
 
 ---
+
+### 4.1 The Ley de Urgencia, in eight rules (from `research/04 §8`)
+1. **Nobody can be refused or asked for money first** in a vital emergency, in any year. From
+   Nov 2009, no cheque or cash guarantee for anything.
+2. **The doctor's certificate is money:** it decides who pays, and auditors read it months later.
+3. **Stabilization is a legal moment:** certified by the treating doctor; only then can the patient
+   be moved; for Fonasa patients it triggers the choice of public network or free choice (the
+   DOMA, formalised in 2022).
+4. **Transfers fail far more than they succeed** (only ~11–14% of Fonasa patients stabilized in
+   private clinics were moved to public hospitals). Plan for patients who stay: the Network
+   needs ICU beds, or it gets stuck.
+5. **From 2015, Fonasa pays the waiting days** (rebase). Before that, every extra day is a fight.
+6. **Mutual, SOAP (traffic) and Isapre patients are good business;** Fonasa tramo A walk-ins are a
+   mission, not a margin.
+7. **From July 2016, accreditation** is the price of being in an Isapre's GES trauma network.
+8. **2022–2024:** the Isapres are shaky, the paperwork stricter, the press watching the rebase.
+
+**Break-even (2005):** a stabilization unit needs roughly **6,000–10,000 UF a month collected**,
+that is, 8–15 serious stabilizations a day plus ICU days and contracts. Isapre-heavy: comfortable.
+Fonasa-heavy without rebase or contracts: it loses money. Insurers pay 60–180 days late, so a
+growing network can be profitable **and still run out of cash**.
 
 ## 5. The quarter (business turn)
 

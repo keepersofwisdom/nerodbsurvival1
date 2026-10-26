@@ -32,7 +32,12 @@ options. Nothing the player wants to choose is rolled. When done, the DM writes
 
 ## Step 2 — How he became an emergency physician
 Emergency medicine was brand new in Chile in the 1990s (see
-`research/05_emergency_medicine_ems_disaster.md`). Choose a path:
+`research/05_emergency_medicine_ems_disaster.md §1`). The **Colegio Médico** proposed the
+specialty in **1992**; the **first programme began in 1994 at the Universidad de Chile**; **SAMU
+Metropolitano** opened in the Posta Central's courtyard on **20 Dec 1995**; the training was
+relaunched in **2004** (U. de Chile, PUC, USACH with MINSAL). In 2005 Chile had perhaps **30–80**
+certified emergency physicians: everyone knows everyone, and surgeons still run most trauma
+bays. Choose a path:
 
 | Path | What it gives | What it costs |
 |---|---|---|
