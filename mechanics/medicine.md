@@ -5,6 +5,12 @@ Chilean institutions, and the practice **of the year in play** (2005 medicine is
 medicine). Patients die when they would die. Good medicine is the best protection there is, and
 it is not always enough.
 
+> **Depth in this campaign: medium** (`config.md`). Medicine is not the centre of the story.
+> Most patients get a paragraph of accurate narration and no card. Use the full machinery below
+> (cards, beats, clocks, Outcome rolls) only for cases that matter to the story, and for the
+> player character's own injuries. In mass-casualty events, keep the player at the level of
+> command decisions (§11).
+
 For any clinical fact the DM is unsure of (a dose, a ventilator setting, what a 2005 Chilean ED
 had, how a burn evolves at 48 h), ask the **`clinician`** agent.
 

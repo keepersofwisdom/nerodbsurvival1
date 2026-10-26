@@ -68,8 +68,8 @@ a reason in his story).
 
 ## Step 6 — Traits, drives, skills
 **Traits:** all pairs start at 10/10. Move up to **8 points** (each point raises one side, lowers
-the other). The DM suggests nudges from his story (a prepper: Paranoid, Cautious; a Posta
-veteran: Detached, Calm).
+the other), plus up to **6 points of nudges from his story** (a prepper: Paranoid, Cautious; a
+Posta veteran: Detached, Calm).
 
 **Drives:** **Preparation 15** (he wouldn't be the founder without it) and **Duty (patients)
 12**, plus **two or three of his own** at 15, 12 and 10 (Love for someone, Fear of something,

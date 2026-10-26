@@ -8,14 +8,16 @@ After the real present, history is the campaign's own, invented plausibly and re
 
 ## 2. The founding divergence
 - **The bunkers of the Old Men.** In the decades before 2005, a small number of rich and
-  powerful old men, with access to engineers who had worked for the state during the
-  dictatorship, built doomsday shelters beneath central Santiago. Some lie under private
+  powerful old men, **afraid above all of nuclear war**, with access to engineers who had worked
+  for the state during the dictatorship, built doomsday shelters beneath central Santiago. Some lie under private
   clinics and hospital blocks (around Providencia, Plaza Italia and the Hospital del
   Trabajador). Some are near, or connected to, the tunnels around La Moneda and the civic
   district that were used in 1973–1990.
 - Nobody in public life acknowledges them. Rumours of "túneles bajo Santiago" exist in our
   world too, and in this world they are partly true.
-- *(What the bunkers are, who built them, and what is in them is DM material: `dm/`.)*
+- **The founder's deal (the player's broad stroke):** a couple of these old men, still afraid,
+  will give the founder money to hide new bunkers beneath his clinics.
+- *(Who they are, what the old bunkers are, and what is in them is DM material: `dm/`.)*
 
 ## 3. The rules of realism
 - **No supernatural.** No monsters, no magic, no prophecy. Coincidence is allowed; fate isn't.

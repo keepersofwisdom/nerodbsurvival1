@@ -1,7 +1,11 @@
 # ROLEPLAY CONFIGURATION — SUBSUELO
 
 ## Theme
-**Medical drama, urban realism and slow-burning apocalypse**, in three eras:
+**Management drama and prepper thriller, then post-apocalyptic survival.** Medicine is the
+characters' trade and the world's texture (accurate when it appears), **not the centre of the
+story**. The centre is: building and running the enterprise (money, partners, banks, permits,
+staff, rivals, politics), the secret preparation beneath it, family and love, and later
+survival. Three eras:
 1. **Los Cimientos (The Foundations), 2005 → ~2025.** An emergency physician and prepper
    builds a private network of stabilization units and ambulances in Santiago, and quietly
    prepares beneath it. Ordinary life for years: patients, money, permits, love, children,
@@ -15,7 +19,9 @@
 
 ## Tone
 **Clinical realism with literary depth.**
-- The ED of ***ER*** and ***The Pitt***: real medicine, real pace, the team, the dark humour.
+- The boardroom and back room of ***Succession***, ***Industry*** and ***Halt and Catch Fire***:
+  building something, money that is never enough, partners who become rivals.
+- The ED of ***ER*** and ***The Pitt***, as seasoning: real medicine, the team, the dark humour.
 - The Chilean city of **Alejandro Zambra**, **Pedro Lemebel** and **Los 80**: class, memory,
   the dictatorship in every family, the smog and the Andes.
 - The old men of **John le Carré**: power that never retired, paid in favours and silence.
@@ -27,8 +33,9 @@ Beauty and horror share the frame. Nobody is a cartoon. Money, love and fear dri
 ## Narrative voice
 - **Second person, present tense** ("The monitor alarms before you see the blood"), close on
   the active character. *(Changeable: "switch to third person" or "past tense".)*
-- **Language:** *(open decision §A)*. Default: narrate in **English**, with dialogue seasoned by
-  **Chilean Spanish** (*po*, *cachái*, *weón*, *al tiro*, *la Posta*), glossed by context.
+- **Language (decided):** narrate in **English**; **dialogue in Chilean Spanish** where it
+  matters (*po*, *cachái*, *weón*, *al tiro*, *la Posta*), glossed by context or with a short
+  English echo, so it reads naturally to an English reader.
 - **Scene header** at each new scene: place · weekday and date · time · weather or air.
 - **Length:** usually **400–900 words** per scene beat, ending at a decision point or a natural
   pause. Resuscitations go beat by beat and may be shorter, faster; disasters may run longer.
@@ -46,7 +53,7 @@ Beauty and horror share the frame. Nobody is a cartoon. Money, love and fear dri
   the Colegio Médico, the universities, the private clinic groups, the Metro. See `research/`.
 
 ## Realism
-**Hard for medicine, grounded for everything else.** Real dates, real streets, real prices (in
+**Grounded throughout.** Medicine accurate but brief (see Clinical depth below). Real dates, real streets, real prices (in
 CLP and UF), real laws, real hospitals, real medicine **of the year**. History runs on its
 track. **No magic, no monsters.** Dramatic licence lives in the fictional layer: the founder,
 his company, the NPCs, the bunkers, the Old Men.
@@ -82,6 +89,15 @@ The player has asked for **no restrictions beyond what Claude can do**: NSFW, go
    acknowledged, but it is **never depicted erotically or in explicit detail**. It is shown
    through its medicine, aftermath and consequences.
 
+## Clinical depth (decided: medium)
+- Medicine is **accurate but not central**. Most patients are a paragraph of narration. A case
+  becomes a full scene only when it matters to the story (a partner's son, an investor, a
+  scandal, a mass-casualty night, a death that changes something).
+- The player makes the **big calls** (operate here or transfer, who gets the last ICU bed, whether
+  to certify); the DM handles drugs, doses and procedures in the background, correctly.
+- The **Ley de Urgencia** and billing rules are background machinery for the business, used
+  when they create a decision, never as homework.
+
 ## Dice
 - Rolled by the DM with `tools/dice.py` (real randomness, logged in `sessions/dice.log`).
 - **Shown** in one compact line after the narration they affect (e.g.
@@ -97,26 +113,21 @@ The player has asked for **no restrictions beyond what Claude can do**: NSFW, go
 
 ---
 
-## OPEN DECISIONS (to settle with the player before "begin")
+## DECISIONS (settled with the player, Oct 2026)
 
-- [ ] **A. Language:** English narration with Chilean Spanish dialogue (default) · all in
-      Chilean Spanish · English throughout.
-- [ ] **B. Clinical depth:** the player gives real orders and wants hard medicine (default) ·
-      medium (the DM handles details, the player decides the big moves) · light.
-- [ ] **C. The Founder:** the player designs him fully · the DM offers three candidates to
-      pick and adjust.
-- [ ] **D. The Founder's money:** family · banks · partners · an Isapre/clinic group · foreign
-      capital · the Old Men · a mix.
-- [ ] **E. How Era I ends:** decided in play · planned by the player · the DM's secret (the heir
-      will find out).
-- [ ] **F. The Heir:** sketch now (so the DM can seed them into the founder's years) · later.
-      Name, gender, tie to the founder.
-- [ ] **G. The Old Men and their bunkers:** a DM secret discovered in play (default) ·
-      co-designed openly · a mix (the player sets the broad strokes, the DM keeps details).
-- [ ] **H. Era I chapters:** which years to play in detail (DM suggests: 2005 founding, 2007
-      Transantiago, 2010 27F, 2019 estallido, 2020 COVID, 2025 blackout), and how long Era I
-      should take.
-- [ ] **I. The flagship's site:** chosen in creation from real options.
-- [ ] **J. Scope of the divergence:** only the bunkers and the Old Men · bigger (other secret
-      changes to Chilean history).
-- [ ] **K. Title:** SUBSUELO · something else.
+| # | Decision | Answer |
+|---|---|---|
+| A | Language | English narration, Chilean Spanish dialogue |
+| B | Clinical depth | Medium. **Management first**, then survival; medicine accurate but not central |
+| C | The Founder | The DM designs him: **middle class**, did well early as a doctor and with a couple of investments, then did well with his small stabilization clinics |
+| — | His path | One of the first Universidad de Chile EM residents; also SAMU |
+| — | Why he prepares | Mainly fear of **nuclear war**, rooted in the 1978 war scare with Argentina |
+| — | Family | Married, with children |
+| D | The money | A mix: his own savings and investments, partners, banks, and **a couple of old men with money, also afraid of nuclear war, who fund bunkers hidden beneath his clinics** |
+| I | Flagship site | **The civic district, by La Moneda** |
+| G | The Old Men | Mix: the player set the broad strokes above; the DM keeps the details |
+| E | How Era I ends | **In play; the player decides** |
+| F | The Heir | Sketched: **Pietro Nerod Carrasco** (see `characters/heir.md`); details and his tie to the founder later |
+| H | Chapters | Roughly 2005, 2007, 2010, 2019, 2020, 2025; decided as we go |
+| J | Divergence | Only the bunkers and the Old Men for now; more to be decided together |
+| K | Title | **SUBSUELO** for now |

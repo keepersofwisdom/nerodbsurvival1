@@ -168,3 +168,58 @@ units ("deep foundations", "seismic isolation", "underground parking", "archives
 room"); a separate company; the Old Men's money; cash. Each method has a risk (an audit, the
 SII tax service, a partner who reads the books, a contractor who talks), tracked in the
 **Exposure** clock (`preparedness.md §5`).
+
+---
+
+## 9. Running the business in play (the core loop)
+
+Management is the **main stage** of Era I. The medicine happens inside the units; the story
+happens in the meetings, the books, the deals and the compromises.
+
+### 9.1 The loop
+1. **Situation.** The DM puts a real problem on the table, with **numbers** (UF, pesos,
+   patients a day, days of cash), **people** (who wants what), and a **clock** if there is one.
+2. **Options.** Two to four concrete choices with their trade-offs spelled out (money, time,
+   risk, people, the secret), "…or something else."
+3. **Scene.** The player plays the meeting, the call, the visit. Social rolls only where an NPC
+   resists; the `npc-voice` agent for the big ones.
+4. **Consequence.** The DM updates `world/network.md` and narrates what changes, now and later.
+
+### 9.2 The monthly flash (when the player asks, or at a scene's start)
+A short dashboard, per unit and for the whole company:
+```
+[Month YYYY] Patients/day · % serious · payer mix (Isapre / Fonasa / mutual / SOAP / private)
+Collections (UF) · receivables (days) · cash (UF, months of runway) · debt service due
+ICU occupancy · transfers achieved · deaths / complaints / lawsuits · staff turnover
+Projects (clocks) · threats (clocks) · the one thing that keeps him awake
+```
+
+### 9.3 Attention (the founder can't be everywhere)
+Each quarter the founder has **3 Focuses**: a unit, a project, a negotiation, the bunkers, his
+family, his own health. What he focuses on uses **his** skills and gets **+2** on its rolls.
+Everything else runs on his staff's skills (key NPCs' values) and the unit's Quality.
+- He may take a **4th Focus** by sacrificing rest: **+2 Stress** and a −3 on the quarter's
+  family roll (`campaign_turn.md` Step 5).
+- **Family is a Focus.** A quarter without it is noticed at home.
+
+### 9.4 Strategy (at each Year)
+The player sets the year's priorities in a few lines (grow or consolidate; quality or margin;
+which payers; which barrios; how much goes underground). The DM turns them into projects and
+clocks, and the world answers.
+
+### 9.5 Partners, board and investors
+Equity is power. Track each owner's **stake**, **agenda** and **Regard**. Big decisions
+(new debt, a new unit, selling, a new partner) go to a vote by stake, unless the statutes the
+player negotiated say otherwise. Partners can sell to strangers, sue, leak, or be bought out.
+
+### 9.6 Rivals
+The big clinic groups, the private rescue companies and the Isapres' own networks watch any
+newcomer: they copy, undercut, poach staff, lobby the SEREMI, or offer to buy. Real companies
+appear in their public roles; **dirty tricks belong to fictional rivals** (`config.md`).
+
+### 9.7 Typical management scenes
+The bank's credit committee · the partners' dinner that becomes a fight · poaching a head nurse
+from the Posta · the SEREMI inspector who finds the generator room "larger than declared" ·
+the Isapre's contract renewal · a union's first strike notice · the old man's lunch at the Club
+de la Unión · the competitor's buyout offer · the press call after a death · firing a friend ·
+the auditor who reads the construction invoices · choosing which barrio gets the next unit.

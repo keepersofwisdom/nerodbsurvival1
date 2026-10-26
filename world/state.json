@@ -1,41 +1,68 @@
 {
-  "phase": "pre-game: open decisions and character creation",
+  "phase": "ready to begin: founder created; arc 1 bible written; awaiting the player's 'begin'",
   "era": "I — Los Cimientos",
-  "active_character": null,
-  "date": "2005-01-01",
-  "time": null,
-  "weekday": "Saturday",
-  "location": "Santiago de Chile",
+  "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
+  "date": "2005-03-31",
+  "time": "08:10",
+  "weekday": "Thursday",
+  "location": "Santiago Centro — leaving the Posta Central after a 24-hour shift",
   "session_count": 0,
   "last_session_file": null,
-  "active_arc": null,
+  "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 0,
-    "stress": 0,
+    "fatigue": 2,
+    "stress": 5,
     "conscience": "Clear",
-    "scars": [],
-    "money_clp": null,
-    "savings_uf": null
+    "scars": ["Banda Aceh — the gymnasium of the dead"],
+    "money_clp": 3200000,
+    "savings_uf": 10500
   },
   "standing": {
-    "medicine": 0,
+    "medicine": 2,
     "business": 0,
-    "state": 0,
-    "street": 0,
-    "uniforms": 0,
+    "state": 1,
+    "street": 1,
+    "uniforms": 1,
     "old_men": 0,
     "press": 0
   },
   "network": {
-    "name": null,
+    "name": "Hora Dorada S.A. (in formation)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": null,
-    "debt_uf": null
+    "cash_uf": 14500,
+    "debt_uf": 0
   },
-  "relationships": {},
-  "flags": {},
-  "clocks": {},
-  "open_threads": []
+  "relationships": {
+    "Carolina Ríos": 4,
+    "Antonia": 5,
+    "Vicente": 5,
+    "Hernán Bastías": 3,
+    "Gladys Moreno": 4,
+    "Javiera Bastías": 3,
+    "Seba Contreras": 4,
+    "Gonzalo Rivas": 1,
+    "Pato Leiva": 3,
+    "Ximena Pizarro": 3,
+    "Arturo Godoy": -2,
+    "Tomás Salinas": 2,
+    "Mauricio Fierro": 1,
+    "Verónica Saldías": 0
+  },
+  "flags": {
+    "flagship_site_chosen": false,
+    "huelen_offer_made": false,
+    "b2_found": false,
+    "told_carolina_about_bunkers": false,
+    "left_posta": false
+  },
+  "clocks": {
+    "exposure_quilicura_drugs": "[■□□□□□]"
+  },
+  "open_threads": [
+    "Find the flagship building in the civic district",
+    "Close the money gap (~105,000–155,000 UF)",
+    "Settle the partners' equity and roles"
+  ]
 }

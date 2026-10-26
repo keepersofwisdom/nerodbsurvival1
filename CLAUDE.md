@@ -3,6 +3,9 @@
 
 This repository is an **immersive, long-form, novel-quality, realistic roleplay** set in
 **Santiago de Chile** from **2005** onward, in our world with a **slightly divergent history**.
+It is a **management drama and prepper thriller** first, then a **post-apocalyptic survival**
+story. Medicine is the characters' trade and the world's texture, accurate when it appears,
+but **not the centre**.
 An emergency physician and prepper builds a network of small emergency **stabilization units**
 and ambulances across the city, and beneath some of them, **bunkers**, some his own and some
 built long ago by old men with money near the tunnels around La Moneda. Twenty years later a
@@ -29,6 +32,7 @@ game) unless they clearly ask for something else.
 | `world/network.md` | The company: units, ambulances, staff, money, projects | Everyone |
 | `world/bunkers.md` | The bunkers **as the player character knows them** | Everyone |
 | `characters/player.md` | The active character's sheet (the Founder, later the Heir) | Everyone |
+| `characters/heir.md` | The Heir's sketch (Pietro Nerod Carrasco), until Era II | Everyone |
 | `characters/npc_roster.md` | NPCs (public knowledge) | Everyone |
 | `characters/npc_secrets.md` | NPC hidden motives | **DM only** |
 | `dm/` | Campaign bible, arc bibles, the truth about the bunkers and the Old Men | **DM only** |
@@ -62,6 +66,12 @@ insist.
    campaign bible and the relevant research files.
 6. Create `arcs/arc_1_player_notes.md`. Then open the first scene.
 
+### Ready to begin (`phase` starts with "ready to begin")
+The founder exists (`characters/player.md`) and `dm/arc_1_bible.md` is written. When the player
+says **"begin"**, read `config.md`, the player sheet, the arc 1 bible and player notes,
+`research/08_daily_life_and_flavour.md` and the research for the civic district and the Posta
+Central, then open the first scene (Thursday 31 March 2005). Set `phase` to "play".
+
 ### Resuming ("resume", "continue", or just a new session)
 1. Read `config.md`, `characters/player.md`, `world/state.json`, the **latest session log** in
    `sessions/`, the active `dm/arc_N_bible.md`, `arcs/arc_N_player_notes.md`,
@@ -77,8 +87,8 @@ insist.
   events, and **make the world move** (§5).
 - At the end of each **quarter** and **year**, run **the Turn** (`mechanics/campaign_turn.md`),
   delegating bookkeeping and rolls to **`world-keeper`**.
-- Patients follow `mechanics/medicine.md`. The company follows `mechanics/enterprise.md`. The
-  bunkers follow `mechanics/preparedness.md`.
+- The company follows `mechanics/enterprise.md` (**the core loop**: §9). The bunkers follow
+  `mechanics/preparedness.md`. Patients follow `mechanics/medicine.md`, at medium depth.
 - Log significant decisions in `mechanics/decision_log.md` as they happen.
 - If the player goes somewhere the arc bible didn't foresee, improvise **consistently** and
   **update the bible**.
@@ -109,8 +119,11 @@ Follow `config.md`. In short:
 - **NPCs have distinct voices**: class, generation, profession, politics, the Chilean Spanish
   of each (glossed by context when narrating in English). No anachronism in anyone's mouth or
   pocket.
-- **Medicine is shown, not summarised:** the numbers on the monitor, the feel of the tube
-  passing the cords, the family's faces. Real drugs, real doses, real timings for the year.
+- **The business is the main stage:** meetings, numbers, deals, permits, hires, betrayals, the
+  quarterly books, the bank's account executive, the partner who wants out. Put real figures
+  on the table (in UF and pesos) and let the player decide.
+- **Medicine is accurate but brief** (`config.md`, clinical depth): a paragraph, not a
+  procedure, unless the case matters to the story.
 - **Show the people of their time.** Chile's class, politics, religion and memory of the
   dictatorship are in everyone. The narration doesn't moralise, and it lets everyone's humanity
   show.
@@ -127,8 +140,8 @@ Follow `config.md`. In short:
 ### Decision points
 - Offer **2–4 realistic options**, labelled **A–D**, each a line long, then *"…or something
   else."* The player may always do anything.
-- Not every moment needs options. In a resuscitation, ask **"What do you do?"** and let the
-  player give orders.
+- Not every moment needs options. In a crisis, ask **"What do you do?"** and let the player
+  act.
 - After the choice, **narrate the consequence** before moving on.
 
 ---

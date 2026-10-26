@@ -1,6 +1,8 @@
 # ⚠ CAMPAIGN BIBLE — DM ONLY — DO NOT READ ⚠
 
-> **Status: PROVISIONAL DRAFT (Oct 2026), bunkers anchored to the research.** Written before the player's answers to the open
+> **Status: SETTLED for Era I (Oct 2026)** after the player's answers: management first; the
+> founder is Dr. Rodrigo Bastías; the Old Men are afraid of **nuclear war** and fund bunkers
+> beneath his clinics (the player's broad stroke); the details below are the DM's. Written before the player's answers to the open
 > decisions in `config.md`. If the player chooses to **co-design the Old Men openly** (decision
 > G), move the agreed parts to `world/lore.md` and keep only the details here. Revise §3–§6
 > after character creation and after the research files land.
@@ -33,13 +35,19 @@
 | **Era II** | 2025 → | The real present, then campaign history | The heir discovers, inherits, and is hunted for it |
 | **Era III** | TBD | The End | Survival |
 
-## 3. Secret truths (draft)
+## 3. Secret truths
 
 ### 3.1 The Old Men (*los Viejos*; among themselves, **"la Mesa"**)
 - **Origin: December 1978.** During the **Beagle crisis**, when Chile and Argentina came within
   hours of war (Operación Soberanía, 22 Dec 1978), Santiago practised blackouts and feared
   Argentine bombers. A handful of very rich, very connected men (around twelve at the start)
   decided that if the state would not shelter them, they would shelter themselves.
+- **The fear was always nuclear** (the player's broad stroke). Argentina's nuclear programme was
+  the region's most advanced; in **November 1983** it announced it had mastered uranium
+  enrichment at Pilcaniyeu [K: verify details with the `researcher`]. Add the Cold War of the
+  early 1980s, and the shelters were designed as **fallout and blast shelters**, with Swiss-style
+  filtration and a year of stores. The men still believe; they read about the bomb in the
+  *Economist* and *El Mercurio* and are not wrong to.
 - **The engineers.** They used officers and NCOs of the army's engineering arm (the **Cuerpo
   Militar del Trabajo** and the engineers working on La Moneda's reconstruction and the
   civic district's security works, 1974–1981) and the cover of the great excavations of the
@@ -57,6 +65,15 @@
 - **What they want from the founder:** someone young, competent, discreet, with a medical
   business that justifies digging, power, generators, oxygen and drug stores, and who shares
   their fear. They want **an heir**. Some want absolution. One wants him dead.
+- **Their offer (Arc 1):** through **Inversiones Huelén Ltda.** (Larrañaga's family vehicle), soft
+  money for the flagship: up to ~45,000 UF as a 15-year loan at 2% real, or preferred shares
+  without votes. **Conditions:** (1) the deep works under each unit are designed by *their*
+  engineer (Benavente) and paid by them; (2) a shelter for them and theirs beneath the flagship
+  and future units; (3) absolute secrecy, in writing and in honour; (4) a place on their list
+  for him and his family. They will not mention B1–B4, the 1990 wall, or the rooms.
+- **Why him:** Salinas has followed him since 1991; the son of the La Reina technician who
+  refused them in 1987 (Hernán); SAMU and Aceh; a man who keeps three months of food in his
+  cellar (Pato's warehouse men talk, and Fierro reports).
 
 ### 3.2 The bunkers (anchored to `research/03_underground_santiago.md`)
 **Rule:** the bunkers are invented **beside** real places, never attributed to them. Real memorial
@@ -71,7 +88,7 @@ generator room); a standalone tunnel means hundreds of spoil trucks that someone
 | Code | Beneath | Depth | Built | State in 2005 | Secret |
 |---|---|---|---|---|---|
 | **B1 "La Capilla"** | The old wing of the fictional **Clínica Tajamar** (Dr. Salinas's, founded 1962; check with the `researcher` that no real clinic bore the name), on the **Ramón Carnicer / Plaza Italia block**, between the clinic's basements and the **Metro Line 5 tunnel** under Vicuña Mackenna. Second access through a Metro emergency-exit shaft "decommissioned" in 1997 | ~18–22 m | 1979–82, disguised as a "seismic retrofit" | Sealed; dry; systems dead (Condition 6); room for ~60 for 90 days | The cleanest; the one the Old Men offer first. The Metro shaft: who at Metro signed it off? |
-| **B2 "El Archivo"** | An old office building on **Agustinas near Teatinos**, in the civic district. A gallery, walled up in 1990, leads to the 1930s vaults under the **Plaza de la Constitución** (the real SICAR vault beside the Agustinas 1220 car park) and towards the 1982 "búnker" hall | ~12–15 m | 1980–84 | Damp; papers rotting; Condition 4 | The wall of 1990, and footprints on the other side. In **2025–26** the real restoration of La Moneda's bunker hall (Pío V contract) puts contractors on the other side of that wall: **Era II hook** |
+| **B2 "El Archivo"** | The fictional **Edificio Caja Austral** (1938; 7 floors + 2 basements; once a provincial insurance fund's offices), on **Agustinas between Teatinos and Amunátegui**, a block west of the Plaza de la Constitución: **the building Fierro will push for the flagship**. Night watchman since 1990: Pincheira. A gallery, walled up in 1990, leads to the 1930s vaults under the **Plaza de la Constitución** (the real SICAR vault beside the Agustinas 1220 car park) and towards the 1982 "búnker" hall | ~12–15 m | 1980–84 | Damp; papers rotting; Condition 4 | The wall of 1990, and footprints on the other side. In **2025–26** the real restoration of La Moneda's bunker hall (Pío V contract) puts contractors on the other side of that wall: **Era II hook** |
 | **B3 "La Bodega"** | A walled warehouse in **Barrio Yungay**, with a passage reaching the finished-but-never-opened **Libertad station of Line 5** | ~10 m (station deeper) | 1984–86 | Stocked with 1980s rations, arms (FAMAE), a CNI radio; Condition 7 | **The rooms.** The Old Men lent it to the CNI in 1985–87 (fictional unit). Remains. Names scratched in plaster. The worst secret, and a real moral bomb (the Plan Nacional de Búsqueda of 2023 is looking) |
 | **B4 "La Quinta"** | A walled estate in **La Reina** at the foot of the Andes; Rehbein's private ark. Built **across the San Ramón fault trace** because the land was cheap | ~25 m | 1979–81; upgraded 1987, 1999, 2010s | Maintained; stocked; Condition 15 | Rehbein's list doesn't include the founder. Era III: the fault may shear its access shaft |
 | *Founder's own* | Inside the legal deep basements of the flagship and the units he builds (the "seventh parking level", the generator rooms, a radiotherapy vault that never gets its linac) | his choice | 2005 → | His design | What he builds, he controls; what he inherits, controls him |
@@ -85,8 +102,8 @@ Metropolitano** (ex-Militar, Holanda 060) whose MINSAL lease runs out ~2026, its
 against Costanera Center's deepest levels; the **Costanera Norte** maintenance galleries under the
 Mapocho (they flood first, as in April 2016).
 
-### 3.3 The founder's end (to be settled with decision E)
-Options, to be decided or kept secret:
+### 3.3 The founder's end (decided **in play, by the player**)
+The DM doesn't plan it. These are only the shapes it could take, to be ready:
 - **Dies** (natural, accident, or murder for the bunkers) in 2024–25, perhaps on the night of the
   **2025 blackout**, perhaps leaving letters for the heir.
 - **Disappears** (into a bunker, abroad, killed and hidden).
@@ -151,5 +168,26 @@ slowly.
 - **Mixed:** the Network survives, the founder doesn't, the heir inherits a mess.
 - **Worst:** the founder becomes one of the Old Men.
 
-## 9. Live threads (fill in after character creation)
--
+## 9. Live threads (after character creation, Oct 2026)
+1. **The Investor** (Salinas and Larrañaga via Inversiones Huelén): the money and its price.
+2. **The Wall** (B2 under the Caja Austral building on Agustinas): the gallery walled up in 1990
+   towards the Plaza de la Constitución vaults; Pincheira the night watchman.
+3. **The Rival** (Rehbein): blocks the bank and the permits from the shadows.
+4. **The Family**: Carolina wants to design the clinic, which means seeing the basements; Javiera
+   is researching the dictatorship's doctors; Hernán's 1987 refusal.
+5. **The Partners**: Seba's pills, Gonzalo's past, Pato's refurbished machines.
+Dormant until later arcs: **The Names on the Wall** (B3), **La Quinta** (B4), the journalist.
+
+## 10. The Heir: seeds (not decided; the tie is open)
+**Pietro Nerod Carrasco** (born 1997; see `characters/heir.md`). The player sketched him; the
+tie to the founder is undecided. Plant **possible** ties during Era I without committing:
+- **The crypto father.** Rich early from bitcoin (c. 2013–2017), the kind of man who buys a
+  place in a bunker (the billionaire-bunker fashion of 2017–2021). A Nerod could become one of
+  the Network's late investors or bunker clients, and that's how a son finds the door.
+- **The child on 27F (2010, Pietro aged 13).** A Network ambulance, a night in Vitacura or on a
+  holiday road, a doctor's face he remembers.
+- **The student.** UDD medical students rotate through Padre Hurtado and Clínica Alemana; a
+  Network training course, an elective, a mentor in 2019–2021.
+- **The resident.** UAndes EM residency (2022–25): the Network as a rotation site or a shift job;
+  the old founder notices the prodigy.
+Choose with the player when Era I approaches its end.

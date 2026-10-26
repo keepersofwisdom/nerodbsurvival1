@@ -55,4 +55,9 @@ plus the **fictional places** the campaign adds (filled in as they're created).
 
 | Place | Where | What it is | Since |
 |---|---|---|---|
-| | | | |
+| **The Bastías house** | Off Plaza Ñuñoa | 1950s house; the cellar | 2001 |
+| **Villa Olímpica flat** | Ñuñoa, by the Estadio Nacional | Hernán and Gladys's home | 1960s |
+| **MedSur Ltda.** | Warehouse in Quilicura; office in Providencia | Pato Leiva's medical-equipment importer | 1996 |
+| **Edificio Caja Austral** | Agustinas, between Teatinos and Amunátegui | 1938 office building, 7 floors + 2 basements; empty since 2003; for sale | 1938 |
+| **Torre Teatinos** | Teatinos, near the Alameda | 1974 office block, 9 floors, one shallow basement; for sale | 1974 |
+| **Ex-Banco Moneda** | A corner on calle Moneda, civic district | 1920s bank building with a great vault; heritage-protected; for sale | 1920s |

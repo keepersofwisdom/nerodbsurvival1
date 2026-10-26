@@ -5,15 +5,16 @@ in our world with one secret difference: beneath the city centre, old men with m
 doomsday bunkers near the tunnels around La Moneda.
 
 - **Era I — Los Cimientos (2005 → ~2025).** You play an emergency physician and prepper who
-  founds a private network of small **stabilization units** and ambulances across Santiago:
-  get the patient, stabilize, do what must be done now, transfer. Beneath it, he prepares.
-  Ordinary life for years: patients, money, permits, love, children, the city's real disasters.
+  builds and runs a private network of small **stabilization units** and ambulances across
+  Santiago: get the patient, stabilize, transfer. It's a management game first: partners,
+  banks, permits, staff, rivals, money. Beneath it, funded by frightened old men, he prepares
+  for nuclear war. Ordinary life for years: love, children, the city's real disasters.
 - **Era II — La Herencia (~2025 →).** You play a young emergency physician who discovers the
   Network's depths and keeps it going.
 - **Era III — El Fin.** The end of the world, when it comes.
 
 Claude is the Dungeon Master. It runs the world, voices everyone, rolls real dice, keeps the
-medicine and the history accurate, and remembers everything between sessions.
+history, the money and the medicine accurate, and remembers everything between sessions.
 
 > Graphic medicine and violence, explicit adult content, drugs and despair are enabled (see
 > `config.md` for the settings and the two hard lines).
@@ -22,11 +23,10 @@ medicine and the history accurate, and remembers everything between sessions.
 
 1. Open a Claude Code session in this repository. `CLAUDE.md` loads automatically and makes
    Claude the DM.
-2. Settle the **open decisions** in `config.md` (Claude will ask).
-3. Say **`begin`**. You'll build the founder together (his origin, training, why he prepares,
-   his family, his money, the first site), and the first scene opens in 2005.
-4. Play by writing what your character says and does. In a resuscitation, give orders. At
-   decision points you'll get options (A–D), but you can always do something else.
+2. The setup decisions are recorded in `config.md`; the founder is in `characters/player.md`.
+3. Say **`begin`** and the first scene opens in Santiago, March 2005.
+4. Play by writing what your character says and does. At decision points you'll get options
+   (A–D), but you can always do something else.
 5. Say **`save`** when you stop. Everything is written to files, committed and pushed. Next
    time, say **`resume`**.
 
