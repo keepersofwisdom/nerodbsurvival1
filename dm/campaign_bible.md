@@ -1,6 +1,6 @@
 # ⚠ CAMPAIGN BIBLE — DM ONLY — DO NOT READ ⚠
 
-> **Status: PROVISIONAL DRAFT (Oct 2026).** Written before the player's answers to the open
+> **Status: PROVISIONAL DRAFT (Oct 2026), bunkers anchored to the research.** Written before the player's answers to the open
 > decisions in `config.md`. If the player chooses to **co-design the Old Men openly** (decision
 > G), move the agreed parts to `world/lore.md` and keep only the details here. Revise §3–§6
 > after character creation and after the research files land.
@@ -58,14 +58,32 @@
   business that justifies digging, power, generators, oxygen and drug stores, and who shares
   their fear. They want **an heir**. Some want absolution. One wants him dead.
 
-### 3.2 The bunkers (draft list; locations to be fixed with `research/03` and `research/06`)
-| Code | Beneath | Built | State in 2005 | Secret |
-|---|---|---|---|---|
-| **B1 "La Capilla"** | A private clinic block in Providencia near Plaza Italia / the Hospital del Trabajador's streets | 1979–82 | Sealed, decaying; dry; systems dead | The cleanest; the one the Old Men offer first |
-| **B2 "El Archivo"** | Beneath an old building in the civic district, linked to the tunnels around La Moneda | 1980–84 | Partly flooded; the link to the government tunnels walled up in 1990 | Its link to the state's tunnels: who else still uses them? |
-| **B3 "La Bodega"** | Under a warehouse near Estación Central / the old railway lands | 1984–86 | Stocked with old arms and 1980s rations | The CNI rooms. Remains. Names scratched on a wall |
-| **B4 "El Cerro"** | Inside or beneath a hill (Santa Lucía, San Cristóbal or Cerro Blanco), using old works | 1979–81 | The deepest; one Old Man still maintains it privately | His personal ark: he means to use it, and he has a list that doesn't include the founder |
-| *Founder's own* | Beneath the flagship and the units he builds | 2005 → | His design | What he builds, he controls; what he inherits, controls him |
+### 3.2 The bunkers (anchored to `research/03_underground_santiago.md`)
+**Rule:** the bunkers are invented **beside** real places, never attributed to them. Real memorial
+sites (Clínica Santa Lucía, SICAR's "El Hoyo", Borgoño) stay what they are. Real hospitals
+(Hospital del Trabajador, the Posta, the Salvador) are neighbours, not owners.
+
+**Engineering truths for all of them:** Santiago's gravel is dry and stable down to the water
+table (~40–50 m in the centre), so a bunker at 15–30 m stays dry. Bunkers hide best **inside a
+legal deep excavation** (parking levels, a "seismic retrofit", a radiotherapy "búnker", a
+generator room); a standalone tunnel means hundreds of spoil trucks that someone notices.
+
+| Code | Beneath | Depth | Built | State in 2005 | Secret |
+|---|---|---|---|---|---|
+| **B1 "La Capilla"** | The old wing of the fictional **Clínica Tajamar** (Dr. Salinas's, founded 1962; check with the `researcher` that no real clinic bore the name), on the **Ramón Carnicer / Plaza Italia block**, between the clinic's basements and the **Metro Line 5 tunnel** under Vicuña Mackenna. Second access through a Metro emergency-exit shaft "decommissioned" in 1997 | ~18–22 m | 1979–82, disguised as a "seismic retrofit" | Sealed; dry; systems dead (Condition 6); room for ~60 for 90 days | The cleanest; the one the Old Men offer first. The Metro shaft: who at Metro signed it off? |
+| **B2 "El Archivo"** | An old office building on **Agustinas near Teatinos**, in the civic district. A gallery, walled up in 1990, leads to the 1930s vaults under the **Plaza de la Constitución** (the real SICAR vault beside the Agustinas 1220 car park) and towards the 1982 "búnker" hall | ~12–15 m | 1980–84 | Damp; papers rotting; Condition 4 | The wall of 1990, and footprints on the other side. In **2025–26** the real restoration of La Moneda's bunker hall (Pío V contract) puts contractors on the other side of that wall: **Era II hook** |
+| **B3 "La Bodega"** | A walled warehouse in **Barrio Yungay**, with a passage reaching the finished-but-never-opened **Libertad station of Line 5** | ~10 m (station deeper) | 1984–86 | Stocked with 1980s rations, arms (FAMAE), a CNI radio; Condition 7 | **The rooms.** The Old Men lent it to the CNI in 1985–87 (fictional unit). Remains. Names scratched in plaster. The worst secret, and a real moral bomb (the Plan Nacional de Búsqueda of 2023 is looking) |
+| **B4 "La Quinta"** | A walled estate in **La Reina** at the foot of the Andes; Rehbein's private ark. Built **across the San Ramón fault trace** because the land was cheap | ~25 m | 1979–81; upgraded 1987, 1999, 2010s | Maintained; stocked; Condition 15 | Rehbein's list doesn't include the founder. Era III: the fault may shear its access shaft |
+| *Founder's own* | Inside the legal deep basements of the flagship and the units he builds (the "seventh parking level", the generator rooms, a radiotherapy vault that never gets its linac) | his choice | 2005 → | His design | What he builds, he controls; what he inherits, controls him |
+
+**Real lifelines the Network can reach** (documented in `research/03`): the **San Borja service
+tunnels** (COSSBO: 4–7.5 km of walkable galleries, own wells and boiler plant, beside the
+Posta Central; tours open to the public in Aug 2026); the **Centenary brick sewers** (an old
+inspector's map, half of it wrong); the **Hospital del Salvador's pavilion tunnels**, vacated when
+the new hospital opens (2026; a patient escaped through them on 23 May 2026); the **Hospital
+Metropolitano** (ex-Militar, Holanda 060) whose MINSAL lease runs out ~2026, its sub-basements
+against Costanera Center's deepest levels; the **Costanera Norte** maintenance galleries under the
+Mapocho (they flood first, as in April 2016).
 
 ### 3.3 The founder's end (to be settled with decision E)
 Options, to be decided or kept secret:
@@ -108,9 +126,9 @@ Seed **all** candidates during Era I so that whichever comes was foreshadowed:
 |---|---|---|---|
 | **Don Anselmo Larrañaga Correa**, 84 | Founder of La Mesa; retired businessman (textiles, then banks); lives in a big house in Providencia with a nurse | An heir; to die with the thing safe | Lent B3 to the CNI in 1985; has never confessed it |
 | **General (R) Óscar Benavente Lillo**, 79 | Army engineer who designed the bunkers | His pension, his grandchildren, his silence | Kept the plans, all of them; keeps a pistol beside them |
-| **Dr. Tomás Salinas Echeverría**, 81 | Surgeon, founder of a Providencia clinic in the 1960s; B1 is beneath its old wing | To pass B1 to a doctor, not to his children | Signed a death certificate in 1985 that was a lie |
+| **Dr. Tomás Salinas Echeverría**, 81 | Surgeon, founder of the fictional Clínica Tajamar (1962) on the Ramón Carnicer block; B1 is beneath its old wing | To pass B1 to a doctor, not to his children | Signed a death certificate in 1985 that was a lie |
 | **Doña Pilar Ezquerra Lagos**, 76 | Widow of a member; knows everything; socialite | Money and relevance | Has been selling access to B4's owner |
-| **Gustavo Rehbein Müller**, 72 | The youngest member; industrialist (metals, then real estate) | The bunkers for himself | Will kill for B4 if he must |
+| **Gustavo Rehbein Müller**, 72 | The youngest member; industrialist (metals, then real estate); owns B4 "La Quinta" in La Reina | The bunkers for himself | Will kill for B4 if he must |
 | **Sgto. (R) Juan Carlos Pincheira**, 61 | Ex-CMT NCO who supervised the digging; now a security guard | Not to be forgotten; not to be found | Knows where the bodies are, literally |
 | **Camila Rojas**, 27 | Investigative journalist | The story of the tunnels | Her uncle is a disappeared prisoner |
 
