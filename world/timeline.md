@@ -206,3 +206,4 @@ written) history is the campaign's own.
 | 2005-04-15 | Salinas's invitation to lunch with Larrañaga at the Club de la Unión (19 Apr) | 1 |
 | 2005-04-16 | Rodrigo tells Gonzalo everything; Gonzalo's four rules on a napkin | 1 |
 | 2005-04-19 | Lunch at the Club de la Unión: Huelén offers up to 45,000 UF on four conditions | 1 |
+| 2005-04-20 | Board meeting: the offer put formally to the partners; written proposal requested | 1 |

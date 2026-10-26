@@ -230,3 +230,10 @@
   Benavente starts sketching. Rehbein irritated. Larrañaga's lever if Rodrigo stalls: refusing an
   extension of the promesa (deposit at risk if the bank fails, and the bank is being cooled by
   Rehbein).
+- **S1 (20 Apr 2005):** Board meeting. Rodrigo's Empathy on Pato FUMBLED: he reads Pato as purely
+  loyal and generous; in truth Pato is cash-tight and wants MedSur's orders for the deep works
+  (generators, filtration), and may push for the shares (with Rodrigo, 79%). Seba's "staff on the
+  list" is a real negotiating card: Larrañaga will refuse at first ("una lista no es una
+  ambulancia"), but Salinas will want to concede. Molina's lease structure is acceptable to La
+  Mesa (they can live with rent), but their annex will still try to add "derecho de acceso
+  perpetuo". The bunker Exposure clock ticks to 1 (partners + Molina).

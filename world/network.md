@@ -41,6 +41,11 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 - MedSur preferred supplier for 3 years at or below market; new equipment with manufacturer's warranty only.
 - Tag-along, drag-along, right of first refusal, 2-year non-compete, buy-out at book value on death or disability (insured).
 
+## Board minutes
+| Date | Present | Resolved |
+|---|---|---|
+| 2005-04-20 | Bastías, Leiva, Contreras, Rivas; Molina (counsel) | Noted Huelén's verbal financing offer; request a written proposal; chairman authorised to negotiate terms and report back |
+
 ## Contracts
 | Counterparty | What | Since | Value | Renewal |
 |---|---|---|---|---|

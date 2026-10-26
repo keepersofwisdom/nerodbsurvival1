@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-04-19",
-  "time": "15:40",
-  "weekday": "Tuesday",
-  "location": "Santiago Centro — the Alameda, outside the Club de la Unión",
+  "date": "2005-04-20",
+  "time": "22:20",
+  "weekday": "Wednesday",
+  "location": "Providencia — Gonzalo's office, the lift lobby",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
@@ -17,7 +17,7 @@
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 3050000,
+    "money_clp": 3040000,
     "savings_uf": 6300
   },
   "standing": {
@@ -72,19 +72,24 @@
     "salinas_invitation_received": true,
     "lunch_with_old_men_done": true,
     "old_men_know_cellar": true,
-    "botica_reaction_seen_by_larranaga": true
+    "botica_reaction_seen_by_larranaga": true,
+    "partners_told_of_huelen_offer": true,
+    "board_mandate_negotiate_huelen": true
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]",
-    "huelen_patience": "[■□□□] (Larrañaga: 'mientras no sea mucho')"
+    "huelen_patience": "[■□□□] (Larrañaga: 'mientras no sea mucho')",
+    "exposure_bunkers": "[■□□□□□] (partners and Molina know of the planned Huelén shelter)"
   },
   "open_threads": [
+    "Gonzalo, privately, at the lift: '¿Qué tienes en ese sótano, Rodrigo?' (the 'botica')",
     "Huelén's verbal offer (19 Apr): up to 45,000 UF as a 15-year loan at UF+2% or non-voting preferred shares; conditions: their retired army-engineer general designs and pays the deep works under the flagship and every future unit; a shelter beneath for them and their families; absolute discretion in writing and by word; a place on their list for Rodrigo, Carolina and the children",
     "Deed of sale for the Caja Austral due by ~13 Jun 2005 (bank financing condition); deposit 5,500 UF paid",
     "Bank committee (Verónica Saldías) in ~3 weeks: business plan, projections, works budget",
     "Larrañaga knows about the cellar ('una botica bastante completa') and saw Rodrigo flinch",
     "Who are 'nosotros'? More than two old men",
     "Rodrigo owes 4,800 UF of capital within 12 months",
-    "Carolina wants to design the clinic"
+    "Carolina wants to design the clinic",
+    "Board (20 Apr): request Huelén's written proposal; the chairman may negotiate terms and report back. Seba won't sign a shelter that leaves the staff out; Pato wants yes, fast; Gonzalo prefers the loan; Molina proposes a real long-term lease of underground storage to Huelén, subordinate to the bank's mortgage"
   ]
 }

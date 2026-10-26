@@ -44,6 +44,8 @@ he'll have to find.
   - Rodrigo committed to nothing: any money goes to the board and the lawyer; asked for it in writing. Larrañaga: "Tómese el tiempo que necesite... mientras no sea mucho. Los dos sabemos cuánto dura una promesa de compraventa."
   - Rodrigo's read: Salinas is warm and sincere, but shame or fear shows at "certificados" ("algunos no se olvidan nunca") and at "su papá"; Larrañaga weighs him like an asset. They're not fully aligned: Larrañaga cut Salinas off ("Hay cosas que hicimos que…" / "Tomás." / "…tarde y mal"). "Nosotros / nuestras familias": there are more of them.
 
+- (S1) **Board meeting (20 Apr 2005)**, partners + Molina. Seba: "Viejos con búnker... ¿Y la lista? ¿Y la Ximena, los TENS, los choferes?" He won't sign a shelter that leaves the team outside. Pato: "un regalo del cielo", yes and fast; MedSur can bring generators, tanks and air filters from Germany. Gonzalo: as money it's excellent (half the bank's cost); the problem is condition 2. A registered right over the subsoil kills the bank loan; a private paper is worth only their word. Preferred shares need 75%, and **Rodrigo + Pato = 79%**. He prefers the loan ("un acreedor se va cuando le pagas; un socio no se va nunca"). Molina: no legal figure for "a shelter for third parties"; the clean option is a **real long-term lease of underground storage to Huelén, subordinate to the bank's mortgage**, plus a commercial confidentiality clause; "lo de la lista no se escribe en ningún contrato que yo vaya a firmar". Minutes: request a written proposal; the chairman has a mandate to negotiate and report.
+
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.
 
