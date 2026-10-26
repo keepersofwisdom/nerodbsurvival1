@@ -19,7 +19,12 @@ he'll have to find.
 | Arturo Godoy | His chief at the Posta; a surgeon who despises EM | — |
 
 ## Things learned (with session numbers)
--
+- (S1) Three buildings for sale near La Moneda, viewed 31 Mar 2005 with Fierro and Gonzalo:
+  - **Torre Teatinos** (1974): 46,000 UF; asbestos ceilings, 2.40 m ceilings, small lift. All-in ≈144,000 UF.
+  - **Old bank, calle Moneda** (1920s): 44,000 UF; banking hall, skylight, great vault; heritage-protected, a year of permits, narrow street 40 m from the palace. All-in ≈121,000 UF.
+  - **Edificio Caja Austral** (1938), Agustinas between Teatinos and Amunátegui: 62,000 UF; carriage entrance to an interior courtyard (ambulance bay), stretcher-size freight lift, 3.60 m ceilings, 2 basements. All-in ≈152,000 UF. Gonzalo: "too cheap" (≈14.8 UF/m²). Seller: **Rentas Santa Elena Ltda.**, "a family estate".
+- (S1) In the Caja Austral's basement −2: a filled-in brick **arch** painted over more recently than the rest of the wall. The watchman, **Pincheira** (there "since the military left", 1990; a small castle tattooed on his forearm), went quiet and watched while Rodrigo stood in front of it.
+- (S1) Gonzalo's numbers: partners 14,500 UF + MedSur equipment credit ≈15,000 + bank 55–60% of property and works → a gap of **40,000–55,000 UF** in every option, before ~6 months of working capital.
 
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.

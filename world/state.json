@@ -1,21 +1,23 @@
 {
-  "phase": "ready to begin: founder created; arc 1 bible written; awaiting the player's 'begin'",
+  "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-03-31",
-  "time": "08:10",
-  "weekday": "Thursday",
-  "location": "Santiago Centro — leaving the Posta Central after a 24-hour shift",
+  "date": "2005-04-01",
+  "time": "08:15",
+  "weekday": "Friday",
+  "location": "Ñuñoa — the Bastías house, breakfast",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 2,
+    "fatigue": 0,
     "stress": 5,
     "conscience": "Clear",
-    "scars": ["Banda Aceh — the gymnasium of the dead"],
-    "money_clp": 3200000,
+    "scars": [
+      "Banda Aceh — the gymnasium of the dead"
+    ],
+    "money_clp": 3190000,
     "savings_uf": 10500
   },
   "standing": {
@@ -61,8 +63,11 @@
     "exposure_quilicura_drugs": "[■□□□□□]"
   },
   "open_threads": [
-    "Find the flagship building in the civic district",
-    "Close the money gap (~105,000–155,000 UF)",
-    "Settle the partners' equity and roles"
+    "Fierro wants an offer on the Caja Austral by Monday 4 Apr (another buyer claimed)",
+    "Gonzalo wants two weeks of due diligence on the building and on Rentas Santa Elena Ltda.",
+    "Partners' dinner at Seba's, Saturday 2 Apr: shares and roles",
+    "Carolina wants to see the Caja Austral on Sunday 3 Apr, and to design the clinic",
+    "Bank meeting with Verónica Saldías, Thursday 7 Apr",
+    "Close the money gap (≈40,000–55,000 UF beyond bank and partners, plus working capital)"
   ]
 }

@@ -116,6 +116,12 @@ Template:
 
 ## The street
 
+### Pincheira — night watchman, Edificio Caja Austral
+- **Age:** sixties · Wool cap, quilted vest, a thermos, Radio Cooperativa; stands very straight;
+  a small castle tattooed on his forearm.
+- **Relationship:** met at the viewing, 31 Mar 2005. Says he's been there since 1990, "since the
+  military left". **Regard: 0**
+
 ## Uniforms
 
 ## Others
