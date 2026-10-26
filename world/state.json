@@ -1,0 +1,41 @@
+{
+  "phase": "pre-game: open decisions and character creation",
+  "era": "I — Los Cimientos",
+  "active_character": null,
+  "date": "2005-01-01",
+  "time": null,
+  "weekday": "Saturday",
+  "location": "Santiago de Chile",
+  "session_count": 0,
+  "last_session_file": null,
+  "active_arc": null,
+  "character": {
+    "health": "sound",
+    "fatigue": 0,
+    "stress": 0,
+    "conscience": "Clear",
+    "scars": [],
+    "money_clp": null,
+    "savings_uf": null
+  },
+  "standing": {
+    "medicine": 0,
+    "business": 0,
+    "state": 0,
+    "street": 0,
+    "uniforms": 0,
+    "old_men": 0,
+    "press": 0
+  },
+  "network": {
+    "name": null,
+    "units": 0,
+    "ambulances": 0,
+    "cash_uf": null,
+    "debt_uf": null
+  },
+  "relationships": {},
+  "flags": {},
+  "clocks": {},
+  "open_threads": []
+}
