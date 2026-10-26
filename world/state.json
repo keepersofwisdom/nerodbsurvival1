@@ -2,22 +2,22 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-04-01",
-  "time": "08:15",
-  "weekday": "Friday",
-  "location": "Ñuñoa — the Bastías house, breakfast",
+  "date": "2005-04-04",
+  "time": "08:40",
+  "weekday": "Monday",
+  "location": "Ñuñoa — the Bastías house; Gonzalo on the phone",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
     "fatigue": 0,
-    "stress": 5,
+    "stress": 6,
     "conscience": "Clear",
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 3190000,
+    "money_clp": 3180000,
     "savings_uf": 10500
   },
   "standing": {
@@ -53,21 +53,24 @@
     "Verónica Saldías": 0
   },
   "flags": {
-    "flagship_site_chosen": false,
+    "flagship_site_chosen": true,
     "huelen_offer_made": false,
     "b2_found": false,
     "told_carolina_about_bunkers": false,
-    "left_posta": false
+    "left_posta": false,
+    "caja_austral_offer_accepted_uf": 55000,
+    "huelen_name_seen": true,
+    "carolina_saw_building": true
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]"
   },
   "open_threads": [
-    "Fierro wants an offer on the Caja Austral by Monday 4 Apr (another buyer claimed)",
-    "Gonzalo wants two weeks of due diligence on the building and on Rentas Santa Elena Ltda.",
-    "Partners' dinner at Seba's, Saturday 2 Apr: shares and roles",
-    "Carolina wants to see the Caja Austral on Sunday 3 Apr, and to design the clinic",
+    "Promesa de compraventa for the Caja Austral within 30 days (by ~4 May 2005); 10% deposit = 5,500 UF, refundable if the title study fails",
+    "Who is Inversiones Huelén Ltda.? (named in the seller's acceptance, Covarrubias, Prieto & Asociados)",
+    "Partners' pact not signed: Seba wants clinical director; Gonzalo wants +3% sweat equity and a lawyer's pact; Pato wants 5-year exclusive supply",
     "Bank meeting with Verónica Saldías, Thursday 7 Apr",
-    "Close the money gap (≈40,000–55,000 UF beyond bank and partners, plus working capital)"
+    "Carolina wants to design the clinic (her layout: ED on the ground floor, ORs on 2, ICU on 3)",
+    "Close the money gap (≈40,000–50,000 UF beyond bank and partners, plus working capital)"
   ]
 }

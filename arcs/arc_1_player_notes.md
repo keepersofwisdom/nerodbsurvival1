@@ -26,6 +26,11 @@ he'll have to find.
 - (S1) In the Caja Austral's basement −2: a filled-in brick **arch** painted over more recently than the rest of the wall. The watchman, **Pincheira** (there "since the military left", 1990; a small castle tattooed on his forearm), went quiet and watched while Rodrigo stood in front of it.
 - (S1) Gonzalo's numbers: partners 14,500 UF + MedSur equipment credit ≈15,000 + bank 55–60% of property and works → a gap of **40,000–55,000 UF** in every option, before ~6 months of working capital.
 
+- (S1) Offer of **55,000 UF** for the Caja Austral (subject to title study and bank financing; *promesa* within 30 days) was **accepted in under three days**, on a weekend. The written acceptance came from the law firm **Covarrubias, Prieto & Asociados** (El Golf), signed "por Rentas Santa Elena Ltda." and "**por encargo de Inversiones Huelén Ltda.**" (Huelén = the old name of Cerro Santa Lucía). Deposit 10% = 5,500 UF.
+- (S1) The "other buyers from Meiggs" Fierro mentioned never appeared.
+- (S1) Partners' dinner (2 Apr): Seba wants to be clinical director ("no quiero ser tu empleado"); Gonzalo wants a lawyer-drafted pact with exit and drag-along clauses, +3% for running finance full-time, and no *promesa* without a title study; Pato wants 5 years' exclusive supply, offers equipment at cost on credit (and a "reconditioned" Bird ventilator). Nothing settled.
+- (S1) Carolina's verdict on the Caja Austral: "este edificio fue hecho para esto": ED on the ground floor by the courtyard, ORs on the 2nd, ICU on the 3rd; the damp in basement −2 needs waterproofing and a groundwater study before digging deeper.
+
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.
 

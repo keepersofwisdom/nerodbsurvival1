@@ -37,6 +37,7 @@ written) history is the campaign's own.
 ### 2005 — Lagos's last year
 | Date | Event | ✔/✘ |
 |---|---|---|
+| 2005-04-02 | Pope John Paul II dies (15:37 Chile time); flags at half-mast; masses and TV specials | ✔ |
 | 2005-04 | Costanera Norte opens in stages (tunnel under the Mapocho riverbed); TAG free-flow tolls begin | |
 | 2005-05-18 | **Antuco tragedy:** 45 conscripts die in a blizzard on a forced march | |
 | 2005-06-13 | Tarapacá earthquake (M≈7.8), ≈11 dead in the north | |
@@ -191,4 +192,8 @@ written) history is the campaign's own.
 ## Part 2 — Campaign chronicle
 | Date | What happened | Session |
 |---|---|---|
-| | *(play has not begun)* | |
+| 2005-03-31 | Rodrigo views three buildings by La Moneda; notices the painted arch in the Caja Austral's basement −2 | 1 |
+| 2005-04-01 | Written offer of 55,000 UF for the Caja Austral (conditions: title study, financing) | 1 |
+| 2005-04-02 | Partners' dinner at Seba's: positions stated, nothing settled | 1 |
+| 2005-04-03 | Family visit to the Caja Austral; Sunday lunch in the Villa Olímpica; offer accepted by phone | 1 |
+| 2005-04-04 | Written acceptance names "Inversiones Huelén Ltda." | 1 |

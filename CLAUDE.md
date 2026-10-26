@@ -117,8 +117,8 @@ Follow `config.md`. In short:
   `**Providencia — the flagship, resus 2 · Tuesday 14 June 2005 · 03:40 · 4 °C, smog alert**`.
   Get the weekday, holidays and season from `python3 tools/dice.py date 2005-06-14`.
 - **NPCs have distinct voices**: class, generation, profession, politics, the Chilean Spanish
-  of each (glossed by context when narrating in English). No anachronism in anyone's mouth or
-  pocket.
+  of each. **Dialogue is written only in Chilean Spanish, never translated into English**
+  (`config.md`). No anachronism in anyone's mouth or pocket.
 - **The business is the main stage:** meetings, numbers, deals, permits, hires, betrayals, the
   quarterly books, the bank's account executive, the partner who wants out. Put real figures
   on the table (in UF and pesos) and let the player decide.

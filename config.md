@@ -33,9 +33,9 @@ Beauty and horror share the frame. Nobody is a cartoon. Money, love and fear dri
 ## Narrative voice
 - **Second person, present tense** ("The monitor alarms before you see the blood"), close on
   the active character. *(Changeable: "switch to third person" or "past tense".)*
-- **Language (decided):** narrate in **English**; **dialogue in Chilean Spanish** where it
-  matters (*po*, *cachái*, *weón*, *al tiro*, *la Posta*), glossed by context or with a short
-  English echo, so it reads naturally to an English reader.
+- **Language (decided):** narrate in **English**; **all dialogue in Chilean Spanish, with no
+  English translation** (the player's instruction, 1 Apr 2005 in play). Don't echo or gloss
+  spoken lines in English; let the narration carry tone and situation.
 - **Scene header** at each new scene: place · weekday and date · time · weather or air.
 - **Length:** usually **400–900 words** per scene beat, ending at a decision point or a natural
   pause. Resuscitations go beat by beat and may be shorter, faster; disasters may run longer.
@@ -117,7 +117,7 @@ The player has asked for **no restrictions beyond what Claude can do**: NSFW, go
 
 | # | Decision | Answer |
 |---|---|---|
-| A | Language | English narration, Chilean Spanish dialogue |
+| A | Language | English narration; dialogue only in Chilean Spanish, never translated |
 | B | Clinical depth | Medium. **Management first**, then survival; medicine accurate but not central |
 | C | The Founder | The DM designs him: **middle class**, did well early as a doctor and with a couple of investments, then did well with his small stabilization clinics |
 | — | His path | One of the first Universidad de Chile EM residents; also SAMU |

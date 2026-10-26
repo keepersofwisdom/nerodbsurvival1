@@ -201,3 +201,15 @@
   side, Era II's restoration); Benavente's plans for B1–B4; Hernán's 1987 refusal; Javiera's
   story. **The heir:** none needed yet (Pietro is 8); possibly a crypto-curious Nerod father at
   a dinner party years from now.
+
+---
+
+## 14. Play log (DM)
+- **S1 (31 Mar–4 Apr 2005):** Awareness success (secret) on the arch: he noticed the newer paint
+  and Pincheira's attention. Offer 55,000 UF: Rodrigo won, the seller's lawyer **fumbled**: the
+  acceptance letter names "Inversiones Huelén Ltda." (a slip by Larrañaga's law firm,
+  Covarrubias, Prieto & Asociados). La Mesa will be irritated at the lawyer and may move the
+  lunch invitation earlier (within the week) to control the story. Carolina's check on the
+  1938 plans failed: she didn't notice the arch. Pincheira likes the children. Javiera has
+  heard "Rentas Santa Elena". Hernán reacted to "Agustinas con Teatinos" (he knows the area
+  from 1987; he says nothing yet).
