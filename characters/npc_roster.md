@@ -85,6 +85,14 @@ Template:
 - **Looks and voice:** small, iron-grey bob, calls doctors *"mijito"* to their faces.
 - **Relationship:** worked a hundred SAMU nights with him. Not hired yet. **Regard: +3**
 
+### Gral. (R) Óscar Benavente — Huelén's engineer
+- **Born / age:** ~1926, 79 · Retired army engineer. A 1960s bungalow near the Escuela
+  Militar, Las Condes; flag by the door; a photo of himself young at a bridge in the south.
+- **Looks and voice:** upright, white stubble hair, cardigan buttoned to the throat; exact,
+  military, answers precisely; "arquitecta" once he respects you.
+- **Relationship:** met 25 May 2005; designs the works below −2. Knew Hernán Bastías from La
+  Reina ("un técnico serio"). **Regard: +1** (higher with Carolina)
+
 ## Medicine (colleagues, chiefs, rivals)
 
 ### Dr. Arturo Godoy Fuenzalida — his chief at the Posta

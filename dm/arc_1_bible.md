@@ -260,3 +260,9 @@
   confidentiality for Carolina; patience 3/4; Standing (Old Men) back to 0. Benavente will draw
   two sets for −3. If the player signs with Carolina as architect of record for −3, she's legally
   exposed (a future DOM inspection, an accident, or Javiera could trigger it).
+- **S1 (18–27 May 2005):** Signed. Larrañaga satisfied (patience reset to 1/4, Old Men standing 1).
+  Benavente met them; Carolina's eye succeeded: she saw the hatched NE zone (B2's south-west
+  wall) and disbelieved "estanque". Benavente recognised the Bastías name (seed: his 1987 ask to
+  Hernán). Pincheira phoned Gonzalo about staying on: La Mesa wants him kept (he guards the arch).
+  Pato's cash crunch: if Rodrigo sells MedSur shares to him, he pays "en cuotas" and may default.
+  Huelén's personal advance offer = a personal debt chain to Larrañaga (more leverage).

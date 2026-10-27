@@ -462,7 +462,10 @@ def main():
     argv = [a for a in argv if a != "--nolog"]
     args = p.parse_args(argv)
     args.nolog = nolog or getattr(args, "nolog", False)
-    args.func(args)
+    try:
+        args.func(args)
+    except BrokenPipeError:  # output piped into e.g. `head`
+        sys.stderr.close()
 
 
 if __name__ == "__main__":

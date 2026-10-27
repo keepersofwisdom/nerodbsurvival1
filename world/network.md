@@ -34,6 +34,7 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 | Gonzalo Rivas | CFO (salaried from opening); partner | Apr 2005 | +2 | Found the Larrañaga link; wary |
 | Patricio Leiva | Board member; preferred supplier (MedSur, 3 years) | Apr 2005 | +3 | New equipment with warranty only |
 | Andrés Molina | Company lawyer (external) | Apr 2005 | +1 | Gonzalo's classmate; bow ties |
+| Carolina Ríos Lazcano | Architect of record (Clínica Toesca) | May 2005 | +4 | Signed the confidentiality personally |
 
 ## Shareholders' pact (13 Apr 2005), key terms
 - Simple majority for ordinary decisions; **75% for a new shareholder, sale of the company, or sale of the flagship building**.
@@ -50,7 +51,7 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 | Counterparty | What | Since | Value | Renewal |
 |---|---|---|---|---|
 | Big bank (Verónica Saldías) | Loan 63,250 UF, UF+5.0%, 15y; 1st mortgage on the Caja Austral; 4 partners' guarantees; 2nd mortgage on the Ñuñoa house; equity fully paid before 1st disbursement; no third-party rights | Accepted 9 May 2005 (deeds pending) | 63,250 UF | — |
-| Inversiones Huelén (draft) | Loan 45,000 UF, UF+2.0%, 15y, 3y grace, subordinated; lease to Huelén of ≈600 m² at −3, 30y, 45 UF/month | Revised 13 May 2005 (unsigned) | 45,000 UF | — |
+| Inversiones Huelén | Loan 45,000 UF, UF+2.0%, 15y, 3y grace, subordinated (20,000 at the deed, 25,000 against works certificates); lease to Huelén of ≈600 m² at −3, 30y, 45 UF/month; confidentiality (Rodrigo, Gonzalo, Carolina personally; 2,000 UF penalty); access with 24h notice except under a declared state of exception; Huelén's engineer designs, contractor jointly chosen; first refusal on the building; future units case by case | Signed 23 May 2005 | 45,000 UF | — |
 
 ## Projects (clocks)
 | Project | Clock | Cost so far / total | Next step |

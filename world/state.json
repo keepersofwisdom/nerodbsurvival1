@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-05-17",
-  "time": "20:15",
-  "weekday": "Tuesday",
-  "location": "Ñuñoa — the Bastías house, kitchen",
+  "date": "2005-05-27",
+  "time": "19:30",
+  "weekday": "Friday",
+  "location": "Ñuñoa — the Bastías house",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
@@ -17,7 +17,7 @@
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 2880000,
+    "money_clp": 2850000,
     "savings_uf": 6300
   },
   "standing": {
@@ -26,18 +26,22 @@
     "state": 1,
     "street": 1,
     "uniforms": 1,
-    "old_men": 0,
+    "old_men": 1,
     "press": 0
   },
   "network": {
     "name": "Hora Dorada S.A. (constituted 13 Apr 2005)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": 3900,
+    "cash_uf": 3850,
     "debt_uf": 0,
     "paid_in_uf": 9700,
     "uncalled_uf_rodrigo": 4800,
-    "deposit_paid_uf": 5500
+    "deposit_paid_uf": 5500,
+    "loans_signed": {
+      "bank": "63,250 UF at UF+5.0%, 15y (disbursed at the deed)",
+      "huelen": "45,000 UF at UF+2.0%, 15y, 3y grace, subordinated; 20,000 at the deed, 25,000 against works certificates"
+    }
   },
   "relationships": {
     "Carolina Ríos": 4,
@@ -55,8 +59,9 @@
     "Mauricio Fierro": 1,
     "Verónica Saldías": 0,
     "Andrés Molina": 1,
-    "Anselmo Larrañaga": 0,
-    "Inés (Salinas's housekeeper)": 1
+    "Anselmo Larrañaga": 1,
+    "Inés (Salinas's housekeeper)": 1,
+    "Óscar Benavente": 1
   },
   "flags": {
     "flagship_site_chosen": true,
@@ -88,19 +93,27 @@
     "carolina_will_sign_mortgage": true,
     "carolina_conditions": "no more secrets; she designs the clinic and sees everything built, down to the last rebar; if they lose the house she leaves with the children to her mother's",
     "carolina_revealed_partnership": true,
-    "larranaga_knows_of_tea": true
+    "larranaga_knows_of_tea": true,
+    "huelen_signed": true,
+    "carolina_signed_confidentiality": true,
+    "met_benavente": true,
+    "carolina_spotted_existing_structure": true
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]",
-    "huelen_patience": "[■■■□]",
+    "huelen_patience": "[■□□□] (satisfied: signed)",
     "exposure_bunkers": "[■■□□□□] (partners, Molina, Carolina)",
-    "deed_deadline": "13 Jun 2005 (bank needs 4–6 weeks: decide by ~mid-May)"
+    "deed_deadline": "13 Jun 2005 (bank needs 4–6 weeks: decide by ~mid-May)",
+    "capital_4800_due": "Mon 6 Jun 2005",
+    "deed": "Thu 9 Jun 2005, notary on Huérfanos"
   },
   "open_threads": [
-    "Huelén unsigned. Larrañaga (17 May): Carolina may be architect of record for what goes to the DOM ('bodegas y recintos técnicos' at −3); the real design below −2 stays theirs; anyone who sees it signs the confidentiality personally (2,000 UF penalty). 'Me desilusiona un poco, doctor.'",
-    "Carolina: if she signs the −3 permit drawings, her name and licence cover what she can't see",
-    "Deed due 13 Jun 2005 (bank needs 4–6 weeks)",
-    "Gonzalo: Fase 1? Rodrigo's 4,800 UF (flat or MedSur)? The cellar question",
-    "What to tell Javiera about 'los Larrañaga'"
+    "Raise Rodrigo's 4,800 UF by Mon 6 Jun (flat / MedSur to Pato 'en cuotas' / Huelén personal advance / parents + consumer loan)",
+    "Deed of purchase + bank loan, Thu 9 Jun, notary on Huérfanos (Huelén's 1st tranche, 20,000 UF, at the deed)",
+    "Fase 1 or full build: decide before the works contract (July)",
+    "Keep Pincheira on as watchman when the building is theirs?",
+    "Carolina: the hatched 'ESTRUCTURA EXISTENTE — NO INTERVENIR — VER DETALLE RESERVADO' at the NE corner below −2 is not a water tank; it's exactly behind the arch",
+    "Benavente knew of Hernán ('un técnico serio')",
+    "Gonzalo still waiting about the cellar; Javiera asking about 'los Larrañaga'; Seba: 'lo de la lista no se ha terminado'"
   ]
 }

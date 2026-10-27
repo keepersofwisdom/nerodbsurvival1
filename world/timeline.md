@@ -41,7 +41,7 @@ written) history is the campaign's own.
 | 2005-04-08 | Funeral of John Paul II in Rome | ✔ |
 | 2005-04-19 | **Benedict XVI elected**; the Chilean cardinal Jorge Medina Estévez announces the *Habemus Papam* (≈12:43 Santiago time) | ✔ |
 | 2005-04 | Costanera Norte opens in stages (tunnel under the Mapocho riverbed); TAG free-flow tolls begin | |
-| 2005-05-18 | **Antuco tragedy:** 45 conscripts die in a blizzard on a forced march | |
+| 2005-05-18 | **Antuco tragedy:** 45 conscripts die in a blizzard on a forced march | ✔ |
 | 2005-06-13 | Tarapacá earthquake (M≈7.8), ≈11 dead in the north | |
 | 2005-07-01 | **AUGE/GES in force** (25 conditions); minimum wage → $127,500 | |
 | 2005-09-17 | Lagos signs the reformed constitution (Ley 20.050) | |
@@ -215,3 +215,6 @@ written) history is the campaign's own.
 | 2005-05-09 | Bank terms accepted; partners sign guarantees; Molina's counter to Huelén | 1 |
 | 2005-05-13 | Huelén's revised terms: "Bien negociado, doctor"; that night Rodrigo tells Carolina everything | 1 |
 | 2005-05-17 | Larrañaga refuses design review by Carolina; demands her personal confidentiality if she looks below −2 | 1 |
+| 2005-05-23 | Huelén loan, lease and confidentiality signed (Carolina too) | 1 |
+| 2005-05-25 | Meeting with General Benavente: the real −3; the hatched "estructura existente" | 1 |
+| 2005-05-27 | Deed set for 9 Jun; Rodrigo's 4,800 UF due 6 Jun | 1 |
