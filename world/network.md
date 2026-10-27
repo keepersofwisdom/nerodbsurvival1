@@ -49,12 +49,14 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 ## Contracts
 | Counterparty | What | Since | Value | Renewal |
 |---|---|---|---|---|
+| Big bank (Verónica Saldías) | Loan 63,250 UF, UF+5.0%, 15y; 1st mortgage on the Caja Austral; 4 partners' guarantees; 2nd mortgage on the Ñuñoa house; equity fully paid before 1st disbursement; no third-party rights | Accepted 9 May 2005 (deeds pending) | 63,250 UF | — |
+| Inversiones Huelén (draft) | Loan 45,000 UF, UF+2.0%, 15y, 3y grace, subordinated; lease to Huelén of ≈600 m² at −3, 30y, 45 UF/month | Revised 13 May 2005 (unsigned) | 45,000 UF | — |
 
 ## Projects (clocks)
 | Project | Clock | Cost so far / total | Next step |
 |---|---|---|---|
 | Find the flagship site | [■■■■] done | 5,500 deposit | Deed of sale by ~13 Jun 2005 (needs bank financing) |
-| Close the money gap | [■■□□□□] | 14,500 committed; bank approved 63,250 (conditions); MedSur ≈15,000; Huelén offer ≤45,000 | Gap ≈52,000 + ≈20,000 working capital; Fase 1 option saves ≈20,000 |
+| Close the money gap | [■■■■□□] | Partners 14,500; bank 63,250 (accepted 9 May); MedSur ≈15,000; Huelén 45,000 (revised 13 May, unsigned) | With Fase 1 + Pato's credit it closes, just; Rodrigo's 4,800 UF due before 1st disbursement; Carolina's signature |
 | Bank paperwork (appraisal, title, deed) | [□□□□] | — | 4–6 weeks; deed due 13 Jun 2005 |
 | Partners' agreement (statutes) | [■■■■] done | ≈120 UF (lawyer, notary) | Signed 13 Apr 2005 |
 | Business plan for the bank | [□□□□] | — | Gonzalo + Rodrigo; projections, works budget (Carolina?) |

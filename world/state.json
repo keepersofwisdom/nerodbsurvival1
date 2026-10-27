@@ -2,22 +2,22 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-05-05",
-  "time": "21:15",
-  "weekday": "Thursday",
-  "location": "Ñuñoa — the Bastías house, dining room",
+  "date": "2005-05-13",
+  "time": "12:00",
+  "weekday": "Friday",
+  "location": "Providencia — Gonzalo's office",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 1,
+    "fatigue": 0,
     "stress": 9,
     "conscience": "Clear",
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 2950000,
+    "money_clp": 2900000,
     "savings_uf": 6300
   },
   "standing": {
@@ -33,14 +33,14 @@
     "name": "Hora Dorada S.A. (constituted 13 Apr 2005)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": 4000,
+    "cash_uf": 3950,
     "debt_uf": 0,
     "paid_in_uf": 9700,
     "uncalled_uf_rodrigo": 4800,
     "deposit_paid_uf": 5500
   },
   "relationships": {
-    "Carolina Ríos": 4,
+    "Carolina Ríos": 3,
     "Antonia": 5,
     "Vicente": 5,
     "Hernán Bastías": 3,
@@ -51,11 +51,12 @@
     "Pato Leiva": 3,
     "Ximena Pizarro": 3,
     "Arturo Godoy": -2,
-    "Tomás Salinas": 3,
+    "Tomás Salinas": 4,
     "Mauricio Fierro": 1,
     "Verónica Saldías": 0,
     "Andrés Molina": 1,
-    "Anselmo Larrañaga": 1
+    "Anselmo Larrañaga": 1,
+    "Inés (Salinas's housekeeper)": 1
   },
   "flags": {
     "flagship_site_chosen": true,
@@ -78,22 +79,25 @@
     "bank_approved": true,
     "second_bank_declined": true,
     "huelen_term_sheet_received": true,
-    "salinas_tea_invitation": "Sat 7 May 2005, 17:00, alone"
+    "salinas_tea_invitation": "Sat 7 May 2005, 17:00, alone",
+    "bank_terms_accepted": true,
+    "huelen_revised_terms": true,
+    "salinas_tea_done": true,
+    "has_salinas_lamp": true,
+    "marriage_regime": "sociedad conyugal: Carolina must authorise the house mortgage"
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]",
-    "huelen_patience": "[■■□□]",
+    "huelen_patience": "[■■□□] (satisfied: 'Bien negociado, doctor')",
     "exposure_bunkers": "[■□□□□□] (partners and Molina know of the planned Huelén shelter)",
     "deed_deadline": "13 Jun 2005 (bank needs 4–6 weeks: decide by ~mid-May)"
   },
   "open_threads": [
-    "DECIDE (this week or next): financing structure before the 13 Jun deed",
-    "Bank (big): 63,250 UF at UF+5.0%, 15y; 1st mortgage on the building; personal guarantees of all 4 partners; 2nd mortgage on the Ñuñoa house; all committed equity paid in before first disbursement; property free of any other lien or third-party right",
-    "Huelén term sheet (3 May): up to 45,000 UF, UF+2.0%, 15y, 3y grace, subordinated; pledge over Rodrigo's shares; or non-voting preferred shares (4%, redeemable after 10y). Annex: (a) works below −2 by Huelén's engineer and contractor; (b) 50-year lease of underground premises at 1 UF/year; (c) perpetual, irrevocable access 'a toda hora'; (d) 10,000 UF confidentiality penalty; (e) right of first refusal on the building; (f) all of it to apply to future units",
-    "Gap ≈52,000 UF + ≈20,000 working capital; Gonzalo's Fase 1 (1 OR, 4 ICU beds) saves ≈20,000",
-    "Rodrigo owes 4,800 UF of capital BEFORE the first bank disbursement (flat or MedSur)",
-    "Salinas: tea at his home, Saturday 7 May, 17:00, 'solo, si no le molesta, colega'",
-    "Carolina, tonight: '¿Quién es este caballero?'; Javiera asked her who 'los Larrañaga' are",
-    "Gonzalo still waiting to hear about the cellar ('mañana te cuento')"
+    "Sign Huelén's revised paper (45,000 UF, UF+2%, no share pledge; lease 30y at 45 UF/month at −3, subordinate to the bank; access with 24h notice except under a declared constitutional state of exception; their engineer designs, contractor chosen jointly; 2,000 UF penalty; first refusal; future units case by case)",
+    "Carolina must sign the authorisation for the 2nd mortgage on the house (sociedad conyugal); she's been told 'te cuento cuando sepa bien qué es'",
+    "Gonzalo needs answers next week: Fase 1 (1 OR, 4 ICU beds)? Rodrigo's 4,800 UF: sell the Providencia flat or part of MedSur?",
+    "Bank paperwork: appraisals, deeds; deed of sale due 13 Jun 2005",
+    "Gonzalo still waiting about the cellar",
+    "Salinas: 'No todo lo que usted va a encontrar ahí abajo va a ser nuevo'; 'éramos más'; the 1985 false certificate"
   ]
 }

@@ -50,6 +50,15 @@ he'll have to find.
 - (S1) Gonzalo's table: gap ≈52,000 UF + ≈20,000 working capital; Fase 1 (1 OR, 4 ICU beds) saves ≈20,000. Deed due 13 Jun; the bank needs 4–6 weeks.
 - (S1) Salinas phoned the house (5 May): tea on Saturday at five, "solo, si no le molesta, colega". Javiera asked Carolina who "los Larrañaga" are.
 
+- (S1) **Tea at Salinas's house (Sat 7 May 2005)**, behind Av. Pedro de Valdivia. His wife **Elena**, a scrub nurse (*arsenalera*) at the Salvador (photo 1951), died of pancreatic cancer in 2001; he read the CT first and hid it from her for three weeks. Housekeeper **señora Inés**, twenty years with him; he's on anticoagulants ("control del TACO" on Monday). Salinas backed the coup "a su manera", not what it cost. On **3 Mar 1985** he operated until 06:00 by a **miner's cap lamp** (a 1971 gift from an El Teniente patient) when theatre 3's lamp failed; **he gave Rodrigo the lamp** (battery dead): "Usted me sostuvo la luz una vez. Ahora le toca a usted."
+  - **He confessed:** in 1985 he signed **a death certificate that wasn't true**, "con muy buena letra", and has carried it for twenty years. He asked Rodrigo not to ask whose. Then, unprompted and too fast: "Y no tiene nada que ver con su edificio."
+  - "**Éramos más.** Ahora quedamos pocos, y viejos, y nuestros hijos no saben nada." None of his children is a doctor.
+  - "Lo que hicimos, lo hicimos por miedo. Tarde y mal... Sea mejor que nosotros. Si le piden una lista, ponga a su gente."
+  - "Anselmo no es malo. Es ordenado. Que a veces es peor... Yo le debo más de lo que a un hombre le conviene deberle a otro."
+  - "**No todo lo que usted va a encontrar ahí abajo va a ser nuevo.**"
+- (S1) **Bank terms accepted (9 May).** Married in *sociedad conyugal*: **Carolina must authorise the second mortgage on the house.** All four partners signed personal guarantees at the notary.
+- (S1) **Huelén's revised terms (13 May)**, after Molina's counter using the bank's no-third-party-rights clause: share pledge dropped; lease of ≈600 m² at −3 for 30 years at 45 UF/month, subordinate to and disclosed to the bank; access with 24 hours' notice **except under a declared constitutional state of exception**; their engineer designs, contractor chosen jointly, Hora Dorada supervises; penalty 2,000 UF; right of first refusal stays; future units case by case. Card: "Bien negociado, doctor. Así me gusta. A.L." With Huelén + Fase 1 + Pato's credit, the money closes, just.
+
 ## Rumours heard (true or not)
 - Everyone in Santiago has heard there are tunnels under La Moneda. Nobody has seen one.
 

@@ -246,3 +246,12 @@
   (c) and (f), Larrañaga will concede (f) partially (future units "a negociar caso a caso") and
   fight for (c) as "acceso razonable con aviso"; he'll drop the share pledge only for a pledge on
   the company's future receivables or a personal word.
+- **S1 (5–13 May 2005):** Tea voiced by npc-voice (Empathy success): certificate confessed (no
+  name); "éramos más"; "no todo será nuevo"; the lie "no tiene nada que ver con su edificio"
+  (B2 holds the 1985–87 ledger). Rodrigo didn't mention the share pledge, so Salinas didn't
+  intervene; Larrañaga conceded anyway (renegotiation: Rodrigo won, Larrañaga failed). New canon:
+  Elena, Inés, the TACO, the El Teniente lamp, the 1964 team photo (Arancibia dead; Fuenzalida
+  exiled to Caracas 1974). The **state-of-exception access clause** is a seed: La Mesa will use
+  it on 27F (2010) and in 18-O (2019) and COVID (2020). Benavente now designs −3 (the lease
+  premises) and plans the "accidental" break into B2 from −3's excavation (Sep–Oct 2005).
+  Carolina's Regard 3 after the deferral; her signature scene is next.

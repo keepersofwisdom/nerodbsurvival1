@@ -101,7 +101,14 @@ Template:
   everyone *"colega"*.
 - **Relationship:** remembered Rodrigo; wrote him a recommendation for the residency because of
   the **1991 blackout in the Salvador's theatre** (the student with the torch who asked about the
-  diesel). Hosted the lunch at the Club de la Unión, 19 Apr 2005. **Regard: +3**
+  diesel). Hosted the lunch at the Club de la Unión, 19 Apr 2005. Tea at his house (7 May): widower
+  (Elena, scrub nurse, d. 2001); on anticoagulants; gave Rodrigo his 1985 miner's cap lamp; told
+  him of a false death certificate he signed in 1985. **Regard: +4**
+- **Home:** a 1940s ochre house with a lemon tree behind Av. Pedro de Valdivia, Providencia.
+
+### Señora Inés — Salinas's housekeeper and nurse
+- **Age:** sixties · Twenty years with him; white apron over a dark cardigan; remembers his
+  appointments for him. "Vuelva, doctor. Le hace bien." **Regard: +1**
 
 ## Money and power
 
