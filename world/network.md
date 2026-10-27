@@ -54,7 +54,8 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 | Project | Clock | Cost so far / total | Next step |
 |---|---|---|---|
 | Find the flagship site | [■■■■] done | 5,500 deposit | Deed of sale by ~13 Jun 2005 (needs bank financing) |
-| Close the money gap | [■□□□□□] | 14,500 committed / ~152,000 UF all-in | Bank committee (3–4 weeks); ≈40,000–50,000 UF still missing |
+| Close the money gap | [■■□□□□] | 14,500 committed; bank approved 63,250 (conditions); MedSur ≈15,000; Huelén offer ≤45,000 | Gap ≈52,000 + ≈20,000 working capital; Fase 1 option saves ≈20,000 |
+| Bank paperwork (appraisal, title, deed) | [□□□□] | — | 4–6 weeks; deed due 13 Jun 2005 |
 | Partners' agreement (statutes) | [■■■■] done | ≈120 UF (lawyer, notary) | Signed 13 Apr 2005 |
 | Business plan for the bank | [□□□□] | — | Gonzalo + Rodrigo; projections, works budget (Carolina?) |
 
@@ -66,3 +67,4 @@ Standing: Medicine +2 · Business 0 · State +1 · Street +1 · Uniforms +1 · T
 | Quarter | Revenue | Costs | Result | Cash | Debt | Notes |
 |---|---|---|---|---|---|---|
 | Q2 2005 (to 15 Apr) | 0 | ≈150 (lawyer, notary, constitution) | −150 | ≈4,050 | 0 | Deposit 5,500 UF on the Caja Austral |
+| Q2 2005 (to 5 May) | 0 | ≈50 (works estimate, courier, plan) | −50 | ≈4,000 | 0 | Bank approval in hand |

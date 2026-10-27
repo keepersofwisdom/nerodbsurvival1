@@ -2,22 +2,22 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-04-20",
-  "time": "22:20",
-  "weekday": "Wednesday",
-  "location": "Providencia — Gonzalo's office, the lift lobby",
+  "date": "2005-05-05",
+  "time": "21:15",
+  "weekday": "Thursday",
+  "location": "Ñuñoa — the Bastías house, dining room",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
   "character": {
     "health": "sound",
-    "fatigue": 0,
-    "stress": 8,
+    "fatigue": 1,
+    "stress": 9,
     "conscience": "Clear",
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 3040000,
+    "money_clp": 2950000,
     "savings_uf": 6300
   },
   "standing": {
@@ -33,7 +33,7 @@
     "name": "Hora Dorada S.A. (constituted 13 Apr 2005)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": 4050,
+    "cash_uf": 4000,
     "debt_uf": 0,
     "paid_in_uf": 9700,
     "uncalled_uf_rodrigo": 4800,
@@ -74,22 +74,26 @@
     "old_men_know_cellar": true,
     "botica_reaction_seen_by_larranaga": true,
     "partners_told_of_huelen_offer": true,
-    "board_mandate_negotiate_huelen": true
+    "board_mandate_negotiate_huelen": true,
+    "bank_approved": true,
+    "second_bank_declined": true,
+    "huelen_term_sheet_received": true,
+    "salinas_tea_invitation": "Sat 7 May 2005, 17:00, alone"
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]",
-    "huelen_patience": "[■□□□] (Larrañaga: 'mientras no sea mucho')",
-    "exposure_bunkers": "[■□□□□□] (partners and Molina know of the planned Huelén shelter)"
+    "huelen_patience": "[■■□□]",
+    "exposure_bunkers": "[■□□□□□] (partners and Molina know of the planned Huelén shelter)",
+    "deed_deadline": "13 Jun 2005 (bank needs 4–6 weeks: decide by ~mid-May)"
   },
   "open_threads": [
-    "Gonzalo, privately, at the lift: '¿Qué tienes en ese sótano, Rodrigo?' (the 'botica')",
-    "Huelén's verbal offer (19 Apr): up to 45,000 UF as a 15-year loan at UF+2% or non-voting preferred shares; conditions: their retired army-engineer general designs and pays the deep works under the flagship and every future unit; a shelter beneath for them and their families; absolute discretion in writing and by word; a place on their list for Rodrigo, Carolina and the children",
-    "Deed of sale for the Caja Austral due by ~13 Jun 2005 (bank financing condition); deposit 5,500 UF paid",
-    "Bank committee (Verónica Saldías) in ~3 weeks: business plan, projections, works budget",
-    "Larrañaga knows about the cellar ('una botica bastante completa') and saw Rodrigo flinch",
-    "Who are 'nosotros'? More than two old men",
-    "Rodrigo owes 4,800 UF of capital within 12 months",
-    "Carolina wants to design the clinic",
-    "Board (20 Apr): request Huelén's written proposal; the chairman may negotiate terms and report back. Seba won't sign a shelter that leaves the staff out; Pato wants yes, fast; Gonzalo prefers the loan; Molina proposes a real long-term lease of underground storage to Huelén, subordinate to the bank's mortgage"
+    "DECIDE (this week or next): financing structure before the 13 Jun deed",
+    "Bank (big): 63,250 UF at UF+5.0%, 15y; 1st mortgage on the building; personal guarantees of all 4 partners; 2nd mortgage on the Ñuñoa house; all committed equity paid in before first disbursement; property free of any other lien or third-party right",
+    "Huelén term sheet (3 May): up to 45,000 UF, UF+2.0%, 15y, 3y grace, subordinated; pledge over Rodrigo's shares; or non-voting preferred shares (4%, redeemable after 10y). Annex: (a) works below −2 by Huelén's engineer and contractor; (b) 50-year lease of underground premises at 1 UF/year; (c) perpetual, irrevocable access 'a toda hora'; (d) 10,000 UF confidentiality penalty; (e) right of first refusal on the building; (f) all of it to apply to future units",
+    "Gap ≈52,000 UF + ≈20,000 working capital; Gonzalo's Fase 1 (1 OR, 4 ICU beds) saves ≈20,000",
+    "Rodrigo owes 4,800 UF of capital BEFORE the first bank disbursement (flat or MedSur)",
+    "Salinas: tea at his home, Saturday 7 May, 17:00, 'solo, si no le molesta, colega'",
+    "Carolina, tonight: '¿Quién es este caballero?'; Javiera asked her who 'los Larrañaga' are",
+    "Gonzalo still waiting to hear about the cellar ('mañana te cuento')"
   ]
 }

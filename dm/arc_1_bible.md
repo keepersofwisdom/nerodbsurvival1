@@ -237,3 +237,12 @@
   ambulancia"), but Salinas will want to concede. Molina's lease structure is acceptable to La
   Mesa (they can live with rent), but their annex will still try to add "derecho de acceso
   perpetuo". The bunker Exposure clock ticks to 1 (partners + Molina).
+- **S1 (21 Apr–5 May 2005):** Big bank: both succeeded, committee narrowly higher → 55% with the
+  house (Rehbein's 'advice' showed as harder terms; Verónica hinted). Second bank declined.
+  Huelén's term sheet sent (annex = the trap; Molina caught it). Salinas's private call moved to
+  5 May (tea Sat 7 May, alone): he will talk about medicine, the 1985 earthquake, his dead wife,
+  and the "certificados", and come close to confessing without naming B3; he wants Rodrigo to
+  accept and to be "mejor que nosotros". Larrañaga's patience clock at 2/4. If Rodrigo strikes
+  (c) and (f), Larrañaga will concede (f) partially (future units "a negociar caso a caso") and
+  fight for (c) as "acceso razonable con aviso"; he'll drop the share pledge only for a pledge on
+  the company's future receivables or a personal word.

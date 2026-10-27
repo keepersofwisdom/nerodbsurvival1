@@ -207,3 +207,7 @@ written) history is the campaign's own.
 | 2005-04-16 | Rodrigo tells Gonzalo everything; Gonzalo's four rules on a napkin | 1 |
 | 2005-04-19 | Lunch at the Club de la Unión: Huelén offers up to 45,000 UF on four conditions | 1 |
 | 2005-04-20 | Board meeting: the offer put formally to the partners; written proposal requested | 1 |
+| 2005-04-28 | Business plan delivered to the big bank; copy to a mid-sized bank | 1 |
+| 2005-05-02 | Mid-sized bank declines ("sin historial") | 1 |
+| 2005-05-03 | Huelén's written term sheet with the "Anexo de Condiciones Especiales" | 1 |
+| 2005-05-05 | Big bank approves 63,250 UF on hard conditions; Salinas invites Rodrigo to tea, alone | 1 |
