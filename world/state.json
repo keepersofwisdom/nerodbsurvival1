@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "I — Los Cimientos",
   "active_character": "Dr. Rodrigo Andrés Bastías Moreno",
-  "date": "2005-05-13",
-  "time": "12:00",
-  "weekday": "Friday",
-  "location": "Providencia — Gonzalo's office",
+  "date": "2005-05-17",
+  "time": "20:15",
+  "weekday": "Tuesday",
+  "location": "Ñuñoa — the Bastías house, kitchen",
   "session_count": 0,
   "last_session_file": null,
   "active_arc": "arc_1 — La Primera Piedra",
@@ -17,7 +17,7 @@
     "scars": [
       "Banda Aceh — the gymnasium of the dead"
     ],
-    "money_clp": 2900000,
+    "money_clp": 2880000,
     "savings_uf": 6300
   },
   "standing": {
@@ -26,21 +26,21 @@
     "state": 1,
     "street": 1,
     "uniforms": 1,
-    "old_men": 1,
+    "old_men": 0,
     "press": 0
   },
   "network": {
     "name": "Hora Dorada S.A. (constituted 13 Apr 2005)",
     "units": 0,
     "ambulances": 0,
-    "cash_uf": 3950,
+    "cash_uf": 3900,
     "debt_uf": 0,
     "paid_in_uf": 9700,
     "uncalled_uf_rodrigo": 4800,
     "deposit_paid_uf": 5500
   },
   "relationships": {
-    "Carolina Ríos": 3,
+    "Carolina Ríos": 4,
     "Antonia": 5,
     "Vicente": 5,
     "Hernán Bastías": 3,
@@ -55,14 +55,14 @@
     "Mauricio Fierro": 1,
     "Verónica Saldías": 0,
     "Andrés Molina": 1,
-    "Anselmo Larrañaga": 1,
+    "Anselmo Larrañaga": 0,
     "Inés (Salinas's housekeeper)": 1
   },
   "flags": {
     "flagship_site_chosen": true,
     "huelen_offer_made": true,
     "b2_found": false,
-    "told_carolina_about_bunkers": false,
+    "told_carolina_about_bunkers": true,
     "left_posta": false,
     "caja_austral_offer_accepted_uf": 55000,
     "huelen_name_seen": true,
@@ -84,20 +84,23 @@
     "huelen_revised_terms": true,
     "salinas_tea_done": true,
     "has_salinas_lamp": true,
-    "marriage_regime": "sociedad conyugal: Carolina must authorise the house mortgage"
+    "marriage_regime": "sociedad conyugal: Carolina must authorise the house mortgage",
+    "carolina_will_sign_mortgage": true,
+    "carolina_conditions": "no more secrets; she designs the clinic and sees everything built, down to the last rebar; if they lose the house she leaves with the children to her mother's",
+    "carolina_revealed_partnership": true,
+    "larranaga_knows_of_tea": true
   },
   "clocks": {
     "exposure_quilicura_drugs": "[■□□□□□]",
-    "huelen_patience": "[■■□□] (satisfied: 'Bien negociado, doctor')",
-    "exposure_bunkers": "[■□□□□□] (partners and Molina know of the planned Huelén shelter)",
+    "huelen_patience": "[■■■□]",
+    "exposure_bunkers": "[■■□□□□] (partners, Molina, Carolina)",
     "deed_deadline": "13 Jun 2005 (bank needs 4–6 weeks: decide by ~mid-May)"
   },
   "open_threads": [
-    "Sign Huelén's revised paper (45,000 UF, UF+2%, no share pledge; lease 30y at 45 UF/month at −3, subordinate to the bank; access with 24h notice except under a declared constitutional state of exception; their engineer designs, contractor chosen jointly; 2,000 UF penalty; first refusal; future units case by case)",
-    "Carolina must sign the authorisation for the 2nd mortgage on the house (sociedad conyugal); she's been told 'te cuento cuando sepa bien qué es'",
-    "Gonzalo needs answers next week: Fase 1 (1 OR, 4 ICU beds)? Rodrigo's 4,800 UF: sell the Providencia flat or part of MedSur?",
-    "Bank paperwork: appraisals, deeds; deed of sale due 13 Jun 2005",
-    "Gonzalo still waiting about the cellar",
-    "Salinas: 'No todo lo que usted va a encontrar ahí abajo va a ser nuevo'; 'éramos más'; the 1985 false certificate"
+    "Huelén unsigned. Larrañaga (17 May): Carolina may be architect of record for what goes to the DOM ('bodegas y recintos técnicos' at −3); the real design below −2 stays theirs; anyone who sees it signs the confidentiality personally (2,000 UF penalty). 'Me desilusiona un poco, doctor.'",
+    "Carolina: if she signs the −3 permit drawings, her name and licence cover what she can't see",
+    "Deed due 13 Jun 2005 (bank needs 4–6 weeks)",
+    "Gonzalo: Fase 1? Rodrigo's 4,800 UF (flat or MedSur)? The cellar question",
+    "What to tell Javiera about 'los Larrañaga'"
   ]
 }

@@ -27,7 +27,9 @@ Template:
   seismic codes and DOM permit offices better than most doctors.
 - **Relationship:** married Dec 1997. They're good together and tired. She thinks the cellar is
   a harmless obsession inherited from his father, and she wants to design his clinic.
-  **Regard: +4**
+  Told everything on 13 May 2005; will sign the house mortgage on her conditions (no more
+  secrets; she designs and sees everything built; if they lose the house she leaves with the
+  children). Turned down a partnership at her firm in 2004. **Regard: +4**
 - **Status (31 Mar 2005):** at work in Providencia; worried about the money.
 
 ### Antonia Bastías Ríos — daughter

@@ -255,3 +255,8 @@
   it on 27F (2010) and in 18-O (2019) and COVID (2020). Benavente now designs −3 (the lease
   premises) and plans the "accidental" break into B2 from −3's excavation (Sep–Oct 2005).
   Carolina's Regard 3 after the deferral; her signature scene is next.
+- **S1 (13–17 May 2005):** Carolina told everything (success): conditions recorded; her secret
+  revealed. Architect push FUMBLED (both failed): no review rights; Larrañaga adds personal
+  confidentiality for Carolina; patience 3/4; Standing (Old Men) back to 0. Benavente will draw
+  two sets for −3. If the player signs with Carolina as architect of record for −3, she's legally
+  exposed (a future DOM inspection, an accident, or Javiera could trigger it).

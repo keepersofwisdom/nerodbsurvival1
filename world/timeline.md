@@ -213,4 +213,5 @@ written) history is the campaign's own.
 | 2005-05-05 | Big bank approves 63,250 UF on hard conditions; Salinas invites Rodrigo to tea, alone | 1 |
 | 2005-05-07 | Tea at Salinas's: the lamp; the 1985 certificate; "no todo lo que va a encontrar ahí abajo va a ser nuevo" | 1 |
 | 2005-05-09 | Bank terms accepted; partners sign guarantees; Molina's counter to Huelén | 1 |
-| 2005-05-13 | Huelén's revised terms: "Bien negociado, doctor" | 1 |
+| 2005-05-13 | Huelén's revised terms: "Bien negociado, doctor"; that night Rodrigo tells Carolina everything | 1 |
+| 2005-05-17 | Larrañaga refuses design review by Carolina; demands her personal confidentiality if she looks below −2 | 1 |
