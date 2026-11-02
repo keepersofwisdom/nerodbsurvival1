@@ -3,9 +3,9 @@
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
-  "time": "17:02",
+  "time": "17:15",
   "weekday": "Tuesday",
-  "location": "Providencia — Hospital del Trabajador, ED corridor",
+  "location": "Providencia — Hospital del Trabajador, ambulance bay",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -54,7 +54,9 @@
     "heard_of_refugio": true,
     "saw_la_capilla": true,
     "saw_the_list_2012": true,
-    "icu_on_refuge_battery": true
+    "icu_on_refuge_battery": true,
+    "told_marcela_everything": true,
+    "video_viral_riders": true
   },
   "clocks": {
     "refuge_battery": "≈91% at 16:20 (critical-care room circuit only)",
@@ -62,13 +64,13 @@
     "jhonatan": "In theatre 2 at 16:58 (Dr. Ignacio Bustos, laparotomy). Outcome rolled: CRITICAL (full recovery + something good) — reveal later tonight"
   },
   "open_threads": [
-    "Marcela: '¿Cómo tenían luz en la sala crítica? ¿Qué hicieron?' — what to tell her about La Capilla and the list",
-    "Jhonatan's daughter Valentina (4) is with a neighbour; someone must reach her",
-    "Plaza Italia unit: Benjamín + Aravena with bed 1 (Pietro's transport vent, ~3 h) and bed 2; the refuge open; the transfer switch dead",
-    "La Capilla is open: the list (2012, 318 names; Marcela, Daniela, Aravena on it), 'Simulacro trimestral. No olvidar. — R.B.', the chained Metro L5 door, the German-labelled filtration unit",
-    "Aravena: 'Abajo, en el refugio del doctor Bastías, hay un banco de baterías que pusimos el diecinueve... Yo sé dónde está la llave'",
-    "Kairós: casona de Bustamante tomorrow 08:00 with Josefina; Kostas wrote to Marcela directly (lunch Thursday); Marcela's 'amigo': the fund will sell Plaza Italia",
-    "Marcela's conflict of interest at the Hospital del Trabajador"
+    "Plaza Italia unit: beds 1 (transport vent ~2 h 50 at 17:15) and 2 to move to the HT when it has beds; Aravena shut the green door",
+    "Valentina (4), Jhonatan's daughter, with a neighbour; nobody has called",
+    "Marcela: 'Esta noche, cuando esto se calme, bajamos los dos.' Asked Pietro to tell no one yet (not Daniela, Cristóbal or his father)",
+    "Toño (via Marcela): the refuge was 'from before', Rodrigo 'found it'",
+    "Kostas's lunch with Marcela on Thursday 27 Feb ('¿te contó?')",
+    "The viral video: 'El doctor que salvó al repartidor en el apagón'",
+    "San José asks for anyone to come in tonight"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",

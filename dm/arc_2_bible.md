@@ -176,3 +176,9 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   riders' WhatsApp groups ("el doctor del apagón"); the riders, thousands of them, become a
   goodwill network for Kairós (a motorcycle first-responder idea, reborn). Reveal tonight. Marcela's
   question about the light is the first test of what Pietro shares.
+- **S2 (17:03–17:15):** Pietro told Marcela everything. Her reaction: grief (Seba, the list),
+  then calculation; she asked for silence until they go down together. Reciprocation roll 13: she
+  did NOT admit her direct talks with Cáceres (still "un amigo"); the flicker on her face was
+  that. Her secret (1) remains live; she now knows the unit's sale includes B1, which raises her
+  stake in hiding her Cáceres channel AND in getting Kostas's money fast. Kostas's message
+  confirms the Thursday lunch with Marcela that Pietro hadn't been told about directly.

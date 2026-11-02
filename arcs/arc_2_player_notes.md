@@ -30,6 +30,9 @@ the network that invented the model, is being cut by the fund that owns it.
   - a card: "Simulacro trimestral. No olvidar. — R.B.";
   - the side room: a battery bank and inverter wired by an orange cable to the critical-care room (2019), kept on float charge. At 91% it powered the critical-care room through the blackout.
 
+- (S2) **Told Marcela everything** (17:03). She knew the shelter as "el refugio sísmico": quarterly Saturday drills with torches, Rodrigo timing them, Toño joking that the back door led to Line 5 "a La Florida". **Seba and Ximena typed the list** the night after 27F; Seba put her son Lucas (then 3) on it. Toño used to say the refuge was "de antes", that Rodrigo found it rather than built it. Marcela: "Si el fondo vende esa unidad, vende lo que hay abajo... apuesto a que el Cáceres no tiene idea." She asked Pietro to tell **no one** yet (not Daniela, not Cristóbal, not his father) until the two of them go down together tonight.
+- (S2) A video of the sidewalk transfer is circulating in the delivery riders' WhatsApp groups: "El doctor que salvó al repartidor en el apagón".
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.
