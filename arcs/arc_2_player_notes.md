@@ -9,11 +9,13 @@ the network that invented the model, is being cut by the fund that owns it.
 ## People
 | Name | Who he thinks they are | What he owes them / they owe him |
 |---|---|---|
-| Marcela Riquelme | Teacher, chief, partner (30%); ten years at Hora Dorada | Half the project is hers |
-| Daniela Fuentes | HT nurse supervisor, partner (5%) | |
-| Cristóbal Henríquez | Anaesthetist, friend, partner (5%) | |
+| Marcela Riquelme | Teacher, chief, partner (26.1%; CEO and medical director, 5 years); ten years at Hora Dorada | Half the project is hers |
+| Daniela Fuentes | HT nurse supervisor, partner (4.4%) | |
+| Cristóbal Henríquez | Anaesthetist, friend, partner (4.4%) | |
 | Josefina Ureta | The architect; once Carolina Ríos's associate | |
-| Kostas Nerod | His father; the possible investor | Money, with strings |
+| Kostas Nerod | His father; investor, 39% of Kairós (45,000 UF) | Money, with strings |
+| Rodrigo Bastías | The founder, in Seattle; 26% of Hora Dorada | He'll call back after talking to Carolina |
+| Gustavo Rehbein | 92; the last of La Mesa; La Quinta, La Reina | An offer on the table |
 
 ## Things learned (with session numbers)
 - (S2) 25 Feb 2025: Marcela: the Bustamante casona visit tomorrow at 08:00 with Josefina; Kostas Nerod wrote to **her**, not to Pietro, to propose lunch on Thursday; "un amigo" told her the fund will sell the **Plaza Italia unit**, quietly for now.

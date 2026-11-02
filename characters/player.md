@@ -96,8 +96,8 @@ still marked **[confirm]** are minor and can be adjusted in play.*
 | **Fighting** | 2 | Engineering, Radio, Firearms, Stealth | 0 |
 
 ## Condition
-- **Health:** sound · **Fatigue:** — · **Stress:** 4 (end of residency, the exams) ·
-  **Conscience:** Clear · **Scars:** none yet.
+- **Health:** sound · **Fatigue:** — · **Stress:** 8 (31 Mar 2025: the blackout, the deal, two
+  jobs, a secret kept from his parents; no holiday) · **Conscience:** Clear · **Scars:** none yet.
 
 ## Standing (−5…+5)
 | Medicine | Business | State | Street | Uniforms | The Old Men | Press |
@@ -109,6 +109,9 @@ still marked **[confirm]** are minor and can be adjusted in play.*
   **2 BTC** his father gave him when he qualified (≈ US$190,000 in early 2025, and it moves every
   day). He pretends not to need his father's money; the project may need it.
 - **Car:** a grey Mini Cooper **[confirm]**.
+- **31 Mar 2025:** the 2 BTC ≈ US$164,000 (≈ $155 M CLP; −14% on the quarter). 26.1% of Kairós
+  (his ≈857 UF of the January capital call paid). Personal guarantee, with the partners, on the
+  second bank's 24,000 UF loan.
 
 ## What he knows at the start of Era II
 - Hora Dorada and the *protocolo Hora Dorada*: in his training, in Marcela's stories, in his own
@@ -120,4 +123,7 @@ still marked **[confirm]** are minor and can be adjusted in play.*
 ## Arc tracking
 - **Starting state:**
 - **Key moments:**
-- **Current state:**
+- **Key moments (Mar 2025):** La Capilla on the blackout night; the key; Kairós buys the Plaza
+  Italia unit with his father's money; the call to Rodrigo Bastías; tea with Gustavo Rehbein.
+- **Current state:** the keeper of La Capilla, and the first person in eighteen years to ask the
+  old men a straight question.

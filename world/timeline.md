@@ -246,6 +246,8 @@ written) history is the campaign's own.
 | 2025-03-27 | Federico's lease draft; Annex A hides the 1981 plan of La Capilla (B-1, O.B.L.) | 2 |
 | 2025-03-28 | Kostas invests 45,000 UF for 39%; second bank commits 24,000 UF | 2 |
 | 2025-03-29 | Sworn statement; promesa de compraventa for the Plaza Italia unit (49,000 UF; deed by 30 Apr) | 2 |
+| 2025-03-29 | Pietro calls Rodrigo Bastías in Seattle: La Mesa, Benavente (O.B.L.), B-2 under Toesca, the empty B-3/B-4 folders | 2 |
+| 2025-03-30 | Tea with Gustavo Rehbein (92) at La Quinta, La Reina: "Porque yo la pagué"; B-4 on the San Ramón fault; his offer | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

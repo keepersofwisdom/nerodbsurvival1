@@ -22,12 +22,18 @@ Template:
 ## Pietro's family *(draft, to confirm with the player)*
 ### Kostas Nerod — his father
 - **Age:** 59 · Greek-Chilean; industrial engineer; bitcoin since 2013; a crypto investment
-  boutique in El Golf; La Dehesa. Generous, brash, controlling. **Regard: +2** · **Pietro knows:** yes
+  boutique in El Golf; La Dehesa. Generous, brash, controlling. **Regard: +3** (39% of Kairós) · **Pietro knows:** yes
 
 ### Francisca Carrasco — his mother
 - **Age:** 56 · Psychologist; old Catholic Santiago family; warm, perceptive. **Regard: +4**
 
 ### Sofía Nerod Carrasco (31, lawyer, New York) · Matías Nerod Carrasco (24, works with their father; Kairós board observer for Kostas from Mar 2025)
+
+### Dr. Martín Aguilera Rivas — internist, Hospital San José
+- **Age:** 32 · From Concepción; tall, a beard he keeps forgetting to trim, a laugh you hear down
+  the corridor; reads novels on night shifts. Mid-March 2025, after a night shift, a coffee on
+  Av. Independencia became a breakfast that lasted until noon. Numbers exchanged. **Regard: +2** ·
+  **Pietro knows:** yes
 
 ## The venture (Kairós)
 ### Dra. Marcela Riquelme Soto — his former residency chief; his partner
@@ -44,11 +50,11 @@ Template:
 - **Relationship:** taught him; trusts him; needs him (and, she won't say, his family's money).
   Wants to build again what Rodrigo built, **without a fund**. **Regard: +4** · **Pietro knows:** yes
 
-### EU Daniela Fuentes Arancibia — partner (5%), chief nurse
+### EU Daniela Fuentes Arancibia — partner (4.4%), chief nurse
 - **Age:** 41 · Nurse supervisor at the Hospital del Trabajador; worked at Hora Dorada 2009–2014;
   Puente Alto; two kids; precise, unflappable. **Regard: +3**
 
-### Dr. Cristóbal Henríquez Mella — partner (5%), anaesthetist
+### Dr. Cristóbal Henríquez Mella — partner (4.4%), anaesthetist
 - **Age:** 38 · Anaesthetist at the HT and a private clinic; surfs at Pichilemu on weekends;
   Pietro's friend from the HT's night theatre. **Regard: +3**
 
@@ -59,7 +65,7 @@ Template:
 ## Hora Dorada, 2025
 ### Nelson Aravena — TENS, Unidad Plaza Italia
 - **Age:** ≈60 · Grey stubble; a faded Hora Dorada logo; knows Marcela from the old days; knows
-  where the key is. **Regard: +1** · **Pietro knows:** since 25 Feb 2025
+  where the key is. **Regard: +3** · **Pietro knows:** since 25 Feb 2025
 
 ### Dr. Ignacio Bustos — general surgeon on call, Hospital del Trabajador
 - **Age:** 45 · Calm, quick hands, few words; "Buen drenaje." **Regard: +1**
@@ -70,7 +76,7 @@ Template:
 
 ### Dr. Benjamín Soto — night doctor, Unidad Plaza Italia
 - **Age:** 26 · A general physician in his first months; glasses on his forehead; frightened and
-  honest. **Regard: +1**
+  honest. **Regard: +1** · Saw La Capilla's door on the blackout night (and, by March, talked).
 ### Felipe Cáceres — CEO of Hora Dorada (since March 2023)
 - **Age:** 44 · Ex-strategy consultant appointed by Andes Health Partners; navy suit, white
   sneakers, an Apple Watch; *"seamos eficientes"*. Gave Kairós 30 days' exclusivity on the Plaza
@@ -97,7 +103,7 @@ Template:
 - **Age:** 59 · Tall, silver hair worn a little long, cashmere in the heat; the soft perfect
   Spanish of German-Chilean Las Condes; a grey Audi. Kostas's partner in a Vitacura project.
   Inspected the Plaza Italia unit (18 Mar 2025). Offered to buy the building and lease it to
-  Kairós. His father (92) "knew Professor Salinas" and wants to meet Pietro. **Regard: 0** ·
+  Kairós. His father (92) "knew Professor Salinas" and wants to meet Pietro. **Regard: −1** ·
   **Pietro knows:** yes
 
 ### Dr. Rodrigo Bastías Moreno — the founder of Hora Dorada

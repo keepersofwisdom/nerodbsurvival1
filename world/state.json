@@ -17,7 +17,10 @@
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
-    "btc": 2
+    "btc": 2,
+    "btc_value": "2 BTC ≈ US$164,000 ≈ $155 M CLP at 31 Mar 2025 (−14% on the quarter)",
+    "salary": "≈ $7–9 M CLP/month (≈182–234 UF)",
+    "guarantees": "Personal guarantee on the second bank's 24,000 UF loan (with the partners; Kostas the main guarantor)"
   },
   "standing": {
     "medicine": 2,
@@ -95,7 +98,7 @@
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
-    "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)",
+    "exposure_la_capilla": "[■■■■□□] (two banks' appraisers, the fund, Federico Rehbein; Q1 Turn: Dr. Benjamín Soto's loose talk → a doctors' WhatsApp chain, 'búnker de Pinochet')",
     "deed": "30 Apr 2025",
     "gustavo_offer": "no answer asked today; his deadline: before Kairós files anything with the DOM, at the latest the deed (30 Apr)"
   },
@@ -107,7 +110,7 @@
     "Federico: 'La oferta queda abierta... en Chile las cosas cambian'",
     "B-2 is under Toesca; where are B-3 and B-4? (B-4: La Quinta?)",
     "Josefina's question; Marcela's line to Cáceres",
-    "Q1 2025 Turn: rolled; lands Monday 31 March"
+    "Q1 2025 Turn rolled: news, family and books reach Pietro on Monday 31 March"
   ],
   "venture": {
     "name": "Kairós SpA",
@@ -117,6 +120,9 @@
     "cash_uf": 5800,
     "deal": "Promesa de compraventa signed 29 Mar 2025 with Hora Dorada for the Plaza Italia unit: 49,000 UF; deposit 4,900 UF + 500 guarantee; deed by 30 Apr 2025",
     "financing": "Kostas 45,000 UF (10,000 wired 28 Mar); second bank 24,000 UF commitment (Kostas guarantor); leasing ≈5,000",
-    "sworn_statement": "29 Mar: 'recinto subterráneo destinado a refugio sísmico y bodega, de construcción anterior al año 2008, sin recepción municipal, que la sociedad se obliga a regularizar'"
-  }
+    "sworn_statement": "29 Mar: 'recinto subterráneo destinado a refugio sísmico y bodega, de construcción anterior al año 2008, sin recepción municipal, que la sociedad se obliga a regularizar'",
+    "payables_uf": 300,
+    "cash_note": "≈5,800 UF on hand, ≈5,500 net of ≈300 UF of March fees unpaid; after the deed ≈20,900 UF"
+  },
+  "q1_2025_turn": "Rolled 30 Mar (world-keeper); presented to the player when play passes Monday 31 Mar"
 }

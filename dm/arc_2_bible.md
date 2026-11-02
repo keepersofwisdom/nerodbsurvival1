@@ -305,3 +305,18 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
       firm's retired "security consultants" (latent; not this arc unless forced).
     - He will try to reach Rodrigo himself (through Federico, or a letter to the Ñuñoa house).
   - **Regard −1 → 0.** +1 if Pietro takes the offer, or declines without haggling.
+- **Q1 2025 Turn (rolled 30 Mar by the world-keeper; present when play passes Mon 31 Mar):**
+  - **Hora Dorada:** closures deferred to Q2 (20). Toesca's sale-leaseback paused until the Plaza
+    Italia cash arrives (17). Ignacio Larrañaga hasn't read the lease (16). Gonzalo heard "refugio"
+    and stayed silent (7).
+  - **Joaquín Benavente:** his storage facility is sold; the boxes must be out by 30 Jun (2 → d6 1).
+  - **ACHS threat** [■□□□] (3).
+  - **Cristóbal:** a celebrated save at the HT (19).
+  - **Loose talk:** Benjamín Soto → **Exposure 4/6** (4 → d6 6).
+  - **Family:** Matías's panic attack, an ED, told only Francisca (2 → d6 5). Francisca rolled at
+    −3 (14), Kostas 8, Sofía 4.
+  - **Love life (20):** Dr. Martín Aguilera (32, San José internist): breakfast to noon in mid-March.
+    Pietro hasn't answered his last message since the deal week (DM framing; the player decides).
+  - **News reaching Pietro on Mon 31 Mar:** (1) the doctors' chain "búnker de Pinochet" (half true);
+    (2) the "ciberataque" chain (false, early March); (3) an HT colleague on the frozen closures.
+  - **Books:** cash 5,800 (≈300 UF payables). Stress 8 → 8. BTC −14%.
