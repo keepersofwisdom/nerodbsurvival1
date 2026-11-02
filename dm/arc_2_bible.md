@@ -147,3 +147,19 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   - Javiera's book; the La Moneda restoration;
   - Bastián's code; Yungay;
   - the End's signs (the grid, the sun, H5N1, the war).
+
+## 14. Play log (DM)
+- **S2 (25 Feb 2025, 14:50–16:21):** Pietro swapped bed 1 to his transport vent, then went down
+  with Aravena. B1 opened; the battery bank (float-charged) powered the critical-care circuit
+  (Aravena Engineering success). Pietro's secret Awareness FAILED: he noticed nothing that dates
+  the refuge before Rodrigo (no CMT 1981 stamp seen; Aravena's "le venía de antes" stands as
+  the only hint). Blood fridge held at 5.8 °C (units usable if the fridge circuit returns; it's
+  NOT on the restored circuit: decide in play, default it is beside the critical-care room and
+  can be plugged into a restored socket).
+- **Patient card — Jhonatan, 34, delivery rider (Maracaibo), SOAP:** car vs motorcycle at the dead
+  roundabout, ~40 km/h, helmeted. C2, clock 8, beat ~10 min, Reserve 16. Visible: left rib fractures
+  (7–11) with crepitus; moderate **left pneumothorax** (simple now; becomes tension if he's
+  ventilated with positive pressure or in ~4 beats untreated). **HIDDEN: grade III splenic
+  laceration**, slow bleed (FAST: free fluid in the left upper quadrant / splenorenal; Morison's
+  maybe a stripe). He will drift to class II–III shock over ~30–40 min. Definitive: chest drain
+  (doable here) + laparotomy/embolisation (HT next door). Whole blood here would buy time.

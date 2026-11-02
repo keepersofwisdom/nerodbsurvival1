@@ -3,9 +3,9 @@
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
-  "time": "16:13",
+  "time": "16:21",
   "weekday": "Tuesday",
-  "location": "Providencia — Hora Dorada, Unidad Plaza Italia (Ramón Carnicer), critical-care room, in the blackout",
+  "location": "Hora Dorada, Unidad Plaza Italia — critical-care room (lit by the refuge's battery bank)",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -13,7 +13,7 @@
   "character": {
     "health": "sound",
     "fatigue": 1,
-    "stress": 5,
+    "stress": 6,
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
@@ -44,16 +44,23 @@
     "Cristóbal Henríquez": 3,
     "Josefina Ureta": 1,
     "Marcela Riquelme": 4,
-    "Nelson Aravena": 1,
+    "Nelson Aravena": 2,
     "Benjamín Soto": 1
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
-    "heard_of_refugio": true
+    "heard_of_refugio": true,
+    "saw_la_capilla": true,
+    "saw_the_list_2012": true,
+    "icu_on_refuge_battery": true
   },
-  "clocks": {},
+  "clocks": {
+    "refuge_battery": "≈91% at 16:20 (critical-care room circuit only)",
+    "transport_vent_battery": "≈3 h 40 min at 16:13"
+  },
   "open_threads": [
-    "THE BLACKOUT: Plaza Italia unit on batteries (transfer switch failed); bed 1 ventilated, battery 18 min; bed 2 noradrenaline, 2 h; 4 units of whole blood warming since ~15:20; motorcyclist with chest trauma 5 min out",
+    "THE BLACKOUT: motorcyclist (Jhonatan, 34, delivery rider) — left chest trauma; bed 1 on Pietro's transport ventilator; bed 2 on noradrenaline (mains via the refuge battery); 4 units whole blood at 5.8 °C",
+    "La Capilla is open: the list (2012, 318 names; Marcela, Daniela, Aravena on it), 'Simulacro trimestral. No olvidar. — R.B.', the chained Metro L5 door, the German-labelled filtration unit",
     "Aravena: 'Abajo, en el refugio del doctor Bastías, hay un banco de baterías que pusimos el diecinueve... Yo sé dónde está la llave'",
     "Kairós: casona de Bustamante tomorrow 08:00 with Josefina; Kostas wrote to Marcela directly (lunch Thursday); Marcela's 'amigo': the fund will sell Plaza Italia",
     "Marcela's conflict of interest at the Hospital del Trabajador"
