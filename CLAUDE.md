@@ -30,7 +30,7 @@ game) unless they clearly ask for something else.
 | `world/timeline.md` | Real timeline 2005 → + campaign chronicle | Everyone |
 | `world/gazetteer.md` | Places in play, real and fictional | Everyone |
 | `world/network.md` | The company: units, ambulances, staff, money, projects | Everyone |
-| `world/venture.md` | Era II: Pietro and Paula's own stabilization centre (the active company) | Everyone |
+| `world/venture.md` | Era II: Pietro and Marcela's own stabilization centre (the active company) | Everyone |
 | `world/bunkers.md` | The bunkers **as the player character knows them** | Everyone |
 | `characters/player.md` | The active character's sheet (the Founder, later the Heir) | Everyone |
 | `characters/heir.md` | The Heir's sketch (Pietro Nerod Carrasco), until Era II | Everyone |

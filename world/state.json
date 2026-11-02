@@ -1,14 +1,14 @@
 {
-  "phase": "pre-game: Era II — heir's sheet drafted; opening and tie to be confirmed with the player",
+  "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
-  "time": null,
+  "time": "14:50",
   "weekday": "Tuesday",
-  "location": "Santiago de Chile (opening to be chosen)",
+  "location": "Providencia — Hospital del Trabajador, emergency department (Ramón Carnicer 185)",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
-  "active_arc": null,
+  "active_arc": "arc_2 — Kairós",
   "era_1_closed": "Played 31 Mar–27 May 2005; written forward to 2023 (world/chronicle_2005_2023.md)",
   "character": {
     "health": "sound",
@@ -40,18 +40,17 @@
   "relationships": {
     "Kostas Nerod": 2,
     "Francisca Carrasco": 4,
-    "Paula Riquelme": 4,
     "Daniela Fuentes": 3,
     "Cristóbal Henríquez": 3,
-    "Josefina Ureta": 1
+    "Josefina Ureta": 1,
+    "Marcela Riquelme": 4
   },
   "flags": {},
   "clocks": {},
   "open_threads": [
-    "Confirm: Pietro's family; out to them; single or not",
-    "Confirm the venture's name (Kairós?) and partners",
-    "Choose the opening (recommended: the blackout, Tue 25 Feb 2025, 15:16, Pietro on shift at the Hospital del Trabajador)",
-    "Pietro's tie to Rodrigo beyond Paula (or none)"
+    "Kairós: choose the site (Bustamante casona / Independencia tower / rumour: Hora Dorada's Plaza Italia unit)",
+    "Kairós: the investor (30%): Kostas Nerod wants a meeting",
+    "Marcela's conflict of interest at the Hospital del Trabajador"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",

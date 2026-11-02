@@ -109,10 +109,10 @@ Seed all the candidates; choose with the player later (campaign_bible §3.4):
 ## 6a. Player decisions (2 Nov 2026 real time)
 - Pietro is **29** (born Jan 1996), an EM specialist since mid-2023 (UAndes residency 2020–23,
   through COVID). He works at the **Hospital San José** (Independencia) and does shifts at the
-  **Hospital del Trabajador**, where his former residency chief, **Dra. Paula Riquelme**, runs the
+  **Hospital del Trabajador**, where his former residency chief, **Dra. Marcela Riquelme**, runs the
   ED. Together they're founding **their own stabilization centre** on the Hora Dorada model, and
   the plan is **well advanced** (`world/venture.md`).
-- **Paula is the living link** to Rodrigo's world: one of Toesca's first doctors (2006), chief of
+- **Marcela is the living link** to Rodrigo's world: one of Toesca's first doctors (2006), chief of
   the Plaza Italia unit (2010–16), on "la lista", a veteran of the drills in "el refugio sísmico"
   (B1). She doesn't know about La Mesa.
 
@@ -120,13 +120,13 @@ Seed all the candidates; choose with the player later (campaign_bible §3.4):
 - **The Plaza Italia unit is the obvious prize.** It's equipped, licensed, a block from the HT, and
   the fund wants to sell it in March–April 2025. **B1 "La Capilla"** lies beneath it, with the
   Metro Line 5 shaft. **Federico Rehbein** will bid too: his father knows La Capilla and wants it
-  back. Paula has already half-promised Cáceres "un inversionista serio" (Kostas).
+  back. Marcela has already half-promised Cáceres "un inversionista serio" (Kostas).
 - **Kostas Nerod's money** (≈ 35,000 UF for 30%) comes with control: a board seat, Matías as
   CFO, a say in the site. Kostas and Federico Rehbein have co-invested in a Vitacura real-estate
   project (2023); they know each other.
 - **Josefina's archive** (Carolina's drawings; the sealed "TOESCA −3 / RESERVADO" tube) is a
-  discovery path; so are Paula's and Daniela's memories of the drills, and Toño.
-- **Rodrigo** (Seattle, 26% of Hora Dorada, still a vote) could block, bless or fund. Paula
+  discovery path; so are Marcela's and Daniela's memories of the drills, and Toño.
+- **Rodrigo** (Seattle, 26% of Hora Dorada, still a vote) could block, bless or fund. Marcela
   hasn't called him; she's angry with him about Seba.
 
 ## 6. Pietro: possible ties (to choose with the player)

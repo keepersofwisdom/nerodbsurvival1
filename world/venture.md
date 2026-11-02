@@ -1,4 +1,4 @@
-# THE VENTURE — Pietro and Paula's stabilization centre (Era II)
+# THE VENTURE — Pietro and Marcela's stabilization centre (Era II)
 
 *The active company of Era II. Same rules as the Network (`mechanics/enterprise.md`). Hora
 Dorada's own sheet is `world/network.md`. Items marked **[confirm]** are the DM's proposals.*
@@ -8,13 +8,13 @@ KAIRÓS SpA (working name [confirm]) · "Centro de Estabilización Kairós"
   — kairós: the Greek word for the right moment, the moment that decides; a nod to the hora dorada
 Constituted: January 2025, notary in Providencia
 Partners (signed shareholders' pact):
-  Dra. Paula Riquelme Soto ...... 30%  · 3,000 UF committed · CEO and medical director
+  Dra. Marcela Riquelme Soto ...... 30%  · 3,000 UF committed · CEO and medical director
   Dr. Pietro Nerod Carrasco ...... 30%  · 4,500 UF committed (his 2 BTC, not yet sold) · operations, digital, the model
   EU Daniela Fuentes Arancibia ...  5%  · 500 UF · chief nurse
   Dr. Cristóbal Henríquez Mella ..  5%  · 500 UF · anaesthetist: theatre and airway
   Reserved for an investor ....... 30%  · talks open with Kostas Nerod (Pietro's father)
 Committed capital: 8,500 UF · Called so far: 2,000 UF · Spent ≈ 800 UF (lawyers, studies, the architect) · Cash ≈ 1,200 UF · Debt: none
-Standing: Medicine +2 (Paula's name) · Business +1 · State 0 · Street 0 · Uniforms 0 · The Old Men 0 · Press 0
+Standing: Medicine +2 (Marcela's name) · Business +1 · State 0 · Street 0 · Uniforms 0 · The Old Men 0 · Press 0
 ```
 
 ## The plan (Pietro's model, January 2025)
@@ -30,7 +30,7 @@ Standing: Medicine +2 (Paula's name) · Business +1 · State 0 · Street 0 · Un
   - Sources: the partners' 8,500 UF, an investor (≈ 35,000 UF for the reserved 30%), a bank loan
     against property, equipment leasing.
 - **Revenue:**
-  - work accidents at night (talks with a mutual, which is Paula's employer: a conflict);
+  - work accidents at night (talks with a mutual, which is Marcela's employer: a conflict);
   - Isapre and SOAP patients;
   - Ley de Urgencia stabilizations;
   - UGCC critical beds;
@@ -62,13 +62,13 @@ Standing: Medicine +2 (Paula's name) · Business +1 · State 0 · Street 0 · Un
 | Choose the site | [■■□□] | Visit the two options; chase the Plaza Italia rumour |
 | The investor (30%) | [■□□□□□] | Kostas Nerod wants a meeting, and conditions |
 | Permits (DOM + SEREMI) | [■□□□□□] | Depends on the site |
-| Contracts (the mutual, Isapres) | [■□□□] | Paula's conflict of interest |
+| Contracts (the mutual, Isapres) | [■□□□] | Marcela's conflict of interest |
 | Team | [■■□□] | Formal offers once the money is in |
 
 ## Threats (clocks)
 | Threat | Clock | Trigger |
 |---|---|---|
-| Paula's conflict of interest at the Hospital del Trabajador | [□□□□] | If ACHS learns its ED chief is planning a competitor |
+| Marcela's conflict of interest at the Hospital del Trabajador | [□□□□] | If ACHS learns its ED chief is planning a competitor |
 | Poaching backlash (San José, the HT) | [□□□□] | Formal offers |
 
 ## Books

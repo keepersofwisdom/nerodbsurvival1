@@ -1,17 +1,17 @@
-# PLAYER CHARACTER — THE HEIR (Era II) · ⚠ DRAFT, to confirm with the player
+# PLAYER CHARACTER — THE HEIR (Era II)
 
 *Revised 2 Nov 2026 (real time) with the player's changes: 29 years old; an EM specialist for two
 years; works at the Hospital San José and does shifts at the Hospital del Trabajador under his
 former residency chief, with whom he's founding a stabilization centre.*
 
-*Built from the player's sketch (`characters/heir.md`). Items marked **[confirm]** are the DM's
-proposals. Change anything before the first scene.*
+*Built from the player's sketch (`characters/heir.md`), confirmed 2 Nov 2026 (real time). Items
+still marked **[confirm]** are minor and can be adjusted in play.*
 
 ## Identity
 - **Name:** **Dr. Pietro Nerod Carrasco**
 - **Born:** 3 January 1996 **[confirm]** · **Age:** 29 (2025). Went early: finished school at
   16, started medicine at 17.
-- **Pronouns:** he/him. **Gay.** Out to his friends; with his family **[confirm]**.
+- **Pronouns:** he/him. **Gay, and out**: to his friends, his family, his colleagues.
 - **Looks:** 1.67 m. Brown, slightly fair curly hair, short on the sides. Piercing green eyes.
   A handsome face with somewhat Greek features. Normal-to-fit body.
 - **Voice:** quick, warm, precise; switches between *cuico* Santiago Spanish, hospital shorthand
@@ -23,7 +23,7 @@ proposals. Change anything before the first scene.*
   Andes** (2020–2023): **the COVID years as a resident**, with ICUs in corridors and ventilated
   patients flown north. **Specialist since mid-2023.**
 
-## Family [confirm all]
+## Family
 - **Father:** **Konstantinos "Kostas" Nerod** (59). Grandson of Greek immigrants who came through
   Valparaíso; an industrial engineer who bought **bitcoin in 2013** at around a hundred dollars,
   sold well in 2017 and 2021, and now runs a small crypto investment boutique from El Golf.
@@ -39,8 +39,8 @@ proposals. Change anything before the first scene.*
 - **Role (2025):** emergency physician at the **Hospital San José** (public, Independencia, the
   north of the city), on a shift contract; **shifts at the Hospital del Trabajador** (ACHS,
   Ramón Carnicer 185, by Plaza Italia), whose ED is run by his former residency chief,
-  **Dra. Paula Riquelme**.
-- **The project:** with Paula he is founding **their own stabilization centre**, on the Hora
+  **Dra. Marcela Riquelme**.
+- **The project:** with Marcela he is founding **their own stabilization centre**, on the Hora
   Dorada model (see `world/venture.md`). The plan is well advanced.
 - **Reputation:** *el prodigio*. Two years a specialist, and residents already ask him before
   the attending. San José's nurses trust him; some older attendings resent him. He came through
@@ -74,7 +74,7 @@ proposals. Change anything before the first scene.*
 | **Duty (patients)** | 12 | |
 | **Curiosity** (what nobody else has worked out) | 12 | |
 | **Love (his family)** | 10 | Complicated with his father |
-| **Loyalty (Paula Riquelme)** | 11 | His teacher; the project is half hers |
+| **Loyalty (Marcela Riquelme)** | 11 | His teacher; the project is half hers |
 | **Preparation** | 0 | He doesn't think about the end of the world. Yet |
 
 ## Skills
@@ -111,8 +111,8 @@ proposals. Change anything before the first scene.*
 - **Car:** a grey Mini Cooper **[confirm]**.
 
 ## What he knows at the start of Era II
-- Hora Dorada and the *protocolo Hora Dorada*: in his training, in Paula's stories, in his own
-  hands. Paula worked there for ten years. The founder, *"el doctor Bastías"*, left for the United
+- Hora Dorada and the *protocolo Hora Dorada*: in his training, in Marcela's stories, in his own
+  hands. Marcela worked there for ten years. The founder, *"el doctor Bastías"*, left for the United
   States in 2023; Pietro has seen him lecture once **[confirm any closer tie]**.
 - That the fund that owns Hora Dorada is cutting and closing units.
 - **Nothing** about bunkers, La Mesa, or anything beneath the city.

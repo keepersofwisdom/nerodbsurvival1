@@ -30,7 +30,7 @@ Template:
 ### Sofía Nerod Carrasco (31, lawyer, New York) · Matías Nerod Carrasco (24, works with their father)
 
 ## The venture (Kairós)
-### Dra. Paula Riquelme Soto — his former residency chief; his partner
+### Dra. Marcela Riquelme Soto — his former residency chief; his partner
 - **Born / age:** 1977, 48 · From La Florida; a state *liceo*; U. de Chile medicine; EM residency
   at the U. de Chile (2003–06).
 - **Career:** one of Clínica Toesca's first emergency physicians (2006); **chief of Hora Dorada's
