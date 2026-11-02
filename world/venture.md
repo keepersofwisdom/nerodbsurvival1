@@ -4,17 +4,14 @@
 Dorada's own sheet is `world/network.md`. Items marked **[confirm]** are the DM's proposals.*
 
 ```
-KAIRÓS SpA (working name [confirm]) · "Centro de Estabilización Kairós"
-  — kairós: the Greek word for the right moment, the moment that decides; a nod to the hora dorada
-Constituted: January 2025, notary in Providencia
-Partners (signed shareholders' pact):
-  Dra. Marcela Riquelme Soto ...... 30%  · 3,000 UF committed · CEO and medical director
-  Dr. Pietro Nerod Carrasco ...... 30%  · 4,500 UF committed (his 2 BTC, not yet sold) · operations, digital, the model
-  EU Daniela Fuentes Arancibia ...  5%  · 500 UF · chief nurse
-  Dr. Cristóbal Henríquez Mella ..  5%  · 500 UF · anaesthetist: theatre and airway
-  Reserved for an investor ....... 30%  · talks open with Kostas Nerod (Pietro's father)
-Committed capital: 8,500 UF · Called so far: 2,000 UF · Spent ≈ 800 UF (lawyers, studies, the architect) · Cash ≈ 1,200 UF · Debt: none
-Standing: Medicine +2 (Marcela's name) · Business +1 · State 0 · Street 0 · Uniforms 0 · The Old Men 0 · Press 0
+KAIRÓS SpA · "Centro de Estabilización Kairós" · constituted January 2025
+Owners (from 29 Mar 2025): Kostas Nerod 39% · Marcela Riquelme 26.1% · Pietro Nerod 26.1% · Daniela Fuentes 4.4% · Cristóbal Henríquez 4.4%
+Board: Marcela (chair, CEO and medical director, 5 years guaranteed, clinical veto) · Pietro · Kostas · Matías Nerod (observer)
+Pact: any decision on the building's underground premises requires a unanimous board
+Site: Hora Dorada's Unidad Plaza Italia (Ramón Carnicer): promesa signed 29 Mar 2025, 49,000 UF, deed by 30 Apr 2025
+Financing: Kostas 45,000 UF (10,000 wired) · second bank 24,000 UF (commitment; Kostas guarantor) · leasing ≈ 5,000
+Cash ≈ 5,800 UF (after the 4,900 UF deposit) · Debt: the bank loan at the deed
+Standing: Medicine +2 · Business +2 · State 0 · Street +1 (the riders) · Uniforms 0 · The Old Men −1 (Rehbein) · Press +1
 ```
 
 ## The plan (Pietro's model, January 2025)

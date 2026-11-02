@@ -218,3 +218,10 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   del propietario para mantención estructural de subterráneos con aviso de 48 horas" and a higher
   rent, and offer a sweetener (a lower rent for 3 years). If pushed, he reveals intent by insisting.
   Gustavo Rehbein is lucid on good days and will receive Pietro in La Reina (B4's estate) if asked.
+- **S2 (27–29 Mar 2025):** Federico's disguise worked on Pietro, but Diego's Law CRITICAL exposed
+  Annex A: Benavente's original B1 sheet (09/1981, "O.B.L."), from Gustavo's copies. Player's rule
+  → father option 1. Closed: Kostas 39%, bank 24k, Marcela's protections (unanimity on the
+  underground), sworn statement, promesa (deed by 30 Apr). Federico lost; next moves: (a) Gustavo
+  invites Pietro to La Reina (B4); (b) Federico pursues the Caja Austral sale-leaseback (Huelén's
+  right of first refusal will surface: Ignacio Larrañaga notified); (c) Federico works on Kostas.
+  Rodrigo uncalled. The DOM regularisation will bring an inspector into La Capilla (April–June).

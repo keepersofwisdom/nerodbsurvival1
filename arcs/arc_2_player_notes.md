@@ -66,6 +66,11 @@ the network that invented the model, is being cut by the fund that owns it.
 
 - (S2) **Talk with Marcela (26 Mar, her flat; Lucas, 16, in the next room):** for the clinic they don't need the building. With Federico's way, ≈42,000 UF opens the centre (operation 12,000 + equipment 10,000 + working capital 20,000), less of Kostas's money, no bank, no sworn statement, and Marcela doesn't drop to 26% (she admits that matters to her). But rent of ≈500–600 UF/month for 30 years vs ≈200 UF/month of bank instalments: "más barato hoy y más caro siempre". And: "Si Federico compra el edificio, lo de abajo es de él." Her **test**: accept with three conditions: exclusive use of all basements for 30 years with no landlord access without consent; a purchase option at year 10 at a fixed price; capped rent. "Si dice que no a lo del subterráneo, sabemos lo que quiere." On Rodrigo: "Yo no lo voy a llamar. Pero tú puedes."
 
+- (S2) **Federico's answer (27 Mar):** "perfecto, razonable", but the purchase option at market price (not fixed), and the basements exclusive "salvo lo técnico-estructural". On his wall: a 1980s photo of his father in a hard hat at a big excavation in central Santiago ("Construyó medio Providencia").
+- (S2) **Diego (28 Mar):** Annex A is a **hand-inked 1981 plan of La Capilla** (stair, vault, side room, "SAL. EMERG. — L5"), all hatched "Z.T.E." and excluded; clause 7.4 gives the owner access "en todo momento y sin necesidad de aviso". Title-block fragment: **"—/09/1981", sheet "B-1", engineer "O.B.L."** (Benavente?). "Sabe exactamente lo que hay abajo. Y quiere la llave."
+- (S2) **Closed with father and bank (28–29 Mar):** Kostas 45,000 UF for 39% (10,000 wired); second bank 24,000 UF; Marcela's pact protections (CEO 5 years, clinical veto, **unanimity for anything about the underground premises**; Kostas: "Usted manda abajo"). **Sworn statement** signed (seismic shelter and store, pre-2008, unpermitted, to be regularised). **Promesa** with Hora Dorada: 49,000 UF, deposit 4,900, deed by 30 Apr.
+- (S2) Federico: "La oferta queda abierta... en Chile las cosas cambian... mi papá sigue queriendo conocerlo. Sobre todo ahora."
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.
@@ -81,3 +86,4 @@ the network that invented the model, is being cut by the fund that owns it.
 - Does the fund know what it's selling?
 - Who is Federico Rehbein, and why does he want to look at old buildings?
 - What's in Toesca's 'menos tres'? Who was the old man on 27F?
+- Sheet B-1 of what? Where are B-2, B-3…? Who is O.B.L.?

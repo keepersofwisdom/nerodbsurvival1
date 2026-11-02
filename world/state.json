@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-03-26",
-  "time": "22:10",
-  "weekday": "Wednesday",
-  "location": "Ñuñoa — Marcela's flat (calle Holanda near Irarrázaval)",
+  "date": "2025-03-29",
+  "time": "11:30",
+  "weekday": "Saturday",
+  "location": "Providencia — outside a notary, Av. Providencia",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -13,7 +13,7 @@
   "character": {
     "health": "sound",
     "fatigue": 0,
-    "stress": 9,
+    "stress": 8,
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
@@ -38,7 +38,7 @@
     "staff": 1100
   },
   "relationships": {
-    "Kostas Nerod": 2,
+    "Kostas Nerod": 3,
     "Francisca Carrasco": 4,
     "Daniela Fuentes": 3,
     "Cristóbal Henríquez": 3,
@@ -51,8 +51,9 @@
     "Yuleidys (Valentina's carer)": 2,
     "Felipe Cáceres": 0,
     "Toño": 3,
-    "Diego Fernández": 1,
-    "Federico Rehbein": 0
+    "Diego Fernández": 3,
+    "Federico Rehbein": -1,
+    "Matías Nerod": 1
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
@@ -77,30 +78,31 @@
     "knows_other_shelters": "Los Leones (the best), La Florida (small), Independencia",
     "knows_metro_shaft_l5": true,
     "federico_offer": "Inmobiliaria Rehbein buys the building from the fund; Kairós buys only the operation (≈10–12,000 UF) and leases for 30 years",
-    "gustavo_rehbein_wants_to_meet": true
+    "gustavo_rehbein_wants_to_meet": true,
+    "federico_has_1981_plan": "Annex A: hand-inked plan of La Capilla, sheet B-1, dated —/09/1981, signed O.B.L.; 'Z.T.E.' carve-out with owner access 'en todo momento y sin aviso'",
+    "suspects_benavente_designed_it": true
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
-    "exclusivity": "4 days (to 30 Mar 2025)",
-    "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)"
+    "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)",
+    "deed": "30 Apr 2025"
   },
   "open_threads": [
-    "Marcela's test for Federico: lease with exclusive use of ALL basements for 30 years (no landlord access without consent), a purchase option at year 10 at a fixed price, and a capped rent. If he refuses the basement clause, 'sabemos lo que quiere'",
-    "Marcela: 'Yo no lo voy a llamar. Pero tú puedes' (Rodrigo, Seattle, 26% of Hora Dorada)",
-    "DECIDE by 30 Mar: (1) father 45,000/39% + 2nd bank 24,000 = 82,500 UF; (2) father 40,000/35% + 24,000 = 77,500 (cut working capital); (3) Federico Rehbein buys the building, Kairós leases",
-    "Sworn statement on the underground space required by either bank before the deed",
-    "Marcela at 'Nerods ≈ 64%': 'Ah.'",
-    "Federico: his father (92) knew Prof. Salinas ('grandes amigos') and wants to meet Pietro; 'un refugio sísmico, me imagino'",
-    "Aravena went very still at the name Salinas from Federico's mouth",
-    "Marcela's direct line to Cáceres (unconfronted)"
+    "Deed of the Plaza Italia unit by 30 Apr 2025; the bank's 24,000 UF at the deed",
+    "Regularise the underground space with the DOM (sworn statement signed)",
+    "Federico: 'La oferta queda abierta... en Chile las cosas cambian... mi papá sigue queriendo conocerlo. Sobre todo ahora.'",
+    "Sheet B-1, 09/1981, O.B.L. (Benavente?): if there's a B-1, there are others",
+    "Rodrigo Bastías (Seattle) not yet called",
+    "Josefina's question; Marcela's line to Cáceres"
   ],
   "venture": {
-    "name": "Kairós SpA (working name)",
-    "constituted": "2025-01",
-    "committed_uf": 8500,
-    "cash_uf": 700,
-    "partners": "Riquelme 30 · Nerod 30 · Fuentes 5 · Henríquez 5 · investor 30 (open)",
-    "target_opening": "2026-03",
-    "exclusivity": "Plaza Italia unit: 49,000 UF, 30 days to 2025-03-30, subject to DD and financing; 500 UF guarantee paid (lost if they withdraw without cause); the Hora Dorada name stays with the fund"
+    "name": "Kairós SpA",
+    "owners": "Kostas Nerod 39% · Marcela Riquelme 26.1% · Pietro Nerod 26.1% · Daniela Fuentes 4.4% · Cristóbal Henríquez 4.4%",
+    "board": "Marcela (chair, CEO), Pietro, Kostas; Matías as observer",
+    "pact": "Marcela CEO and medical director 5 years, clinical veto; any decision on the building's underground premises needs a unanimous board",
+    "cash_uf": 5800,
+    "deal": "Promesa de compraventa signed 29 Mar 2025 with Hora Dorada for the Plaza Italia unit: 49,000 UF; deposit 4,900 UF + 500 guarantee; deed by 30 Apr 2025",
+    "financing": "Kostas 45,000 UF (10,000 wired 28 Mar); second bank 24,000 UF commitment (Kostas guarantor); leasing ≈5,000",
+    "sworn_statement": "29 Mar: 'recinto subterráneo destinado a refugio sísmico y bodega, de construcción anterior al año 2008, sin recepción municipal, que la sociedad se obliga a regularizar'"
   }
 }

@@ -235,6 +235,9 @@ written) history is the campaign's own.
 | 2025-03-17 | Kostas: 45,000 for 39% or 40,000 for 35% | 2 |
 | 2025-03-18 | Federico Rehbein inspects the Plaza Italia unit; offers a sale-leaseback; his father wants to meet Pietro | 2 |
 | 2025-03-21 | Second bank: 24,000 UF, with a sworn statement on the underground space | 2 |
+| 2025-03-27 | Federico's lease draft; Annex A hides the 1981 plan of La Capilla (B-1, O.B.L.) | 2 |
+| 2025-03-28 | Kostas invests 45,000 UF for 39%; second bank commits 24,000 UF | 2 |
+| 2025-03-29 | Sworn statement; promesa de compraventa for the Plaza Italia unit (49,000 UF; deed by 30 Apr) | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

@@ -27,7 +27,7 @@ Template:
 ### Francisca Carrasco — his mother
 - **Age:** 56 · Psychologist; old Catholic Santiago family; warm, perceptive. **Regard: +4**
 
-### Sofía Nerod Carrasco (31, lawyer, New York) · Matías Nerod Carrasco (24, works with their father)
+### Sofía Nerod Carrasco (31, lawyer, New York) · Matías Nerod Carrasco (24, works with their father; Kairós board observer for Kostas from Mar 2025)
 
 ## The venture (Kairós)
 ### Dra. Marcela Riquelme Soto — his former residency chief; his partner
@@ -90,7 +90,8 @@ Template:
   truck starting. Told Pietro what Rodrigo told him. **Regard: +3** · **Pietro knows:** since 2 Mar 2025
 
 ### Diego Fernández — Kairós's lawyer
-- **Age:** 35 · A friend of Cristóbal's; quick and cheap. **Regard: +1**
+- **Age:** 35 · A friend of Cristóbal's; quick and cheap; caught the Z.T.E. carve-out and the
+  1981 plan in Federico's lease (28 Mar 2025). **Regard: +3**
 
 ### Federico Rehbein — Inmobiliaria Rehbein
 - **Age:** 59 · Tall, silver hair worn a little long, cashmere in the heat; the soft perfect
