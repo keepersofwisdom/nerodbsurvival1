@@ -38,6 +38,16 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) 19:20: **state of catastrophe** declared Arica–Los Lagos, curfew 22:00–06:00. 20:10: Hora Dorada's technician (Ruiz) bypassed the dead transfer switch by hand; the refuge's battery went back to float at 78%.
 - (S2) Aravena on Marcela: "El doctor Bastías decía que usted era la única que no se reía en los simulacros."
 
+- (S2) **The night descent with Marcela (26 Feb, 23:12–00:40), photographed (214 photos):**
+  - the list again; Seba's line ("Contreras Muñoz, Sebastián — Director Médico", no one with him);
+  - a **drill logbook** (June 2010–March 2016) in Rodrigo's and Seba's hands ("Simulacro 14/04/2012. 4 min 20 s. La Marcela ganó otra vez... — S.C.");
+  - the ventilation unit's plate: **"Baujahr 1980"** (built 1980), with 2009 filters;
+  - **"C.M.T. — 1981"** stamped into the concrete lintel at the foot of the stairs: the Army's Cuerpo Militar del Trabajo;
+  - the medical cabinet (expired 2018–19 drugs, a 2012 surgical kit, a portable ventilator, chest drains; nothing controlled; "Inventario actualizado: oct 2019. Próxima revisión: ene 2020");
+  - the Metro door: chained; a draught; **Metro crews' voices** in the dark tunnel.
+- (S2) Marcela: "Esto no lo construyó el Rodrigo. Esto es del ochenta y uno... nadie construye esto para una clínica... Esta unidad no puede quedar en manos de cualquiera."
+- (S2) Aravena offered Pietro the brass key.
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.
@@ -48,3 +58,6 @@ the network that invented the model, is being cut by the fund that owns it.
 ## Open questions
 - Where will Kairós be?
 - How much of his father does he let in?
+- Who built La Capilla in 1981, and why under a clinic?
+- What did Toño mean by "de antes"? What does Rodrigo know?
+- Does the fund know what it's selling?

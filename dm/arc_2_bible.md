@@ -187,3 +187,9 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   goodwill is building (the "something good"). State of catastrophe declared ≈19:20: **this
   triggers the Huelén lease clause at Toesca −3** (immediate access), but nobody from Huelén comes;
   Ignacio Larrañaga may notice the clause later. The night descent with Marcela next.
+- **S2 (23:12–00:40):** Descent with Marcela; photos. Awareness success (rolled 2): Baujahr 1980
+  plate and the C.M.T. 1981 stamp found (not the faint "B-1" stencil under the blast door's paint,
+  which needs a closer look in daylight). Metro crews heard through the gap. Marcela's resolve to
+  buy the unit hardens; her Cáceres channel is now more dangerous to her (if Pietro learns it
+  after tonight, Regard drops). Aravena offers Pietro the key (he chooses Pietro over Marcela:
+  "el doctor joven es el que bajó primero").

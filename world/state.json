@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-02-25",
-  "time": "23:05",
-  "weekday": "Tuesday",
-  "location": "Hora Dorada, Unidad Plaza Italia — behind the generator room, at the green door (curfew in force)",
+  "date": "2025-02-26",
+  "time": "00:40",
+  "weekday": "Wednesday",
+  "location": "Hora Dorada, Unidad Plaza Italia — at the green door, back up from La Capilla (curfew)",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -60,17 +60,21 @@
     "video_viral_riders": true,
     "state_of_catastrophe_2025_02_25": "declared ≈19:20, curfew 22:00–06:00",
     "jhonatan_outcome": "splenectomy (grade IV), ICU, full recovery expected",
-    "plaza_italia_switch_bypassed": "20:10 (tech Ruiz)"
+    "plaza_italia_switch_bypassed": "20:10 (tech Ruiz)",
+    "photographed_la_capilla": "214 photos (list, drill logbook 2010–16, machines, stamps, cabinet, Metro door)",
+    "found_cmt_1981": true,
+    "found_baujahr_1980": true,
+    "aravena_offers_key": true
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float"
   },
   "open_threads": [
-    "At the green door with Marcela (and Aravena), 23:05: go down",
-    "The viral video: riders' associations share it ('Así se trata a un trabajador'); people asking who the doctor is",
-    "Kostas's lunch with Marcela, Thursday 27 Feb: Pietro told him 'que les vaya bien'",
-    "Valentina and Yuleidys in Barrio Yungay, near the plaza",
-    "Toño: the refuge was 'de antes'"
+    "Aravena holds out the brass key to Pietro",
+    "Next: an offer for the Plaza Italia unit / find Toño (Puente Alto) / call Rodrigo / research C.M.T. 1981 and the building's history",
+    "Kostas's lunch with Marcela, Thursday 27 Feb",
+    "The viral video; the riders",
+    "Valentina and Yuleidys (Barrio Yungay); Jhonatan in the HT's ICU"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",
