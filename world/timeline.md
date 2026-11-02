@@ -220,6 +220,11 @@ written) history is the campaign's own.
 | 2023-06 | Independencia's shelter flooded | chronicle |
 | 2023-08-14 | Rodrigo and Carolina leave for Seattle: "Alguien tiene que saber. No sé quién." | chronicle |
 
+### Era II, played
+| Date | What happened | Session |
+|---|---|---|
+| 2025-02-25 | The blackout: Pietro sent from the HT to Hora Dorada's Plaza Italia unit, on batteries | 2 |
+
 ### Era I, played (detail)
 | Date | What happened | Session |
 |---|---|---|

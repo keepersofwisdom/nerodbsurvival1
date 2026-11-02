@@ -57,6 +57,13 @@ Template:
   designed every Hora Dorada unit and keeps their archive. **Regard: +1**
 
 ## Hora Dorada, 2025
+### Nelson Aravena — TENS, Unidad Plaza Italia
+- **Age:** ≈60 · Grey stubble; a faded Hora Dorada logo; knows Marcela from the old days; knows
+  where the key is. **Regard: +1** · **Pietro knows:** since 25 Feb 2025
+
+### Dr. Benjamín Soto — night doctor, Unidad Plaza Italia
+- **Age:** 26 · A general physician in his first months; glasses on his forehead; frightened and
+  honest. **Regard: +1**
 ### Felipe Cáceres — CEO of Hora Dorada (since March 2023)
 - **Age:** 44 · Ex-strategy consultant appointed by Andes Health Partners; spreadsheets,
   sneakers with a suit, *"eficiencia"*. Plans closures and a sale-leaseback. **Pietro knows:** of him

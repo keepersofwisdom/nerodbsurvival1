@@ -16,7 +16,9 @@ the network that invented the model, is being cut by the fund that owns it.
 | Kostas Nerod | His father; the possible investor | Money, with strings |
 
 ## Things learned (with session numbers)
--
+- (S2) 25 Feb 2025: Marcela: the Bustamante casona visit tomorrow at 08:00 with Josefina; Kostas Nerod wrote to **her**, not to Pietro, to propose lunch on Thursday; "un amigo" told her the fund will sell the **Plaza Italia unit**, quietly for now.
+- (S2) **15:16, the national blackout.** The HT on generator; the city's traffic lights and Metro dead; patients from the Metro tunnel, home oxygen, the roads.
+- (S2) Hora Dorada's Plaza Italia unit: its generator runs but the **transfer switch failed** (the fund didn't replace it in two years). The night doctor, **Dr. Benjamín Soto** (26, a GP). An old TENS, **Nelson Aravena** (≈60), says there's **"el refugio del doctor Bastías"** downstairs, with a battery bank and inverter installed "el diecinueve, para las noches del estallido", and that he knows where the key is.
 
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
