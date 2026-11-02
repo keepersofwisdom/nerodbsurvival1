@@ -92,9 +92,12 @@ Template:
 ### Diego Fernández — Kairós's lawyer
 - **Age:** 35 · A friend of Cristóbal's; quick and cheap. **Regard: +1**
 
-### Federico Rehbein — real estate (known only by name)
-- **Age:** ~60 · Kostas Nerod's partner in a Vitacura project; "sabe mucho de edificios antiguos".
-  **Pietro knows:** of him
+### Federico Rehbein — Inmobiliaria Rehbein
+- **Age:** 59 · Tall, silver hair worn a little long, cashmere in the heat; the soft perfect
+  Spanish of German-Chilean Las Condes; a grey Audi. Kostas's partner in a Vitacura project.
+  Inspected the Plaza Italia unit (18 Mar 2025). Offered to buy the building and lease it to
+  Kairós. His father (92) "knew Professor Salinas" and wants to meet Pietro. **Regard: 0** ·
+  **Pietro knows:** yes
 
 ### Javiera Bastías Moreno — journalist
 - **Age:** 51 · Investigative reporter, independent outlet; writing a book on the dictatorship's

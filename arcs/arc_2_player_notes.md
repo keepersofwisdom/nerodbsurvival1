@@ -59,6 +59,11 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) **Father (5 Mar, La Dehesa):** conceded only Matías (not CFO, but a board observer for him); kept **35%**; insisted **Federico Rehbein** inspect the site ("Su papá construyó medio Providencia en los ochenta... Le conté del proyecto en un asado y se interesó altiro... Si yo pongo la plata, lo ve quien yo diga... o no hay plata"). Kostas noticed the secrecy.
 - (S2) **Bank (14 Mar):** 22,000 UF (not 33,000) on conditions, including a guarantor with assets and clarification of the appraiser's note on **"puerta metálica con volante, rotulada 'REFUGIO'"** to an unpermitted underground space. Hora Dorada's facilities manager was present; **Cáceres called Marcela** to ask what *refugio* meant (she said a seismic shelter from Rodrigo's time).
 
+- (S2) **Father (17 Mar):** "Cuarenta y cinco por el mismo treinta y cinco es... mesada": **45,000 for 39% or 40,000 for 35%**.
+- (S2) **Federico Rehbein's inspection (18 Mar):** silver hair, cashmere, his own structural engineer; asked to see the generator room; at the corridor door Pietro said "esa parte no está en la visita". Federico: "Un refugio sísmico, me imagino. Mi papá decía que en los ochenta todo el mundo que se respetaba tenía uno. Él conoció mucho al **profesor Salinas**... Grandes amigos." His private offer: **his company buys the building, Kairós buys only the operation (10–12,000 UF) and leases for 30 years**. His father, **92**, "conoció a toda la gente de ese edificio" and wants to meet Pietro. Aravena went very still.
+- (S2) **Second bank (21 Mar):** 24,000 UF at UF+5.2%, father as guarantor, partners' guarantees, and a **sworn statement** on the unpermitted underground space (its appraiser photographed the same door).
+- (S2) Marcela, looking at "Nerods ≈ 64%": "Ah."
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.

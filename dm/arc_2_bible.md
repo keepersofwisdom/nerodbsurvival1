@@ -207,3 +207,9 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   door → **Exposure 2/6**; the fund's facilities manager told Cáceres; Cáceres asked Marcela. Cáceres
   may raise the price or re-think the sale if he learns more (he'll send someone down if Kairós walks).
   Rodrigo (26% of Hora Dorada) is now a real card: he could fund, or vote, or tell.
+- **S2 (17–25 Mar 2025):** Kostas held price (45k/39% or 40k/35%). Federico inspected: kept off
+  the door (Pietro's non-lie), but he showed his hand (Salinas, "refugio sísmico"), made the
+  sale-leaseback offer (his real aim: own the building and B1 for his father) and passed Gustavo's
+  wish to meet. Second bank: 24,000 UF with a sworn statement. Exposure 3/6. If Pietro picks Option
+  1, Kostas + Pietro control Kairós (~64%); Marcela feels sidelined (her Cáceres channel and her
+  ambition make her a potential defector to Federico's plan, who will court her next).

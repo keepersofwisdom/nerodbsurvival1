@@ -232,6 +232,9 @@ written) history is the campaign's own.
 | 2025-03-05 | Dinner at La Dehesa: Kostas holds to 35% and Federico Rehbein's inspection | 2 |
 | 2025-03-11 | The bank's appraiser photographs the green door | 2 |
 | 2025-03-14 | Bank: 22,000 UF with conditions; Cáceres asks Marcela what "refugio" means | 2 |
+| 2025-03-17 | Kostas: 45,000 for 39% or 40,000 for 35% | 2 |
+| 2025-03-18 | Federico Rehbein inspects the Plaza Italia unit; offers a sale-leaseback; his father wants to meet Pietro | 2 |
+| 2025-03-21 | Second bank: 24,000 UF, with a sworn statement on the underground space | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

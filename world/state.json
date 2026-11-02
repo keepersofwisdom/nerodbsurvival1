@@ -2,9 +2,9 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-03-14",
+  "date": "2025-03-25",
   "time": "21:00",
-  "weekday": "Friday",
+  "weekday": "Tuesday",
   "location": "Providencia — Pietro's flat",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
@@ -13,7 +13,7 @@
   "character": {
     "health": "sound",
     "fatigue": 0,
-    "stress": 8,
+    "stress": 9,
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
@@ -38,7 +38,7 @@
     "staff": 1100
   },
   "relationships": {
-    "Kostas Nerod": 1,
+    "Kostas Nerod": 2,
     "Francisca Carrasco": 4,
     "Daniela Fuentes": 3,
     "Cristóbal Henríquez": 3,
@@ -51,7 +51,8 @@
     "Yuleidys (Valentina's carer)": 2,
     "Felipe Cáceres": 0,
     "Toño": 3,
-    "Diego Fernández": 1
+    "Diego Fernández": 1,
+    "Federico Rehbein": 0
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
@@ -74,20 +75,22 @@
     "knows_benavente_name": true,
     "knows_toesca_minus3": true,
     "knows_other_shelters": "Los Leones (the best), La Florida (small), Independencia",
-    "knows_metro_shaft_l5": true
+    "knows_metro_shaft_l5": true,
+    "federico_offer": "Inmobiliaria Rehbein buys the building from the fund; Kairós buys only the operation (≈10–12,000 UF) and leases for 30 years",
+    "gustavo_rehbein_wants_to_meet": true
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
-    "exclusivity": "16 days (to 30 Mar 2025)",
-    "exposure_la_capilla": "[■■□□□□] (bank appraiser's report; Hora Dorada's facilities manager; Cáceres asked Marcela)"
+    "exclusivity": "5 days (to 30 Mar 2025)",
+    "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)"
   },
   "open_threads": [
-    "Kostas's final terms (5 Mar): 40,000 UF for 35%; Matías as board observer (not CFO); Federico Rehbein inspects the site — or no money",
-    "Bank (14 Mar): up to 22,000 UF, 15y, UF+4.9%; mortgage; 4 partners' guarantees; a third-party guarantor with assets; clarification of the 'REFUGIO' door and the unpermitted underground space (regularise or sworn statement)",
-    "Funding ≈75,500 UF vs ≈79,000 needed; exclusivity ends 30 Mar",
-    "Cáceres asked Marcela what 'refugio' means; she said a Rodrigo-era seismic shelter",
-    "Marcela's direct line to Cáceres (unconfronted)",
-    "Josefina: '¿qué estamos buscando?'"
+    "DECIDE by 30 Mar: (1) father 45,000/39% + 2nd bank 24,000 = 82,500 UF; (2) father 40,000/35% + 24,000 = 77,500 (cut working capital); (3) Federico Rehbein buys the building, Kairós leases",
+    "Sworn statement on the underground space required by either bank before the deed",
+    "Marcela at 'Nerods ≈ 64%': 'Ah.'",
+    "Federico: his father (92) knew Prof. Salinas ('grandes amigos') and wants to meet Pietro; 'un refugio sísmico, me imagino'",
+    "Aravena went very still at the name Salinas from Federico's mouth",
+    "Marcela's direct line to Cáceres (unconfronted)"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",
