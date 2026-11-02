@@ -3,7 +3,7 @@
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
-  "time": "16:21",
+  "time": "16:37",
   "weekday": "Tuesday",
   "location": "Hora Dorada, Unidad Plaza Italia — critical-care room (lit by the refuge's battery bank)",
   "session_count": 1,
@@ -56,10 +56,11 @@
   },
   "clocks": {
     "refuge_battery": "≈91% at 16:20 (critical-care room circuit only)",
-    "transport_vent_battery": "≈3 h 40 min at 16:13"
+    "transport_vent_battery": "≈3 h 20 min at 16:37",
+    "jhonatan": "[■■□□□□□□] C2, beat ~10 min; PTX treated (28 Fr drain, 150 mL); splenic bleed ongoing (FAST + LUQ)"
   },
   "open_threads": [
-    "THE BLACKOUT: motorcyclist (Jhonatan, 34, delivery rider) — left chest trauma; bed 1 on Pietro's transport ventilator; bed 2 on noradrenaline (mains via the refuge battery); 4 units whole blood at 5.8 °C",
+    "THE BLACKOUT: Jhonatan (34, delivery rider) — left PTX drained; FAST positive LUQ (spleen), HR 124, BP 96/62; needs definitive haemorrhage control; 4 units whole blood at 5.8 °C in the dead fridge; the HT a block away (theatre 1 busy); he has a 4-year-old daughter with a neighbour",
     "La Capilla is open: the list (2012, 318 names; Marcela, Daniela, Aravena on it), 'Simulacro trimestral. No olvidar. — R.B.', the chained Metro L5 door, the German-labelled filtration unit",
     "Aravena: 'Abajo, en el refugio del doctor Bastías, hay un banco de baterías que pusimos el diecinueve... Yo sé dónde está la llave'",
     "Kairós: casona de Bustamante tomorrow 08:00 with Josefina; Kostas wrote to Marcela directly (lunch Thursday); Marcela's 'amigo': the fund will sell Plaza Italia",

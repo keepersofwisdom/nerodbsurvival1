@@ -163,3 +163,9 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   laceration**, slow bleed (FAST: free fluid in the left upper quadrant / splenorenal; Morison's
   maybe a stripe). He will drift to class II–III shock over ~30–40 min. Definitive: chest drain
   (doable here) + laparotomy/embolisation (HT next door). Whole blood here would buy time.
+- **S2 (16:22–16:37):** Pietro's orders: eFAST, paracetamol 1 g, ketorolac 30 mg, LR 500 wide
+  open, TXA 1 g, fentanyl 60 mcg; then a 28 Fr left chest drain (Procedures success): air +
+  150 mL blood. eFAST found the hidden splenic injury (no roll needed: he looked). Care so far:
+  **good**, with one minor error for the Outcome (**ketorolac**, an NSAID, in a bleeding trauma
+  patient: −1 to the Care modifier, unspoken). Clock 2/8. Next: definitive control needed (HT
+  laparotomy/angio; CT if stable enough); whole blood available here.
