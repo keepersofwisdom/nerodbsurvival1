@@ -29,6 +29,33 @@ Template:
 
 ### Sofía Nerod Carrasco (31, lawyer, New York) · Matías Nerod Carrasco (24, works with their father)
 
+## The venture (Kairós)
+### Dra. Paula Riquelme Soto — his former residency chief; his partner
+- **Born / age:** 1977, 48 · From La Florida; a state *liceo*; U. de Chile medicine; EM residency
+  at the U. de Chile (2003–06).
+- **Career:** one of Clínica Toesca's first emergency physicians (2006); **chief of Hora Dorada's
+  Plaza Italia unit, 2010–2016**; left in 2016, the year Seba Contreras died. Director of the
+  UAndes EM residency 2017–2023 (Pietro's chief). Since 2023, **head of the emergency department
+  at the Hospital del Trabajador**.
+- **Looks and voice:** short dark hair going grey, reading glasses on a cord, a runner's
+  wiry build, nicotine gum. Fast, profane, very funny, merciless about bad medicine; calls Pietro
+  *"Nerod"* and, when he's showing off, *"prodigio"*.
+- **Life:** divorced; one son, Lucas (16).
+- **Relationship:** taught him; trusts him; needs him (and, she won't say, his family's money).
+  Wants to build again what Rodrigo built, **without a fund**. **Regard: +4** · **Pietro knows:** yes
+
+### EU Daniela Fuentes Arancibia — partner (5%), chief nurse
+- **Age:** 41 · Nurse supervisor at the Hospital del Trabajador; worked at Hora Dorada 2009–2014;
+  Puente Alto; two kids; precise, unflappable. **Regard: +3**
+
+### Dr. Cristóbal Henríquez Mella — partner (5%), anaesthetist
+- **Age:** 38 · Anaesthetist at the HT and a private clinic; surfs at Pichilemu on weekends;
+  Pietro's friend from the HT's night theatre. **Regard: +3**
+
+### Arq. Josefina Ureta — the architect
+- **Age:** 39 · Hospital architect; for ten years the associate of **Carolina Ríos** at the firm that
+  designed every Hora Dorada unit and keeps their archive. **Regard: +1**
+
 ## Hora Dorada, 2025
 ### Felipe Cáceres — CEO of Hora Dorada (since March 2023)
 - **Age:** 44 · Ex-strategy consultant appointed by Andes Health Partners; spreadsheets,

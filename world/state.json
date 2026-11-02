@@ -1,7 +1,7 @@
 {
   "phase": "pre-game: Era II — heir's sheet drafted; opening and tie to be confirmed with the player",
   "era": "II — La Herencia",
-  "active_character": "Dr. Pietro Nerod Carrasco (draft)",
+  "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
   "time": null,
   "weekday": "Tuesday",
@@ -20,10 +20,10 @@
     "btc": 2
   },
   "standing": {
-    "medicine": 1,
+    "medicine": 2,
     "business": 1,
-    "state": 0,
-    "street": 0,
+    "state": 1,
+    "street": 1,
     "uniforms": 0,
     "old_men": 0,
     "press": 0
@@ -39,13 +39,26 @@
   },
   "relationships": {
     "Kostas Nerod": 2,
-    "Francisca Carrasco": 4
+    "Francisca Carrasco": 4,
+    "Paula Riquelme": 4,
+    "Daniela Fuentes": 3,
+    "Cristóbal Henríquez": 3,
+    "Josefina Ureta": 1
   },
   "flags": {},
   "clocks": {},
   "open_threads": [
-    "Confirm Pietro's sheet and family",
-    "Choose the opening (recommended: the national blackout, Tue 25 Feb 2025, ≈15:16, Pietro on a paid shift at Clínica Toesca)",
-    "Choose Pietro's tie to the founder (or none)"
-  ]
+    "Confirm: Pietro's family; out to them; single or not",
+    "Confirm the venture's name (Kairós?) and partners",
+    "Choose the opening (recommended: the blackout, Tue 25 Feb 2025, 15:16, Pietro on shift at the Hospital del Trabajador)",
+    "Pietro's tie to Rodrigo beyond Paula (or none)"
+  ],
+  "venture": {
+    "name": "Kairós SpA (working name)",
+    "constituted": "2025-01",
+    "committed_uf": 8500,
+    "cash_uf": 1200,
+    "partners": "Riquelme 30 · Nerod 30 · Fuentes 5 · Henríquez 5 · investor 30 (open)",
+    "target_opening": "2026-03"
+  }
 }
