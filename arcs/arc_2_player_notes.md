@@ -33,6 +33,11 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) **Told Marcela everything** (17:03). She knew the shelter as "el refugio sísmico": quarterly Saturday drills with torches, Rodrigo timing them, Toño joking that the back door led to Line 5 "a La Florida". **Seba and Ximena typed the list** the night after 27F; Seba put her son Lucas (then 3) on it. Toño used to say the refuge was "de antes", that Rodrigo found it rather than built it. Marcela: "Si el fondo vende esa unidad, vende lo que hay abajo... apuesto a que el Cáceres no tiene idea." She asked Pietro to tell **no one** yet (not Daniela, not Cristóbal, not his father) until the two of them go down together tonight.
 - (S2) A video of the sidewalk transfer is circulating in the delivery riders' WhatsApp groups: "El doctor que salvó al repartidor en el apagón".
 
+- (S2) Reached **Yuleidys**, Jhonatan's neighbour in **Barrio Yungay** near the plaza: she's keeping **Valentina** tonight. Told his father he's fine; Kostas: "Así me gusta, campeón."
+- (S2) **Jhonatan:** splenectomy (grade IV spleen, 1.2 L in the abdomen), to ICU; Bustos: "Buen trabajo, colega."
+- (S2) 19:20: **state of catastrophe** declared Arica–Los Lagos, curfew 22:00–06:00. 20:10: Hora Dorada's technician (Ruiz) bypassed the dead transfer switch by hand; the refuge's battery went back to float at 78%.
+- (S2) Aravena on Marcela: "El doctor Bastías decía que usted era la única que no se reía en los simulacros."
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.

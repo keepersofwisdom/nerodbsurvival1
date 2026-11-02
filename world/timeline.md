@@ -223,7 +223,7 @@ written) history is the campaign's own.
 ### Era II, played
 | Date | What happened | Session |
 |---|---|---|
-| 2025-02-25 | The blackout: Pietro sent from the HT to Hora Dorada's Plaza Italia unit, on batteries; opens La Capilla; its battery bank powers the critical-care room; the motorcyclist Jhonatan drained, transfused and carried to the HT's theatre | 2 |
+| 2025-02-25 | The blackout: Pietro sent from the HT to Hora Dorada's Plaza Italia unit, on batteries; opens La Capilla; its battery bank powers the critical-care room; the motorcyclist Jhonatan drained, transfused and carried to the HT's theatre (splenectomy, survives); Pietro tells Marcela; state of catastrophe and curfew; 23:05 Pietro and Marcela at the green door | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

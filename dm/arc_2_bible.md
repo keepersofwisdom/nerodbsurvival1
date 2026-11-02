@@ -182,3 +182,8 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   that. Her secret (1) remains live; she now knows the unit's sale includes B1, which raises her
   stake in hiding her Cáceres channel AND in getting Kostas's money fast. Kostas's message
   confirms the Thursday lunch with Marcela that Pietro hadn't been told about directly.
+- **S2 (17:18–23:05):** Valentina safe with Yuleidys (Barrio Yungay, near the plaza: a light seed
+  near B3, not yet used). Jhonatan's outcome revealed (critical success): full recovery; the riders'
+  goodwill is building (the "something good"). State of catastrophe declared ≈19:20: **this
+  triggers the Huelén lease clause at Toesca −3** (immediate access), but nobody from Huelén comes;
+  Ignacio Larrañaga may notice the clause later. The night descent with Marcela next.
