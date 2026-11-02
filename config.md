@@ -131,3 +131,5 @@ The player has asked for **no restrictions beyond what Claude can do**: NSFW, go
 | H | Chapters | Roughly 2005, 2007, 2010, 2019, 2020, 2025; decided as we go |
 | J | Divergence | Only the bunkers and the Old Men for now; more to be decided together |
 | K | Title | **SUBSUELO** for now |
+| L | Era I's end (player, Nov 2026 real time) | Era I played 31 Mar–27 May 2005, then **written forward to 2023** at the player's direction: the Network succeeds, builds some shelters, changes how prehospital and emergency care work; the world seems safer; the old men die and the bunkers are forgotten. In 2023 the founders scatter abroad (Rodrigo and Carolina to Seattle). The units keep running, some above forgotten shelters. See `world/chronicle_2005_2023.md` |
+| M | Era II | Play moves to **Pietro Nerod Carrasco**, around 2025 (opening and tie to the founder to be confirmed) |

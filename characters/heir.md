@@ -1,5 +1,8 @@
 # THE HEIR — sketch (Era II)
 
+> **Superseded:** the working sheet is now `characters/player.md` (draft). This file keeps the
+> player's original sketch.
+
 *Sketched by the player in October 2026. Full creation (attributes, traits, skills) at the start
 of Era II. His tie to the founder is **not decided yet**.*
 

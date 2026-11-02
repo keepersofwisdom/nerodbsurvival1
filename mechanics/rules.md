@@ -180,7 +180,7 @@ death)**, **Vengeance (for someone)**, **Loyalty (a person or a group)**.
 | **Command & money** | **Leadership** (a team in a code, a staff, a crisis) · **Management** (budgets, staff, logistics, supply) · **Negotiation** (contracts, Isapres, investors, unions) · **Bureaucracy** (permits, SEREMI inspections, Superintendencia, courts, lawyers) |
 | **People** | **Persuasion** · **Deception** · **Empathy** (reading people, breaking bad news, calming a family) · **Intimidation** · **Seduction** · **Streetwise** (barrios, crime, black market, who to pay) · **Investigation** (archives, records, property titles, following a trail) |
 | **Practical** | **Driving** · **Engineering** (construction, generators, HVAC, water, power, the bunker's guts) · **Radio & Electronics** · **Firearms** · **Fighting** (unarmed, knife, restraint) · **Athletics** · **Stealth** · **Outdoors** (the cordillera, survival, foraging) · **Awareness** (noticing, situational sense) |
-| **Learning** | **Languages** (English, French, Portuguese, Mapudungun…) · **Science** (chemistry, radiation, epidemiology) · **History & Politics** (who's who in Chile, what the old men did) |
+| **Learning** | **Languages** (English, French, Portuguese, Mapudungun…) · **Science** (chemistry, radiation, epidemiology) · **History & Politics** (who's who in Chile, what the old men did) · **Digital** (computers, networks, phones, crypto, social media, finding things online; mostly an Era II skill) |
 
 **Untrained:** a skill at 0 may be attempted at an attribute/4 EV (rounded down), at the DM's
 discretion, or not at all (Surgery, Engineering, Languages).

@@ -72,6 +72,17 @@ says **"begin"**, read `config.md`, the player sheet, the arc 1 bible and player
 `research/08_daily_life_and_flavour.md` and the research for the civic district and the Posta
 Central, then open the first scene (Thursday 31 March 2005). Set `phase` to "play".
 
+### Starting Era II (`phase` starts with "pre-game: Era II")
+1. Read `world/chronicle_2005_2023.md`, `dm/era_2_bible.md`, `characters/player.md` (Pietro,
+   draft), `characters/founder.md`, `world/network.md`, and the research for the opening's place
+   and date.
+2. Confirm with the player whatever in `characters/player.md` is marked **[confirm]**, the
+   opening, and Pietro's tie to the founder (`dm/era_2_bible.md §6`).
+3. Write `dm/arc_2_bible.md` from `dm/arc_template.md`, create `arcs/arc_2_player_notes.md`,
+   set `phase` to "play", then open the first scene.
+4. **Pietro knows only what Pietro knows** (`characters/player.md`, "What he knows"). The player
+   has read the chronicle; NPCs treat Pietro as a stranger to the founder's secrets.
+
 ### Resuming ("resume", "continue", or just a new session)
 1. Read `config.md`, `characters/player.md`, `world/state.json`, the **latest session log** in
    `sessions/`, the active `dm/arc_N_bible.md`, `arcs/arc_N_player_notes.md`,

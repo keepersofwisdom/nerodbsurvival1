@@ -35,3 +35,9 @@ Rumour runs ahead of truth.
 | # | Date | What changed | Why (the characters' act) | Consequences to track |
 |---|---|---|---|---|
 | D0 | before 2005 | The Old Men's bunkers exist | Founding premise | See `dm/campaign_bible.md` |
+| D1 | 2006 → | The **Hora Dorada Network** exists: a private network of a flagship clinic, eight stabilization units and ~38 ambulances in Santiago | The founder (Era I) | It competes with and supplies the real system; it doesn't replace SAMU or the public hospitals |
+| D2 | 2007 → | **Motorcycle first responders** in Santiago's private EMS from 2007 | Transantiago chaos | Copied by others in the 2010s |
+| D3 | 2011 → | The **Escuela Hora Dorada** and the *protocolo Hora Dorada*: physician-regulated dispatch, prehospital RSI and TXA, stabilize-and-transfer protocols, a private trauma registry (2012) | The Network's teaching | Taught in many residencies; part of Chilean ED slang |
+| D4 | 2016–18 | **Prehospital whole blood** in Chile (the Network, approved 2018), earlier than in our world's region | Pavez and Bastías | A real advantage in mass casualties |
+| D5 | 2015 | The state's SAR centres argued for partly with the Network's numbers | Influence, not authorship | Minor |
+| D6 | 2010 | The Network's mobile stabilization unit in Talca and Constitución after 27F | The founder | His fame; the state's later disaster planning cites it |

@@ -40,130 +40,130 @@ written) history is the campaign's own.
 | 2005-04-02 | Pope John Paul II dies (15:37 Chile time); flags at half-mast; masses and TV specials | ✔ |
 | 2005-04-08 | Funeral of John Paul II in Rome | ✔ |
 | 2005-04-19 | **Benedict XVI elected**; the Chilean cardinal Jorge Medina Estévez announces the *Habemus Papam* (≈12:43 Santiago time) | ✔ |
-| 2005-04 | Costanera Norte opens in stages (tunnel under the Mapocho riverbed); TAG free-flow tolls begin | |
+| 2005-04 | Costanera Norte opens in stages (tunnel under the Mapocho riverbed); TAG free-flow tolls begin | ✔ |
 | 2005-05-18 | **Antuco tragedy:** 45 conscripts die in a blizzard on a forced march | ✔ |
-| 2005-06-13 | Tarapacá earthquake (M≈7.8), ≈11 dead in the north | |
-| 2005-07-01 | **AUGE/GES in force** (25 conditions); minimum wage → $127,500 | |
-| 2005-09-17 | Lagos signs the reformed constitution (Ley 20.050) | |
-| 2005-11-30 | Metro Line 4 opens | |
-| 2005-12-11 | Presidential first round: Bachelet ≈46%, Piñera ≈25%, Lavín ≈23% | |
+| 2005-06-13 | Tarapacá earthquake (M≈7.8), ≈11 dead in the north | ✔ |
+| 2005-07-01 | **AUGE/GES in force** (25 conditions); minimum wage → $127,500 | ✔ |
+| 2005-09-17 | Lagos signs the reformed constitution (Ley 20.050) | ✔ |
+| 2005-11-30 | Metro Line 4 opens | ✔ |
+| 2005-12-11 | Presidential first round: Bachelet ≈46%, Piñera ≈25%, Lavín ≈23% | ✔ |
 
 ### 2006 — Bachelet; the penguins; Pinochet dies
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2006-01-15 | Run-off: **Bachelet** ≈53.5% | |
-| 2006-03-05 | **Edificio Diego Portales fire** (the old Junta HQ) | |
-| 2006-03-11 | Bachelet inaugurated | |
-| 2006-05 | *Revolución pingüina*: school occupations, national student strike (late May) | |
-| 2006-07-01 | GES → 40 conditions; minimum wage → $135,000 | |
-| 2006-08 | Metro Line 4A opens | |
-| 2006-12-10 | **Pinochet dies** at the Hospital Militar; celebrations in Plaza Italia, mourning at the hospital | |
+| 2006-01-15 | Run-off: **Bachelet** ≈53.5% | ✔ |
+| 2006-03-05 | **Edificio Diego Portales fire** (the old Junta HQ) | ✔ |
+| 2006-03-11 | Bachelet inaugurated | ✔ |
+| 2006-05 | *Revolución pingüina*: school occupations, national student strike (late May) | ✔ |
+| 2006-07-01 | GES → 40 conditions; minimum wage → $135,000 | ✔ |
+| 2006-08 | Metro Line 4A opens | ✔ |
+| 2006-12-10 | **Pinochet dies** at the Hospital Militar; celebrations in Plaza Italia, mourning at the hospital | ✔ |
 
 ### 2007 — Transantiago
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2007-02-10 | **Transantiago launches**: chaos, hours-long waits, Metro Line 1 crushed | |
-| 2007-04-21 | Aysén fjord quake and landslide-tsunami (≈10 dead) | |
-| 2007-07-01 | GES → 56 conditions; minimum wage → $144,000 | |
-| 2007-11-14 | Tocopilla earthquake (M≈7.7) | |
-| 2007 | Inflation 7.8%; Facebook arrives | |
+| 2007-02-10 | **Transantiago launches**: chaos, hours-long waits, Metro Line 1 crushed | ✔ |
+| 2007-04-21 | Aysén fjord quake and landslide-tsunami (≈10 dead) | ✔ |
+| 2007-07-01 | GES → 56 conditions; minimum wage → $144,000 | ✔ |
+| 2007-11-14 | Tocopilla earthquake (M≈7.7) | ✔ |
+| 2007 | Inflation 7.8%; Facebook arrives | ✔ |
 
 ### 2008 — Volcano and crash
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2008-05-02 | Chaitén volcano erupts; town evacuated | |
-| 2008-07-01 | Pensión Básica Solidaria begins; minimum wage → $159,000 | |
-| 2008-08 | iPhone 3G arrives in Chile | |
-| 2008-10 | Global financial crisis; copper crashes; the peso slides to ≈680 | |
+| 2008-05-02 | Chaitén volcano erupts; town evacuated | ✔ |
+| 2008-07-01 | Pensión Básica Solidaria begins; minimum wage → $159,000 | ✔ |
+| 2008-08 | iPhone 3G arrives in Chile | ✔ |
+| 2008-10 | Global financial crisis; copper crashes; the peso slides to ≈680 | ✔ |
 
 ### 2009 — H1N1
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2009-05 | **H1N1:** first cases; peak June–July with EDs and ICUs saturated (≈150 deaths) | |
-| 2009-11 | Ban on demanding cheques/guarantees for emergency care (law of ≈Nov 2009, verify) | |
-| 2009-12-13 | First round: Piñera ≈44%, Frei ≈30%, Enríquez-Ominami ≈20% | |
+| 2009-05 | **H1N1:** first cases; peak June–July with EDs and ICUs saturated (≈150 deaths) | ✔ |
+| 2009-11 | Ban on demanding cheques/guarantees for emergency care (law of ≈Nov 2009, verify) | ✔ |
+| 2009-12-13 | First round: Piñera ≈44%, Frei ≈30%, Enríquez-Ominami ≈20% | ✔ |
 
 ### 2010 — 27F, the miners, the prison
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2010-01-17 | Run-off: **Piñera** ≈51.6% | |
-| 2010-02-27 | **27F: Mw 8.8 earthquake at 03:34** and tsunami; ≈525 dead; looting in Concepción; curfews; in Santiago the airport closes, power and phones fail | |
-| 2010-03-11 | Piñera inaugurated amid M≈6.9 aftershocks | |
-| 2010-08-05 | San José mine collapse; 33 miners trapped | |
-| 2010-10-13 | All 33 miners rescued | |
-| 2010-12-08 | **San Miguel prison fire, Santiago: 81 dead**; burns and smoke casualties to Santiago hospitals | |
+| 2010-01-17 | Run-off: **Piñera** ≈51.6% | ✔ |
+| 2010-02-27 | **27F: Mw 8.8 earthquake at 03:34** and tsunami; ≈525 dead; looting in Concepción; curfews; in Santiago the airport closes, power and phones fail | ✔ |
+| 2010-03-11 | Piñera inaugurated amid M≈6.9 aftershocks | ✔ |
+| 2010-08-05 | San José mine collapse; 33 miners trapped | ✔ |
+| 2010-10-13 | All 33 miners rescued | ✔ |
+| 2010-12-08 | **San Miguel prison fire, Santiago: 81 dead**; burns and smoke casualties to Santiago hospitals | ✔ |
 
 ### 2011 — The student winter
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2011-08-04 | Banned student march, barricades, city-wide *cacerolazo* | |
-| 2011-08-25 | Manuel Gutiérrez (16) shot dead by a Carabinero in Macul | |
-| 2011-09-02 | Juan Fernández air crash: 21 dead, incl. Felipe Camiroaga | |
+| 2011-08-04 | Banned student march, barricades, city-wide *cacerolazo* | ✔ |
+| 2011-08-25 | Manuel Gutiérrez (16) shot dead by a Carabinero in Macul | ✔ |
+| 2011-09-02 | Juan Fernández air crash: 21 dead, incl. Felipe Camiroaga | ✔ |
 
 ### 2012–2018 — The years between
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2012-03-27 | Daniel Zamudio dies after a beating in Parque San Borja | |
-| 2012-06 | Costanera Center mall opens | |
-| 2012-10-28 | Municipal elections: Tohá wins Santiago; Labbé (ex-DINA) loses Providencia | |
-| 2013-09-11 | 40 years since the coup | |
-| 2013-12-15 | Bachelet re-elected (≈62%) | |
-| 2014-04-01 | Iquique earthquake (Mw≈8.2) | |
-| 2014-04-12 | Great Fire of Valparaíso (15 dead) | |
-| 2014-09-08 | Bomb in the Escuela Militar Metro shopping gallery (≈14 injured) | |
-| 2015-02 | Caval scandal | |
-| 2015-07-04 | **Chile wins the Copa América** at the Estadio Nacional; Plaza Italia packed all night | |
-| 2015-09-16 | Illapel earthquake (Mw 8.3) | |
-| 2016-04 | The Mapocho overflows into Providencia near Costanera Center | |
-| 2016-06-26 | Copa América Centenario won (New Jersey) | |
-| 2017-01-26 | Mega-fires; Santa Olga destroyed | |
-| 2017-11-02 | Metro Line 6 opens | |
-| 2017-12-17 | Piñera wins the run-off (≈55%) | |
-| 2018-01-15 | Pope Francis visits; the Church's abuse scandal explodes | |
-| 2018-11-14 | Camilo Catrillanca killed by Carabineros | |
+| 2012-03-27 | Daniel Zamudio dies after a beating in Parque San Borja | ✔ |
+| 2012-06 | Costanera Center mall opens | ✔ |
+| 2012-10-28 | Municipal elections: Tohá wins Santiago; Labbé (ex-DINA) loses Providencia | ✔ |
+| 2013-09-11 | 40 years since the coup | ✔ |
+| 2013-12-15 | Bachelet re-elected (≈62%) | ✔ |
+| 2014-04-01 | Iquique earthquake (Mw≈8.2) | ✔ |
+| 2014-04-12 | Great Fire of Valparaíso (15 dead) | ✔ |
+| 2014-09-08 | Bomb in the Escuela Militar Metro shopping gallery (≈14 injured) | ✔ |
+| 2015-02 | Caval scandal | ✔ |
+| 2015-07-04 | **Chile wins the Copa América** at the Estadio Nacional; Plaza Italia packed all night | ✔ |
+| 2015-09-16 | Illapel earthquake (Mw 8.3) | ✔ |
+| 2016-04 | The Mapocho overflows into Providencia near Costanera Center | ✔ |
+| 2016-06-26 | Copa América Centenario won (New Jersey) | ✔ |
+| 2017-01-26 | Mega-fires; Santa Olga destroyed | ✔ |
+| 2017-11-02 | Metro Line 6 opens | ✔ |
+| 2017-12-17 | Piñera wins the run-off (≈55%) | ✔ |
+| 2018-01-15 | Pope Francis visits; the Church's abuse scandal explodes | ✔ |
+| 2018-11-14 | Camilo Catrillanca killed by Carabineros | ✔ |
 
 ### 2019 — The estallido
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2019-01-22 | Metro Line 3 opens | |
-| 2019-10-14 | Mass fare evasion begins | |
-| 2019-10-18 | **18-O:** Metro stations burn; the Enel tower burns; state of emergency; soldiers in the streets | |
-| 2019-10-19 | Curfews begin (to 27 Oct) | |
-| 2019-10-25 | **≈1.2 million march** around Plaza Italia ("Plaza de la Dignidad") | |
-| 2019-11-08 | Gustavo Gatica blinded by police pellets at Plaza Italia | |
-| 2019-11-12 | General strike; a very violent night | |
-| 2019-11-15 | Acuerdo por la Paz Social y la Nueva Constitución | |
-| 2019-11-26 | Fabiola Campillai blinded by a tear-gas canister | |
-| 2019-12 | 400+ eye injuries counted; the UTO at Hospital del Salvador overwhelmed | |
+| 2019-01-22 | Metro Line 3 opens | ✔ |
+| 2019-10-14 | Mass fare evasion begins | ✔ |
+| 2019-10-18 | **18-O:** Metro stations burn; the Enel tower burns; state of emergency; soldiers in the streets | ✔ |
+| 2019-10-19 | Curfews begin (to 27 Oct) | ✔ |
+| 2019-10-25 | **≈1.2 million march** around Plaza Italia ("Plaza de la Dignidad") | ✔ |
+| 2019-11-08 | Gustavo Gatica blinded by police pellets at Plaza Italia | ✔ |
+| 2019-11-12 | General strike; a very violent night | ✔ |
+| 2019-11-15 | Acuerdo por la Paz Social y la Nueva Constitución | ✔ |
+| 2019-11-26 | Fabiola Campillai blinded by a tear-gas canister | ✔ |
+| 2019-12 | 400+ eye injuries counted; the UTO at Hospital del Salvador overwhelmed | ✔ |
 
 ### 2020–2021 — COVID
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2020-03-03 | First COVID case in Chile | |
-| 2020-03-18 | State of catastrophe (to Sept 2021) | |
-| 2020-03-22 | National curfew begins (22:00–05:00) | |
-| 2020-05-15 | Total quarantine for Greater Santiago | |
-| 2020-06 | Santiago ICU occupancy ≈95–98%; patients flown to other regions | |
-| 2020-10-25 | Plebiscite: Apruebo ≈78% | |
-| 2021-02-03 | Mass vaccination begins | |
-| 2021-03-12 | General Baquedano statue removed from the plaza | |
-| 2021-04 | Second wave: record ICU census | |
-| 2021-12-19 | **Boric** wins the run-off (≈55.9%) | |
+| 2020-03-03 | First COVID case in Chile | ✔ |
+| 2020-03-18 | State of catastrophe (to Sept 2021) | ✔ |
+| 2020-03-22 | National curfew begins (22:00–05:00) | ✔ |
+| 2020-05-15 | Total quarantine for Greater Santiago | ✔ |
+| 2020-06 | Santiago ICU occupancy ≈95–98%; patients flown to other regions | ✔ |
+| 2020-10-25 | Plebiscite: Apruebo ≈78% | ✔ |
+| 2021-02-03 | Mass vaccination begins | ✔ |
+| 2021-03-12 | General Baquedano statue removed from the plaza | ✔ |
+| 2021-04 | Second wave: record ICU census | ✔ |
+| 2021-12-19 | **Boric** wins the run-off (≈55.9%) | ✔ |
 
 ### 2022–2024
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2022-03-11 | Boric inaugurated | |
-| 2022-05-12 | Journalist Francisca Sandoval dies after being shot in Barrio Meiggs | |
-| 2022-09-04 | Plebiscite: Rechazo ≈62% | |
-| 2022 | Inflation 12.8%; homicide rate at a historic high; Isapre crisis | |
-| 2023-09-11 | 50 years since the coup; Plan Nacional de Búsqueda | |
-| 2023-10-20 | Pan American Games in Santiago (to 5 Nov) | |
-| 2023-12-17 | Second constitutional draft rejected | |
-| 2024-02-02 | **Viña del Mar fire**, ≈137 dead (mass burn casualties) | |
-| 2024-02-06 | Ex-president Piñera dies in a helicopter crash | |
-| 2024-03-01 | Ronald Ojeda's body found in Maipú (Tren de Aragua) | |
-| 2024-08-01 | **Windstorm blackout in Santiago**: ≈750,000 customers out, some for over a week | |
+| 2022-03-11 | Boric inaugurated | ✔ |
+| 2022-05-12 | Journalist Francisca Sandoval dies after being shot in Barrio Meiggs | ✔ |
+| 2022-09-04 | Plebiscite: Rechazo ≈62% | ✔ |
+| 2022 | Inflation 12.8%; homicide rate at a historic high; Isapre crisis | ✔ |
+| 2023-09-11 | 50 years since the coup; Plan Nacional de Búsqueda | ✔ |
+| 2023-10-20 | Pan American Games in Santiago (to 5 Nov) | ✔ |
+| 2023-12-17 | Second constitutional draft rejected | ✔ |
+| 2024-02-02 | **Viña del Mar fire**, ≈137 dead (mass burn casualties) | ✔ |
+| 2024-02-06 | Ex-president Piñera dies in a helicopter crash | ✔ |
+| 2024-03-01 | Ronald Ojeda's body found in Maipú (Tren de Aragua) | ✔ |
+| 2024-08-01 | **Windstorm blackout in Santiago**: ≈750,000 customers out, some for over a week | ✔ |
 
 ### 2025 — The blackout; Kast (Era II begins around here)
 | Date | Event | ✔/✘ |
@@ -192,6 +192,35 @@ written) history is the campaign's own.
 ---
 
 ## Part 2 — Campaign chronicle
+
+*Era I in detail (played, 31 Mar–27 May 2005) below; the rest of Era I, 2005–2023, is in
+`world/chronicle_2005_2023.md`, summarised here.*
+
+| Date | What happened (Era I, written forward) | Source |
+|---|---|---|
+| 2005-06-09 | Hora Dorada buys the Edificio Caja Austral | chronicle |
+| 2005-09 | The −3 excavation breaks into B2 "El Archivo" (La Mesa's archive; the 1990 wall) | chronicle |
+| 2006-04-03 | Clínica Toesca opens (Fase 1) | chronicle |
+| 2007-02 | Motorcycle first responders (Transantiago) | chronicle |
+| 2007-12 | Salinas dies ("Yungay"); B1 "La Capilla" passes to the Network | chronicle |
+| 2008 | Unidad Plaza Italia opens over B1; the Quilicura drugs case quietly closed | chronicle |
+| 2009-07-14 | A refurbished MedSur ventilator fails; a patient dies; Pato bought out (2010) | chronicle |
+| 2010-02-27 | 27F: the Network's night; the convoy to Talca and Constitución; Larrañaga's family in −3; "la lista" | chronicle |
+| 2011-03 | Larrañaga dies; Rehbein: "Lo que Anselmo le dio no era de Anselmo" | chronicle |
+| 2011 | The Escuela Hora Dorada; prehospital tranexamic acid | chronicle |
+| 2014 | Benavente dies | chronicle |
+| 2015 | Hernán dies; tells Rodrigo of Benavente's 1987 ask. Unidad Los Leones (the best shelter) | chronicle |
+| 2016-07 | Seba dies in Toesca's on-call room; the list is never updated again | chronicle |
+| 2016–18 | Prehospital whole blood (approved 2018) | chronicle |
+| 2019-08 | Pincheira dies | chronicle |
+| 2019-10 | Unidad Plaza Italia at the corner of the estallido; B1 as a refuge | chronicle |
+| 2020–21 | COVID: transfers for the UGCC; Toesca −3 a staff dormitory | chronicle |
+| 2021-11 | Andes Health Partners buys 60% | chronicle |
+| 2022-03 | Rodrigo finds Los Leones' filters mouldy; writes, doesn't fix | chronicle |
+| 2023-06 | Independencia's shelter flooded | chronicle |
+| 2023-08-14 | Rodrigo and Carolina leave for Seattle: "Alguien tiene que saber. No sé quién." | chronicle |
+
+### Era I, played (detail)
 | Date | What happened | Session |
 |---|---|---|
 | 2005-03-31 | Rodrigo views three buildings by La Moneda; notices the painted arch in the Caja Austral's basement −2 | 1 |

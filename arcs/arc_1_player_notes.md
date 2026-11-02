@@ -1,5 +1,7 @@
 # ARC 1 — La Primera Piedra — What the Founder knows
 
+> **Closed.** Played to 27 May 2005; everything after is in `world/chronicle_2005_2023.md`.
+
 ## The situation as he understands it
 Back from Banda Aceh in February 2005 with the idea finished: a flagship clinic in the civic
 district, then small stabilization units across Santiago, tied together by ambulances. Get the

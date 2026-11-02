@@ -22,6 +22,10 @@
    going) are the skills of the end, and they cost the soul the same way.
 
 ## 2. The spine (eras and arcs mapped to real history)
+
+> **Status (Nov 2026 real time):** Arc 1 was played to 27 May 2005; the player then had Era I
+> **written forward to 2023** (`world/chronicle_2005_2023.md`). Arcs 2–8 below happened in that
+> chronicle, not in play. **Era II is next; its strategic bible is `dm/era_2_bible.md`.**
 | Arc | Years | Real anchors | What the arc does |
 |---|---|---|---|
 | **1. La Primera Piedra** | 2005 | Costanera Norte opens (Apr); Antuco tragedy (18 May); Tarapacá quake (13 Jun); GES in force (1 Jul); constitutional reforms (Sep); elections (Dec–Jan) | Money, site, permits, first patients, first ambulances; **the wall beneath** (first contact with the Old Men's world) |
@@ -102,8 +106,9 @@ Metropolitano** (ex-Militar, Holanda 060) whose MINSAL lease runs out ~2026, its
 against Costanera Center's deepest levels; the **Costanera Norte** maintenance galleries under the
 Mapocho (they flood first, as in April 2016).
 
-### 3.3 The founder's end (decided **in play, by the player**)
-The DM doesn't plan it. These are only the shapes it could take, to be ready:
+### 3.3 The founder's end (decided by the player, Nov 2026)
+**He leaves.** In August 2023 Rodrigo and Carolina move to Seattle; he keeps 26% and a notebook
+that ends "Alguien tiene que saber. No sé quién." The other shapes below were not used:
 - **Dies** (natural, accident, or murder for the bunkers) in 2024–25, perhaps on the night of the
   **2025 blackout**, perhaps leaving letters for the heir.
 - **Disappears** (into a bunker, abroad, killed and hidden).

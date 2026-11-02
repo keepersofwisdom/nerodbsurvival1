@@ -24,3 +24,17 @@ Hidden motives, lies, plans and truths of NPCs. Never shown to the player.
 | **Salinas** (update 7 May 2005) | Lied that the certificate 'no tiene nada que ver con su edificio': the coded 1985–87 ledger of B3's guests is in B2 under the Caja Austral. Anticoagulated (TACO) → the fall/subdural set piece is primed. Will push 'staff on the list' inside La Mesa; wants the private channel kept | Larrañaga will learn of the tea | A fall; near death; confronted with B2's archive | Active |
 | **Carolina** (update 5 May 2005) | Hurt by 'te cuento cuando sepa bien qué es' after two weeks of secrecy; Javiera has been asking her about 'los Larrañaga'. She'll be asked to sign the mortgage authorisation | Javiera (partly) | Her signature | Active |
 | **Larrañaga** (17 May 2005) | Annoyed by the tea and by the architect push; wants Carolina bound by the confidentiality if she looks below −2. Benavente will prepare two sets of drawings for −3 (DOM permit set: 'bodegas y recintos técnicos'; private set: the shelter, its filtration, and the planned 'accidental' breakthrough into B2). If Carolina signs the permit set, she is exposed | Benavente | Carolina's eye; a DOM inspection; an accident | Active |
+
+## ERA II (2025) — see `dm/era_2_bible.md §2` for the full table
+
+| NPC | Secret | Who else knows | How it can come out | Status |
+|---|---|---|---|---|
+| **Gustavo Rehbein** (92) | Owns B4 "La Quinta" (La Reina), across the San Ramón fault; knows all of La Mesa's shelters and B3; wants the Caja Austral's underground back "in the family" | His son Federico | His son; a visit; his death | Active |
+| **Federico Rehbein** (59) | Inmobiliaria Rehbein will bid in the fund's sale-leaseback of the Caja Austral; knows his father's friends "built others" | His father | The sale; Huelén's right of first refusal | Active |
+| **Ignacio Larrañaga Mena** (38) | Runs Inversiones Huelén; found his grandfather's letters (2024) naming "la Mesa" and "el doctor"; pays the −3 rent without knowing why | — | The sale's first-refusal notice; a letter | Active |
+| **Joaquín Benavente** (42) | Holds the general's sealed boxes (plans B1–B4, the original 1985–87 ledger) in a storage unit in Huechuraba; never opened the sealed ones | — | Money; a death in the family; someone asking about his grandfather | Active |
+| **Bastián Pincheira** (31) | Knows Toesca −3's keypad code (never changed) and "el Tata cuidaba dos sótanos"; heard of a door to a Metro station | His mother Rosa (partly) | Trust; a crisis (the blackout) | Active |
+| **Rosa Pincheira** (58) | Inherited B3's building in Barrio Yungay without knowing what's below; wants to sell to developers | — | A sale; a demolition | Active |
+| **Felipe Cáceres** (44) | The fund's plan: close Estación Central and Independencia, sell Plaza Italia (B1 below), sale-leaseback of the Caja Austral; doesn't know what's under any of them | The fund | Due diligence; the 2005 lease file | Active |
+| **Javiera Bastías** (51) | Suspects her brother's 2005 investors; never proved it; her book | Her editor | Pietro asking; the sale in the news | Active |
+| **Rodrigo Bastías** (55) | Never learned B3, the ledger's meaning or what "Yungay" meant; still has 26% and a vote; ambivalent: wants it to end, and wants someone to know | Carolina | A call; a crisis; Pietro | Active |
