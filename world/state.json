@@ -3,9 +3,9 @@
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-02-25",
-  "time": "16:37",
+  "time": "17:02",
   "weekday": "Tuesday",
-  "location": "Hora Dorada, Unidad Plaza Italia — critical-care room (lit by the refuge's battery bank)",
+  "location": "Providencia — Hospital del Trabajador, ED corridor",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -45,7 +45,9 @@
     "Josefina Ureta": 1,
     "Marcela Riquelme": 4,
     "Nelson Aravena": 2,
-    "Benjamín Soto": 1
+    "Benjamín Soto": 1,
+    "Ignacio Bustos": 1,
+    "Jhonatan (patient)": 3
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
@@ -57,10 +59,12 @@
   "clocks": {
     "refuge_battery": "≈91% at 16:20 (critical-care room circuit only)",
     "transport_vent_battery": "≈3 h 20 min at 16:37",
-    "jhonatan": "[■■□□□□□□] C2, beat ~10 min; PTX treated (28 Fr drain, 150 mL); splenic bleed ongoing (FAST + LUQ)"
+    "jhonatan": "In theatre 2 at 16:58 (Dr. Ignacio Bustos, laparotomy). Outcome rolled: CRITICAL (full recovery + something good) — reveal later tonight"
   },
   "open_threads": [
-    "THE BLACKOUT: Jhonatan (34, delivery rider) — left PTX drained; FAST positive LUQ (spleen), HR 124, BP 96/62; needs definitive haemorrhage control; 4 units whole blood at 5.8 °C in the dead fridge; the HT a block away (theatre 1 busy); he has a 4-year-old daughter with a neighbour",
+    "Marcela: '¿Cómo tenían luz en la sala crítica? ¿Qué hicieron?' — what to tell her about La Capilla and the list",
+    "Jhonatan's daughter Valentina (4) is with a neighbour; someone must reach her",
+    "Plaza Italia unit: Benjamín + Aravena with bed 1 (Pietro's transport vent, ~3 h) and bed 2; the refuge open; the transfer switch dead",
     "La Capilla is open: the list (2012, 318 names; Marcela, Daniela, Aravena on it), 'Simulacro trimestral. No olvidar. — R.B.', the chained Metro L5 door, the German-labelled filtration unit",
     "Aravena: 'Abajo, en el refugio del doctor Bastías, hay un banco de baterías que pusimos el diecinueve... Yo sé dónde está la llave'",
     "Kairós: casona de Bustamante tomorrow 08:00 with Josefina; Kostas wrote to Marcela directly (lunch Thursday); Marcela's 'amigo': the fund will sell Plaza Italia",

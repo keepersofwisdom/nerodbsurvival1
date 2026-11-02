@@ -61,6 +61,13 @@ Template:
 - **Age:** ≈60 · Grey stubble; a faded Hora Dorada logo; knows Marcela from the old days; knows
   where the key is. **Regard: +1** · **Pietro knows:** since 25 Feb 2025
 
+### Dr. Ignacio Bustos — general surgeon on call, Hospital del Trabajador
+- **Age:** 45 · Calm, quick hands, few words; "Buen drenaje." **Regard: +1**
+
+### Jhonatan — patient (25 Feb 2025)
+- **Age:** 34 · Delivery rider from Maracaibo; motorcycle hit at the dead Plaza Italia roundabout;
+  splenic injury; to theatre 16:58. Daughter **Valentina** (4), with a neighbour. **Regard: +3**
+
 ### Dr. Benjamín Soto — night doctor, Unidad Plaza Italia
 - **Age:** 26 · A general physician in his first months; glasses on his forehead; frightened and
   honest. **Regard: +1**

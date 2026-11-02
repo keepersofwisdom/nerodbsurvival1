@@ -169,3 +169,10 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   **good**, with one minor error for the Outcome (**ketorolac**, an NSAID, in a bleeding trauma
   patient: −1 to the Care modifier, unspoken). Clock 2/8. Next: definitive control needed (HT
   laparotomy/angio; CT if stable enough); whole blood available here.
+- **S2 (16:38–17:02):** Whole blood started (warmer on the refuge's power); Marcela opened theatre
+  2; Pietro's reassurance in Spanish; transfer on the sidewalk (Critical Care success); handover to
+  Dr. Ignacio Bustos; theatre at 16:58. **Outcome rolled CRITICAL**: splenectomy, full recovery,
+  and **something good**: the young man filming the gurney posts it; it goes round the delivery
+  riders' WhatsApp groups ("el doctor del apagón"); the riders, thousands of them, become a
+  goodwill network for Kairós (a motorcycle first-responder idea, reborn). Reveal tonight. Marcela's
+  question about the light is the first test of what Pietro shares.

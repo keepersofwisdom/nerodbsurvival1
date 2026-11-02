@@ -29,3 +29,5 @@
 2026-11-02 20:09:55  injury (car vs pedestrian or rollover): d6 1, vehicle +5, margin +1 = 7 → SERIOUS — Injured (−5): needs urgent care or surgery; can deteriorate (C2, clock 8) | location d20 5: chest — rib fractures, flail, contusion, tension PTX, aortic tear if high energy
 2026-11-02 20:09:55  Blood fridge temperature drift (1-10 still <6°C; 11-20 above 6°C): 1d20 = [3] = 3
 2026-11-02 20:16:43  Procedures (chest drain, left; blackout, a frightened assistant) 16-2 (EV 14): rolled 3 → success
+2026-11-02 20:19:52  Critical Care (transfer on a gurney, 150 m of dark street, drain and whole blood running) 15-2 (EV 13): rolled 6 → success
+2026-11-02 20:19:52  Outcome (Jhonatan: Reserve 16, care +1 [good, ketorolac -1], clock +4, definitive care +2; reveal later) 16+7 (EV 23): rolled 17 (+3 → 20) → CRITICAL
