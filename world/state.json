@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-03-03",
-  "time": "20:30",
-  "weekday": "Monday",
-  "location": "Providencia — Pietro's flat near Los Leones",
+  "date": "2025-03-14",
+  "time": "21:00",
+  "weekday": "Friday",
+  "location": "Providencia — Pietro's flat",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -13,7 +13,7 @@
   "character": {
     "health": "sound",
     "fatigue": 0,
-    "stress": 6,
+    "stress": 8,
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
@@ -38,7 +38,7 @@
     "staff": 1100
   },
   "relationships": {
-    "Kostas Nerod": 2,
+    "Kostas Nerod": 1,
     "Francisca Carrasco": 4,
     "Daniela Fuentes": 3,
     "Cristóbal Henríquez": 3,
@@ -78,17 +78,16 @@
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
-    "exclusivity": "27 days (to 30 Mar 2025)",
-    "exposure_la_capilla": "[■□□□□□] (Josefina: '¿qué estamos buscando?')"
+    "exclusivity": "16 days (to 30 Mar 2025)",
+    "exposure_la_capilla": "[■■□□□□] (bank appraiser's report; Hora Dorada's facilities manager; Cáceres asked Marcela)"
   },
   "open_threads": [
-    "Money for the Plaza Italia unit by 30 Mar: ≈79,000 UF needed (price 49,000 + works 10,000 + working capital 20,000)",
-    "Kostas's terms (lunch with Marcela, 27 Feb): 40,000 UF for 35%, a board seat, Matías as CFO, and his partner Federico Rehbein to 'review' the site",
-    "Marcela has a direct line to Cáceres ('el Felipe'); she said 'un amigo'",
-    "Toño: built by 'unos viejos ricos en los ochenta, para la bomba'; Salinas gave it with the building; General Benavente restored it; 27F: an old man and his family slept two nights in Toesca's 'menos tres'; Rodrigo had others (Los Leones, the best; La Florida; Independencia); the L5 shaft leads to the tunnel",
-    "DOM Providencia: no permits 1975–1990; the 2008 'ampliación sala de grupo electrógeno' four times too big (drawings by Arq. Carolina Ríos)",
-    "Josefina: 'Pietro, ¿qué estamos buscando?'",
-    "The viral video; Jhonatan in ICU; Valentina with Yuleidys"
+    "Kostas's final terms (5 Mar): 40,000 UF for 35%; Matías as board observer (not CFO); Federico Rehbein inspects the site — or no money",
+    "Bank (14 Mar): up to 22,000 UF, 15y, UF+4.9%; mortgage; 4 partners' guarantees; a third-party guarantor with assets; clarification of the 'REFUGIO' door and the unpermitted underground space (regularise or sworn statement)",
+    "Funding ≈75,500 UF vs ≈79,000 needed; exclusivity ends 30 Mar",
+    "Cáceres asked Marcela what 'refugio' means; she said a Rodrigo-era seismic shelter",
+    "Marcela's direct line to Cáceres (unconfronted)",
+    "Josefina: '¿qué estamos buscando?'"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",

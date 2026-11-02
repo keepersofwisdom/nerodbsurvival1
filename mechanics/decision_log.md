@@ -28,3 +28,4 @@ Significant choices and their consequences, as they happen. The DM logs them dur
 | 21 | 2025-02-26 | 2 | Heir | Took the key from Aravena | — | He's the keeper now | |
 | 22 | 2025-02-28 | 2 | Heir | Moved fast: LOI to the fund for the Plaza Italia unit before listing; told nobody what's below | — | 49,000 UF, 30 days' exclusivity, 500 UF guarantee | Financing by 30 Mar |
 | 23 | 2025-03-01 | 2 | Heir | Researched the building's history; visited Toño; searched the DOM with Josefina | — | Salinas, Benavente, Toesca −3, the other shelters; no permits 1975–90 | Josefina is asking questions |
+| 24 | 2025-03-05 | 2 | Heir | Negotiated with his father: 30%, no Matías as CFO, no outside inspection (no Rehbein); asked the bank for a bigger loan | — | Father conceded only Matías (observer); kept 35% and Rehbein's inspection; bank gave 22,000 UF and flagged the 'REFUGIO' door | Exposure 2; Cáceres asked about the refuge |

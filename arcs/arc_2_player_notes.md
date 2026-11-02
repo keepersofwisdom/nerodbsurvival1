@@ -56,6 +56,9 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) **Toño** (Puente Alto, 2 Mar): Rodrigo told him (2008) the refuge was built "por unos viejos ricos en los ochenta, para la bomba"; Salinas gave it with the building; **General (R) Benavente** came to restore it ("derecho como un poste"); on **27F** an extremely old man arrived at Toesca at 5 a.m. with his family and a nurse, and Rodrigo took them down to **Toesca's "menos tres"** for two nights; Rodrigo had **others of his own: Los Leones (the best), La Florida (small), Independencia**; the L5 door leads up a ladder to the **Line 5 tunnel** (Toño climbed it in 2012). "Se fue... y no le dijo a nadie qué hacer con esto... porque no sabía a quién."
 - (S2) **DOM Providencia (3 Mar):** no permits or works on file for 1975–1990; Hora Dorada's 2007–08 drawings by **Arq. Carolina Ríos** show an "ampliación sala de grupo electrógeno" four times too big. Josefina: "O lo hicieron sin permiso, o alguien se llevó la carpeta... Pietro, ¿qué estamos buscando?"
 
+- (S2) **Father (5 Mar, La Dehesa):** conceded only Matías (not CFO, but a board observer for him); kept **35%**; insisted **Federico Rehbein** inspect the site ("Su papá construyó medio Providencia en los ochenta... Le conté del proyecto en un asado y se interesó altiro... Si yo pongo la plata, lo ve quien yo diga... o no hay plata"). Kostas noticed the secrecy.
+- (S2) **Bank (14 Mar):** 22,000 UF (not 33,000) on conditions, including a guarantor with assets and clarification of the appraiser's note on **"puerta metálica con volante, rotulada 'REFUGIO'"** to an unpermitted underground space. Hora Dorada's facilities manager was present; **Cáceres called Marcela** to ask what *refugio* meant (she said a seismic shelter from Rodrigo's time).
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.

@@ -60,7 +60,8 @@ Standing: Medicine +2 (Marcela's name) · Business +1 · State 0 · Street 0 · 
 | Project | Clock | Next step |
 |---|---|---|
 | Choose the site | [■■■□] | **Exclusivity on Hora Dorada's Plaza Italia unit**: 49,000 UF, 30 days to 30 Mar 2025, subject to DD and financing; 500 UF guarantee paid |
-| The investor (30%) | [■■□□□□] | Kostas's terms (27 Feb): 40,000 UF for 35%, a board seat, Matías as CFO, Federico Rehbein to 'review' the site |
+| The investor (30%) | [■■■□□□] | Kostas's final terms (5 Mar): 40,000 UF for **35%**, a board seat, Matías as board observer (not CFO), **Federico Rehbein inspects the site**, or no money |
+| Bank loan | [■■□□] | Approved 14 Mar: **22,000 UF**, UF+4.9%, 15y; mortgage, partners' guarantees, a third-party guarantor, and clarification of the 'REFUGIO' door (unpermitted space) |
 | Permits (DOM + SEREMI) | [■□□□□□] | Depends on the site |
 | Contracts (the mutual, Isapres) | [■□□□] | Marcela's conflict of interest |
 | Team | [■■□□] | Formal offers once the money is in |

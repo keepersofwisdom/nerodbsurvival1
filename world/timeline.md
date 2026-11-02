@@ -229,6 +229,9 @@ written) history is the campaign's own.
 | 2025-02-28 | Cáceres grants Kairós 30 days' exclusivity on the Plaza Italia unit (49,000 UF) | 2 |
 | 2025-03-02 | Toño in Puente Alto | 2 |
 | 2025-03-03 | DOM Providencia: no permits 1975–90 | 2 |
+| 2025-03-05 | Dinner at La Dehesa: Kostas holds to 35% and Federico Rehbein's inspection | 2 |
+| 2025-03-11 | The bank's appraiser photographs the green door | 2 |
+| 2025-03-14 | Bank: 22,000 UF with conditions; Cáceres asks Marcela what "refugio" means | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

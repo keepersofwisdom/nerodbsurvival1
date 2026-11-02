@@ -201,3 +201,9 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   title chain and obituary (Rodrigo's eulogy). DOM search failed (no 1975–90 records; Josefina now
   curious: Exposure 1). The bunker under Toesca is now a known thread: Bastián Pincheira saw Pietro
   in Toesca's corridor.
+- **S2 (5–14 Mar 2025):** Kostas negotiation failed (Kostas won): only Matías conceded (as board
+  observer). Federico Rehbein told Kostas at an asado he'd "help": he wants inside B1's building;
+  Kostas now smells a secret. Bank: committee CRITICAL: 22,000 UF and the appraiser documented the
+  door → **Exposure 2/6**; the fund's facilities manager told Cáceres; Cáceres asked Marcela. Cáceres
+  may raise the price or re-think the sale if he learns more (he'll send someone down if Kairós walks).
+  Rodrigo (26% of Hora Dorada) is now a real card: he could fund, or vote, or tell.
