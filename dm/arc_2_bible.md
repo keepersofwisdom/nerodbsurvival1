@@ -193,3 +193,11 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   buy the unit hardens; her Cáceres channel is now more dangerous to her (if Pietro learns it
   after tonight, Regard drops). Aravena offers Pietro the key (he chooses Pietro over Marcela:
   "el doctor joven es el que bajó primero").
+- **S2 (26 Feb–3 Mar 2025):** Pietro took the key. Pietro's secret Empathy succeeded: he knows
+  Marcela had a direct Cáceres line. Kostas's terms include **Federico Rehbein** reviewing the site
+  (Rehbein's play: get inside B1's building; if blocked, he'll bid after 30 Mar or pressure Kostas).
+  Cáceres negotiation won narrowly: 49,000 UF, 30 days. Toño (success) gave: Salinas, Benavente,
+  Toesca −3 (Larrañaga's 27F night), Rodrigo's own shelters. Online research gave the Salinas
+  title chain and obituary (Rodrigo's eulogy). DOM search failed (no 1975–90 records; Josefina now
+  curious: Exposure 1). The bunker under Toesca is now a known thread: Bastián Pincheira saw Pietro
+  in Toesca's corridor.

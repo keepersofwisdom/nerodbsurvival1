@@ -25,3 +25,6 @@ Significant choices and their consequences, as they happen. The DM logs them dur
 | 18 | 2025-02-25 | 2 | Heir | Jhonatan: eFAST, analgesia (incl. ketorolac), LR, TXA, chest drain, whole blood, sidewalk transfer to the HT's theatre; promised him 'te vamos a salvar' | — | In theatre 16:58 | Outcome pending (to be learned tonight) |
 | 19 | 2025-02-25 | 2 | Heir | Told Marcela everything: the refuge, the battery bank, the list with her and her son's names | Everything / some / deflect | She asked for silence until they see it together tonight | Trust given; hers not yet fully returned |
 | 20 | 2025-02-26 | 2 | Heir | Went down with Marcela alone; photographed everything systematically | Alone / with Aravena / call Rodrigo first / photograph | Found the 1980 plate and C.M.T. 1981 stamp; the logbook; the Metro voices | A record exists (214 photos) |
+| 21 | 2025-02-26 | 2 | Heir | Took the key from Aravena | — | He's the keeper now | |
+| 22 | 2025-02-28 | 2 | Heir | Moved fast: LOI to the fund for the Plaza Italia unit before listing; told nobody what's below | — | 49,000 UF, 30 days' exclusivity, 500 UF guarantee | Financing by 30 Mar |
+| 23 | 2025-03-01 | 2 | Heir | Researched the building's history; visited Toño; searched the DOM with Josefina | — | Salinas, Benavente, Toesca −3, the other shelters; no permits 1975–90 | Josefina is asking questions |

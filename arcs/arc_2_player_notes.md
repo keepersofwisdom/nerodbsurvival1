@@ -48,6 +48,14 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) Marcela: "Esto no lo construyó el Rodrigo. Esto es del ochenta y uno... nadie construye esto para una clínica... Esta unidad no puede quedar en manos de cualquiera."
 - (S2) Aravena offered Pietro the brass key.
 
+- (S2) Took **the key** from Aravena: "El doctor Bastías me la pasó a mí el diecinueve. Ahora usted."
+- (S2) Marcela got a meeting with Cáceres within a day and called him "el Felipe": **she has a direct line to him** ("un amigo" was not a friend).
+- (S2) **Kostas's terms** (lunch with Marcela, 27 Feb): 40,000 UF for **35%**, a board seat, **Matías as CFO**, and "un amigo inmobiliario que sabe mucho de edificios antiguos", **Federico Rehbein**, his partner in a Vitacura project, to review the site. Marcela told him nothing about below.
+- (S2) **Cáceres (28 Feb, Toesca 7th floor):** 49,000 UF, 30 days' exclusivity (to 30 Mar), subject to DD and financing; 500 UF guarantee (paid); the Hora Dorada name stays with the fund; "hay otros interesados". A maintenance tech at Toesca looked twice at Pietro.
+- (S2) **Title chain:** Hora Dorada bought the Ramón Carnicer wing in Oct 2007 from **Prof. Dr. Tomás Salinas Echeverría** for next to nothing; Salinas had owned it since 1962 as the old wing of his **Clínica Tajamar**; the main clinic was sold in 1998 and demolished. Salinas's obituary (*El Mercurio*, Dec 2007): "su discípulo, el Dr. Rodrigo Bastías Moreno, dirigió unas palabras". **C.M.T.** = the Army's Cuerpo Militar del Trabajo (roads, the Carretera Austral); nothing public ties it to a private building.
+- (S2) **Toño** (Puente Alto, 2 Mar): Rodrigo told him (2008) the refuge was built "por unos viejos ricos en los ochenta, para la bomba"; Salinas gave it with the building; **General (R) Benavente** came to restore it ("derecho como un poste"); on **27F** an extremely old man arrived at Toesca at 5 a.m. with his family and a nurse, and Rodrigo took them down to **Toesca's "menos tres"** for two nights; Rodrigo had **others of his own: Los Leones (the best), La Florida (small), Independencia**; the L5 door leads up a ladder to the **Line 5 tunnel** (Toño climbed it in 2012). "Se fue... y no le dijo a nadie qué hacer con esto... porque no sabía a quién."
+- (S2) **DOM Providencia (3 Mar):** no permits or works on file for 1975–1990; Hora Dorada's 2007–08 drawings by **Arq. Carolina Ríos** show an "ampliación sala de grupo electrógeno" four times too big. Josefina: "O lo hicieron sin permiso, o alguien se llevó la carpeta... Pietro, ¿qué estamos buscando?"
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.
@@ -61,3 +69,5 @@ the network that invented the model, is being cut by the fund that owns it.
 - Who built La Capilla in 1981, and why under a clinic?
 - What did Toño mean by "de antes"? What does Rodrigo know?
 - Does the fund know what it's selling?
+- Who is Federico Rehbein, and why does he want to look at old buildings?
+- What's in Toesca's 'menos tres'? Who was the old man on 27F?

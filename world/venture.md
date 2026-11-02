@@ -59,8 +59,8 @@ Standing: Medicine +2 (Marcela's name) · Business +1 · State 0 · Street 0 · 
 ## Projects (clocks)
 | Project | Clock | Next step |
 |---|---|---|
-| Choose the site | [■■□□] | Visit the two options; chase the Plaza Italia rumour |
-| The investor (30%) | [■□□□□□] | Kostas Nerod wants a meeting, and conditions |
+| Choose the site | [■■■□] | **Exclusivity on Hora Dorada's Plaza Italia unit**: 49,000 UF, 30 days to 30 Mar 2025, subject to DD and financing; 500 UF guarantee paid |
+| The investor (30%) | [■■□□□□] | Kostas's terms (27 Feb): 40,000 UF for 35%, a board seat, Matías as CFO, Federico Rehbein to 'review' the site |
 | Permits (DOM + SEREMI) | [■□□□□□] | Depends on the site |
 | Contracts (the mutual, Isapres) | [■□□□] | Marcela's conflict of interest |
 | Team | [■■□□] | Formal offers once the money is in |
@@ -75,3 +75,4 @@ Standing: Medicine +2 (Marcela's name) · Business +1 · State 0 · Street 0 · 
 | Month | Spent | Cash | Notes |
 |---|---|---|---|
 | Jan 2025 | ≈ 800 UF (studies, architect, lawyers) | ≈ 1,200 UF | 2,000 UF of capital called |
+| Feb 2025 | 500 UF (good-faith guarantee to Hora Dorada) | ≈ 700 UF | LOI by Diego Fernández; casona visit cancelled |

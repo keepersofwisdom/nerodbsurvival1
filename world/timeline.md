@@ -224,6 +224,11 @@ written) history is the campaign's own.
 | Date | What happened | Session |
 |---|---|---|
 | 2025-02-25 | The blackout: Pietro sent from the HT to Hora Dorada's Plaza Italia unit, on batteries; opens La Capilla; its battery bank powers the critical-care room; the motorcyclist Jhonatan drained, transfused and carried to the HT's theatre (splenectomy, survives); Pietro tells Marcela; state of catastrophe and curfew; 23:05 Pietro and Marcela at the green door | 2 |
+| 2025-02-26 | The night descent: C.M.T. 1981; the logbook; Pietro takes the key | 2 |
+| 2025-02-27 | Kostas's lunch with Marcela: 40,000 UF for 35%, and Federico Rehbein | 2 |
+| 2025-02-28 | Cáceres grants Kairós 30 days' exclusivity on the Plaza Italia unit (49,000 UF) | 2 |
+| 2025-03-02 | Toño in Puente Alto | 2 |
+| 2025-03-03 | DOM Providencia: no permits 1975–90 | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

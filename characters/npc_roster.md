@@ -72,8 +72,9 @@ Template:
 - **Age:** 26 · A general physician in his first months; glasses on his forehead; frightened and
   honest. **Regard: +1**
 ### Felipe Cáceres — CEO of Hora Dorada (since March 2023)
-- **Age:** 44 · Ex-strategy consultant appointed by Andes Health Partners; spreadsheets,
-  sneakers with a suit, *"eficiencia"*. Plans closures and a sale-leaseback. **Pietro knows:** of him
+- **Age:** 44 · Ex-strategy consultant appointed by Andes Health Partners; navy suit, white
+  sneakers, an Apple Watch; *"seamos eficientes"*. Gave Kairós 30 days' exclusivity on the Plaza
+  Italia unit at 49,000 UF (28 Feb 2025). Calls Marcela by her first name. **Regard: 0** · **Pietro knows:** yes
 
 ### Bastián Pincheira — maintenance technician, Clínica Toesca
 - **Age:** 31 · Nights; knows every pipe and every generator; grandson of the old watchman
@@ -84,6 +85,17 @@ Template:
   tired. **Pietro knows:** of him
 
 ## Others
+### Toño — Hora Dorada's ambulance chief 2006–2018 (retired)
+- **Age:** 63 · Ex-SAMU (1995); Puente Alto; a grape arbor, a faded Colo-Colo flag, a laugh like a
+  truck starting. Told Pietro what Rodrigo told him. **Regard: +3** · **Pietro knows:** since 2 Mar 2025
+
+### Diego Fernández — Kairós's lawyer
+- **Age:** 35 · A friend of Cristóbal's; quick and cheap. **Regard: +1**
+
+### Federico Rehbein — real estate (known only by name)
+- **Age:** ~60 · Kostas Nerod's partner in a Vitacura project; "sabe mucho de edificios antiguos".
+  **Pietro knows:** of him
+
 ### Javiera Bastías Moreno — journalist
 - **Age:** 51 · Investigative reporter, independent outlet; writing a book on the dictatorship's
   private collaborators after the 2023 Plan Nacional de Búsqueda. The founder's sister.

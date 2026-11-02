@@ -2,18 +2,18 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-02-26",
-  "time": "00:40",
-  "weekday": "Wednesday",
-  "location": "Hora Dorada, Unidad Plaza Italia — at the green door, back up from La Capilla (curfew)",
+  "date": "2025-03-03",
+  "time": "20:30",
+  "weekday": "Monday",
+  "location": "Providencia — Pietro's flat near Los Leones",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
   "era_1_closed": "Played 31 Mar–27 May 2005; written forward to 2023 (world/chronicle_2005_2023.md)",
   "character": {
     "health": "sound",
-    "fatigue": 2,
-    "stress": 5,
+    "fatigue": 0,
+    "stress": 6,
     "conscience": "Clear",
     "scars": [],
     "money_clp": null,
@@ -48,7 +48,10 @@
     "Benjamín Soto": 1,
     "Ignacio Bustos": 1,
     "Jhonatan (patient)": 3,
-    "Yuleidys (Valentina's carer)": 2
+    "Yuleidys (Valentina's carer)": 2,
+    "Felipe Cáceres": 0,
+    "Toño": 3,
+    "Diego Fernández": 1
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
@@ -64,24 +67,36 @@
     "photographed_la_capilla": "214 photos (list, drill logbook 2010–16, machines, stamps, cabinet, Metro door)",
     "found_cmt_1981": true,
     "found_baujahr_1980": true,
-    "aravena_offers_key": true
+    "aravena_offers_key": true,
+    "has_la_capilla_key": true,
+    "suspects_marcela_caceres_line": true,
+    "knows_salinas_name": true,
+    "knows_benavente_name": true,
+    "knows_toesca_minus3": true,
+    "knows_other_shelters": "Los Leones (the best), La Florida (small), Independencia",
+    "knows_metro_shaft_l5": true
   },
   "clocks": {
-    "refuge_battery": "78% at 20:10, back on float"
+    "refuge_battery": "78% at 20:10, back on float",
+    "exclusivity": "27 days (to 30 Mar 2025)",
+    "exposure_la_capilla": "[■□□□□□] (Josefina: '¿qué estamos buscando?')"
   },
   "open_threads": [
-    "Aravena holds out the brass key to Pietro",
-    "Next: an offer for the Plaza Italia unit / find Toño (Puente Alto) / call Rodrigo / research C.M.T. 1981 and the building's history",
-    "Kostas's lunch with Marcela, Thursday 27 Feb",
-    "The viral video; the riders",
-    "Valentina and Yuleidys (Barrio Yungay); Jhonatan in the HT's ICU"
+    "Money for the Plaza Italia unit by 30 Mar: ≈79,000 UF needed (price 49,000 + works 10,000 + working capital 20,000)",
+    "Kostas's terms (lunch with Marcela, 27 Feb): 40,000 UF for 35%, a board seat, Matías as CFO, and his partner Federico Rehbein to 'review' the site",
+    "Marcela has a direct line to Cáceres ('el Felipe'); she said 'un amigo'",
+    "Toño: built by 'unos viejos ricos en los ochenta, para la bomba'; Salinas gave it with the building; General Benavente restored it; 27F: an old man and his family slept two nights in Toesca's 'menos tres'; Rodrigo had others (Los Leones, the best; La Florida; Independencia); the L5 shaft leads to the tunnel",
+    "DOM Providencia: no permits 1975–1990; the 2008 'ampliación sala de grupo electrógeno' four times too big (drawings by Arq. Carolina Ríos)",
+    "Josefina: 'Pietro, ¿qué estamos buscando?'",
+    "The viral video; Jhonatan in ICU; Valentina with Yuleidys"
   ],
   "venture": {
     "name": "Kairós SpA (working name)",
     "constituted": "2025-01",
     "committed_uf": 8500,
-    "cash_uf": 1200,
+    "cash_uf": 700,
     "partners": "Riquelme 30 · Nerod 30 · Fuentes 5 · Henríquez 5 · investor 30 (open)",
-    "target_opening": "2026-03"
+    "target_opening": "2026-03",
+    "exclusivity": "Plaza Italia unit: 49,000 UF, 30 days to 2025-03-30, subject to DD and financing; 500 UF guarantee paid (lost if they withdraw without cause); the Hora Dorada name stays with the fund"
   }
 }
