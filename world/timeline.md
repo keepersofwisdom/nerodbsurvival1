@@ -168,7 +168,12 @@ written) history is the campaign's own.
 ### 2025 — The blackout; Kast (Era II begins around here)
 | Date | Event | ✔/✘ |
 |---|---|---|
-| 2025-02-25 | **National blackout (≈15:16)**, Arica to Los Lagos; Metro evacuated; hospitals on generators; curfew 22:00–06:00 | |
+| 2025-01-01 | Minimum wage $510,636; UF ≈ 38,419 | ✔ |
+| 2025-01 (late) | Pension reform approved by Congress (employer contribution raised in steps; PGU up) [Med] | ✔ |
+| 2025-02-25 | **National blackout (≈15:16)**, Arica to Los Lagos; Metro evacuated; hospitals on generators; curfew 22:00–06:00 | ✔ |
+| 2025-03 | Carolina Tohá leaves the Interior Ministry to run for president; Álvaro Elizalde replaces her [Med] | ✔ |
+| 2025-03 | Pension reform promulgated [Med] | ✔ |
+| 2025-03 | 2024 Census results: ≈18.48 M inhabitants, ≈7.4 M in the Metropolitan Region [Med] | ✔ |
 | 2025-04-10 | Two fans die outside the Estadio Monumental | |
 | 2025-05-02 | Drake Passage quake (M≈7.4); Magallanes tsunami evacuation | |
 | 2025-06-29 | Primaries: Jara wins the government coalition's primary | |
@@ -223,8 +228,10 @@ written) history is the campaign's own.
 ### Era II, played
 | Date | What happened | Session |
 |---|---|---|
+| 2025-01 | Kairós SpA constituted; shareholders' pact; business plan; 2,000 UF of capital called (≈800 UF spent in Jan); Arq. Josefina Ureta engaged; SEREMI pre-consultation | background |
+| 2025-02 | Sites studied (Bustamante casona, Independencia tower); informal commitments from 9 doctors, 14 nurses, 20 TENS | background |
 | 2025-02-25 | The blackout: Pietro sent from the HT to Hora Dorada's Plaza Italia unit, on batteries; opens La Capilla; its battery bank powers the critical-care room; the motorcyclist Jhonatan drained, transfused and carried to the HT's theatre (splenectomy, survives); Pietro tells Marcela; state of catastrophe and curfew; 23:05 Pietro and Marcela at the green door | 2 |
-| 2025-02-26 | The night descent: C.M.T. 1981; the logbook; Pietro takes the key | 2 |
+| 2025-02-26 | The night descent: C.M.T. 1981; the logbook; Pietro takes the key. The Bustamante casona visit (08:00) cancelled | 2 |
 | 2025-02-27 | Kostas's lunch with Marcela: 40,000 UF for 35%, and Federico Rehbein | 2 |
 | 2025-02-28 | Cáceres grants Kairós 30 days' exclusivity on the Plaza Italia unit (49,000 UF) | 2 |
 | 2025-03-02 | Toño in Puente Alto | 2 |
@@ -235,6 +242,7 @@ written) history is the campaign's own.
 | 2025-03-17 | Kostas: 45,000 for 39% or 40,000 for 35% | 2 |
 | 2025-03-18 | Federico Rehbein inspects the Plaza Italia unit; offers a sale-leaseback; his father wants to meet Pietro | 2 |
 | 2025-03-21 | Second bank: 24,000 UF, with a sworn statement on the underground space | 2 |
+| 2025-03-26 | Marcela's flat: buying vs Federico's lease ("más barato hoy y más caro siempre"); her three-condition test for Federico | 2 |
 | 2025-03-27 | Federico's lease draft; Annex A hides the 1981 plan of La Capilla (B-1, O.B.L.) | 2 |
 | 2025-03-28 | Kostas invests 45,000 UF for 39%; second bank commits 24,000 UF | 2 |
 | 2025-03-29 | Sworn statement; promesa de compraventa for the Plaza Italia unit (49,000 UF; deed by 30 Apr) | 2 |

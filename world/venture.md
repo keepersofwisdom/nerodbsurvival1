@@ -56,12 +56,12 @@ Standing: Medicine +2 · Business +2 · State 0 · Street +1 (the riders) · Uni
 ## Projects (clocks)
 | Project | Clock | Next step |
 |---|---|---|
-| Choose the site | [■■■□] | **Exclusivity on Hora Dorada's Plaza Italia unit**: 49,000 UF, 30 days to 30 Mar 2025, subject to DD and financing; 500 UF guarantee paid |
-| The investor (30%) | [■■■□□□] | Kostas's final terms (5 Mar): 40,000 UF for **35%**, a board seat, Matías as board observer (not CFO), **Federico Rehbein inspects the site**, or no money |
-| Bank loan | [■■■□] | Bank 1 (14 Mar): 22,000 UF, UF+4.9%. **Bank 2 (21 Mar): 24,000 UF, UF+5.2%, 15y; father as guarantor; partners' guarantees; sworn statement on the underground space** |
-| Investor, final (17 Mar) | — | Kostas: **45,000 for 39% or 40,000 for 35%**; Matías as board observer; Federico Rehbein inspected 18 Mar |
-| Federico Rehbein's alternative | — | Inmobiliaria Rehbein buys the building; Kairós buys the operation (≈10–12,000 UF) and leases it for 30 years |
-| Permits (DOM + SEREMI) | [■□□□□□] | Depends on the site |
+| Choose the site | [■■■■] **done** | **Promesa signed 29 Mar 2025** with Hora Dorada for the Plaza Italia unit: 49,000 UF; deposit 4,900 UF (+ the 500 UF guarantee); deed by 30 Apr 2025 |
+| The investor | [■■■■■■] **closed 28 Mar** | Kostas Nerod: **45,000 UF for 39%** (10,000 wired 28 Mar; 35,000 at the deed); board seat; Matías board observer. Federico Rehbein inspected 18 Mar |
+| Bank loan | [■■■■] **committed 28 Mar** | **Second bank: 24,000 UF, UF+5.2%, 15 y (≈192 UF/month)**; Kostas guarantor; partners' guarantees; sworn statement on the underground space signed 29 Mar; disbursed at the deed. Bank 1's 22,000 UF not taken |
+| The deed | [□□□□] | By **30 Apr 2025**: ≈43,600 UF due (49,000 − 4,900 − 500, if the guarantee is credited); Kostas's 35,000 + the bank's 24,000 at the deed; stamp tax ≈192 UF, notary, CBR |
+| Federico Rehbein's alternative | — | Declined 28 Mar (Annex A, the Z.T.E. carve-out). "La oferta queda abierta" |
+| Permits (DOM + SEREMI) | [■□□□□□] | Site fixed. **DOM: regularise the underground space** (sworn-statement obligation); SEREMI: health authorisation for Kairós at Plaza Italia |
 | Contracts (the mutual, Isapres) | [■□□□] | Marcela's conflict of interest |
 | Team | [■■□□] | Formal offers once the money is in |
 
@@ -76,3 +76,4 @@ Standing: Medicine +2 · Business +2 · State 0 · Street +1 (the riders) · Uni
 |---|---|---|---|
 | Jan 2025 | ≈ 800 UF (studies, architect, lawyers) | ≈ 1,200 UF | 2,000 UF of capital called |
 | Feb 2025 | 500 UF (good-faith guarantee to Hora Dorada) | ≈ 700 UF | LOI by Diego Fernández; casona visit cancelled |
+| Mar 2025 | 4,900 UF (promesa deposit, 29 Mar) + ≈300 UF of fees accrued, unpaid (Diego: title study, lease review, promesa; Josefina: DD; two appraisals; notary) | ≈ 5,800 UF (≈ 5,500 net of payables) | +10,000 UF from Kostas (28 Mar) of 45,000; bank's 24,000 committed for the deed |

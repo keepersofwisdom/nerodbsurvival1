@@ -225,3 +225,83 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   invites Pietro to La Reina (B4); (b) Federico pursues the Caja Austral sale-leaseback (Huelén's
   right of first refusal will surface: Ignacio Larrañaga notified); (c) Federico works on Kostas.
   Rodrigo uncalled. The DOM regularisation will bring an inspector into La Capilla (April–June).
+- **S2 (29 Mar 2025, 15:40): the call to Rodrigo.** Rolls: he called back the same day (8). Pietro's
+  Persuasion 12+4 (rolled 1) vs Rodrigo's Cautious 15 (rolled 9): **both succeed; caution wins
+  narrowly.**
+  - **Gonzalo has NOT told Rodrigo** of the Toesca sale-leaseback (roll 17). Rodrigo has an
+    unopened email from him.
+  - **Told:** La Mesa (twelve); O.B.L. = Benavente Lillo; Larrañaga's 2005 loan and its conditions;
+    Salinas's gift; Toesca −3 (Larrañagas, 27F); B-2 under Toesca ("un archivo"); plans B1–B2 and
+    empty folders B3–B4; Rehbein's funeral line and La Reina; why he left (Seba; Los Leones rotten
+    in 2022, unnamed; Carolina).
+  - **Held back:** the Ñuñoa cellar cabinet (notebooks, CDs, lamp, Seba's list), the coded ledger
+    and its three photographed pages, "Yungay", Carolina's −3 DOM signature, Quilicura, the 1990
+    wall.
+  - **Regard 0 → +2;** he switched to *tú* at the end. Preparation ✓ and Paranoid ✓ for him.
+  - **His week:**
+    - Sat night: he opens Gonzalo's email. If it mentions Toesca's sale, he links it to Rehbein
+      fast; possibly his first call to Gonzalo in two years.
+    - Sun/Mon: the Carolina conversation. She wants her name out and may want to hear Pietro
+      herself. Roll his case vs her resistance when it comes up.
+    - A casual call to Vicente about the cellar ("¿está seco? ¿el gabinete sigue con llave?"),
+      which plants curiosity.
+    - He answers Pietro at any hour, and will call within the week regardless.
+  - **His advice to Pietro:** don't admit the call. If asked straight out: "me escribió y yo no le
+    quise contar nada."
+- **S2 (30 Mar 2025, 17:00): La Quinta.** Rolls:
+  - Good day (12): lucid throughout.
+  - Federico sent out (14).
+  - Pietro's Empathy 11+3 (rolled 7) vs Gustavo's Deception 16−2 (rolled 2): **Pietro wins
+    narrowly.** He senses the fear is of something being OPENED, not of losing La Capilla. He
+    does not learn what.
+  - **Secret:** Pietro's Calm 10 (rolled 12, failed) vs Gustavo's watch 15 (rolled 7):
+    **Pietro's face showed that he already knew "la Mesa".** Gustavo already suspects Bastías
+    talked. He asked "¿Usted ha hablado con Bastías?" as a test, and the scene stops there for
+    the player's answer.
+  - **Gustavo revealed:**
+    - He paid about half of B1. His San Miguel foundry cast the green door (1981, 3.5 t, the
+      wheel turned by an Osorno machinist). His firm imported the Baujahr-1980 unit via Hamburg,
+      declared "ventilador para el horno tres".
+    - Benavente's copies went to each payer. The general's own papers went to his family, and
+      Gustavo truly doesn't know where (Joaquín, Huechuraba). He gave B-1 to Federico.
+    - La Mesa = Larrañaga's dining table, from January 1979.
+    - The 22 Dec 1978 night.
+    - B4 is under his house: 25 m, 20 people for a year, used in 2020; the San Ramón fault runs
+      through its shaft (geologists, 2012). Six great-grandchildren, the youngest born Jan 2025.
+    - Huelén's 45 UF lease, which confirms Larrañaga ↔ Toesca −3 to Pietro.
+    - Late wife Ingrid (suggest d. 2009). Nurse Hilda (≈50; BP 158/80).
+  - **The offer:**
+    - (a) a quiet DOM regularisation as "sala de máquinas y estanques" through his old firm (an
+      architect, suggest "Arq. Krause") and a long-serving DOM Providencia official; a friendly
+      inspector; he pays. This would make Kairós's sworn statement sit beside a falsified
+      record.
+    - (b) a 20-year lease of "bodegas" to a Rehbein company at 120 UF/month, 7,200 UF (5 years)
+      prepaid, a key, 20 Rehbein names on the list.
+    - (c) off paper: whatever Bastías didn't build stays closed.
+    - If Pietro accepts, Gustavo will later ask quietly for the L5 door to be welded and the
+      C.M.T. stamp covered "por mantención".
+  - **Reserved lines (use if the answer fits):**
+    - If Pietro deflects ("Eso es asunto mío"): "Tiene razón. Es asunto suyo. Aunque nadie
+      contesta así de algo que no ha hecho. Si vuelve a hablar con él, dígale que el alemán viejo
+      sigue vivo. Y que tenía razón."
+    - If Pietro asks about "los otros" (B-2/B-3/B-4): "Hubo otros. Se cerraron el noventa. No
+      queda nada que ver… Los otros no son asunto suyo, joven." (A lie: B2 rots with La Mesa's
+      papers; B3 is intact, rooms and all.)
+    - Closing, after the answer: "Coma kuchen. El de nuez… Hay cosas, doctor, que se
+      construyeron para que nadie las abriera. Algunas por buenas razones."
+    - He may also say "Es de once hombres que ya se murieron." (DM irony: B3's eleven.)
+  - **After the visit** (that evening, to Federico): "Es derecho y no es tonto. Ha hablado con
+    Bastías. No le vuelvas a hablar de plata. Llámalo el jueves." And **"Compra lo de Agustinas
+    igual."** His hidden reason: B2's cabinets hold La Mesa's 1979 member list with his name. It
+    is also the cipher key to the ledger, though Gustavo may not know that. He wants the papers
+    in Rehbein hands or burned.
+  - **His next moves:**
+    - **If Pietro stalls:** Federico calls Thu 3 Apr, then a handwritten letter follows.
+      Gustavo's deadline is before Kairós files with the DOM, at the latest the deed on 30 Apr.
+    - **If Pietro refuses:** pressure without threats. Federico works on Kostas and courts
+      Marcela; the Toesca bid intensifies; Gustavo uses his DOM contacts to stall or steer the
+      ordinary file.
+    - **If Pietro nears Yungay, the ledger, Joaquín Benavente or Javiera:** lawyers and the old
+      firm's retired "security consultants" (latent; not this arc unless forced).
+    - He will try to reach Rodrigo himself (through Federico, or a letter to the Ñuñoa house).
+  - **Regard −1 → 0.** +1 if Pietro takes the offer, or declines without haggling.

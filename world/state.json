@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-03-29",
-  "time": "11:30",
-  "weekday": "Saturday",
-  "location": "Providencia — outside a notary, Av. Providencia",
+  "date": "2025-03-30",
+  "time": "17:45",
+  "weekday": "Sunday",
+  "location": "La Reina — 'La Quinta', Gustavo Rehbein's house at the foot of the cerro",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -53,7 +53,9 @@
     "Toño": 3,
     "Diego Fernández": 3,
     "Federico Rehbein": -1,
-    "Matías Nerod": 1
+    "Matías Nerod": 1,
+    "Rodrigo Bastías": 2,
+    "Gustavo Rehbein": 0
   },
   "flags": {
     "blackout_2025": "in progress since 15:16",
@@ -80,20 +82,32 @@
     "federico_offer": "Inmobiliaria Rehbein buys the building from the fund; Kairós buys only the operation (≈10–12,000 UF) and leases for 30 years",
     "gustavo_rehbein_wants_to_meet": true,
     "federico_has_1981_plan": "Annex A: hand-inked plan of La Capilla, sheet B-1, dated —/09/1981, signed O.B.L.; 'Z.T.E.' carve-out with owner access 'en todo momento y sin aviso'",
-    "suspects_benavente_designed_it": true
+    "suspects_benavente_designed_it": true,
+    "called_rodrigo": "29 Mar 2025, 15:40 (Seattle 11:40). Told him everything. He told: La Mesa (twelve; the bomb, the Beagle 1978); O.B.L. = Gral. (R) Óscar Benavente Lillo (C.M.T.); Larrañaga/Huelén lent him the Toesca money (2005) with conditions; Salinas gave him the Ramón Carnicer wing; Toesca −3 is the Larrañagas' (lease to 2035; 27F); B-2 under Toesca, 'un archivo, papeles de ellos'; plans B1, B2 and empty folders B3, B4; Rehbein's funeral line (2011) and 'tiene lo suyo en La Reina'. Holding back 'cosas escritas' until he talks to Carolina. Will call within the week. Advised: sign nothing; don't say you talked to me ('dígale que me escribió y que yo no le quise contar nada').",
+    "knows_la_mesa": true,
+    "knows_obl": "Gral. (R) Óscar Benavente Lillo, Army engineer (C.M.T.); d. 2014",
+    "knows_b2_archive": "under Toesca: La Mesa's papers; plans B1, B2; empty folders B3, B4",
+    "met_gustavo_rehbein": "30 Mar 2025, La Quinta, La Reina (Federico sent out)",
+    "gustavo_paid_la_capilla": "about half: the green door cast in his San Miguel foundry (1981, 3.5 t); the German ventilation unit imported via Hamburg as 'ventilador para el horno tres'; Benavente gave each member copies of what he paid for; Gustavo gave Federico sheet B-1",
+    "knows_b4_la_quinta": "25 m under Gustavo's house; twenty people, a year; family used it in 2020; the San Ramón fault crosses its access shaft (geologists, 2012)",
+    "gustavo_offer": "(a) a quiet DOM regularisation as 'sala de máquinas y estanques' through his old firm and his Providencia contacts, at his cost ('el inspector que baje va a ser uno que no mira'); (b) a 20-year lease of 'bodegas' to a Rehbein family company at 120 UF/month, 5 years (7,200 UF) prepaid at signing, a key, twenty Rehbein names on the list; (c) off paper: anything not built by Bastías stays closed",
+    "gustavo_afraid_of_opening": "Pietro sensed it (Empathy): not afraid of losing La Capilla; afraid of something being opened (cracks at Benavente's papers and at the municipality/inspectors)"
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
     "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)",
-    "deed": "30 Apr 2025"
+    "deed": "30 Apr 2025",
+    "gustavo_offer": "no answer asked today; his deadline: before Kairós files anything with the DOM, at the latest the deed (30 Apr)"
   },
   "open_threads": [
+    "Gustavo Rehbein's question, pending: '¿Usted ha hablado con Bastías?' — and his three-part offer",
+    "Call Rodrigo after La Reina (he asked, 'a la hora que sea'); Rodrigo will call within the week after talking to Carolina",
     "Deed of the Plaza Italia unit by 30 Apr 2025; the bank's 24,000 UF at the deed",
-    "Regularise the underground space with the DOM (sworn statement signed)",
-    "Federico: 'La oferta queda abierta... en Chile las cosas cambian... mi papá sigue queriendo conocerlo. Sobre todo ahora.'",
-    "Sheet B-1, 09/1981, O.B.L. (Benavente?): if there's a B-1, there are others",
-    "Rodrigo Bastías (Seattle) not yet called",
-    "Josefina's question; Marcela's line to Cáceres"
+    "Regularise the underground space with the DOM (sworn statement signed) — or Gustavo's way",
+    "Federico: 'La oferta queda abierta... en Chile las cosas cambian'",
+    "B-2 is under Toesca; where are B-3 and B-4? (B-4: La Quinta?)",
+    "Josefina's question; Marcela's line to Cáceres",
+    "Q1 2025 Turn: rolled; lands Monday 31 March"
   ],
   "venture": {
     "name": "Kairós SpA",

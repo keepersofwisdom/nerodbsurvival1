@@ -71,6 +71,38 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) **Closed with father and bank (28–29 Mar):** Kostas 45,000 UF for 39% (10,000 wired); second bank 24,000 UF; Marcela's pact protections (CEO 5 years, clinical veto, **unanimity for anything about the underground premises**; Kostas: "Usted manda abajo"). **Sworn statement** signed (seismic shelter and store, pre-2008, unpermitted, to be regularised). **Promesa** with Hora Dorada: 49,000 UF, deposit 4,900, deed by 30 Apr.
 - (S2) Federico: "La oferta queda abierta... en Chile las cosas cambian... mi papá sigue queriendo conocerlo. Sobre todo ahora."
 
+- (S2) **Rodrigo Bastías (29 Mar, WhatsApp call from a Seattle car park, rain):**
+  - **B-1 is La Capilla.** **O.B.L. = General (R) Óscar Benavente Lillo**, Army engineer (Cuerpo Militar del Trabajo, the "C.M.T." on the lintel). He designed it in 1979–81, restored it with Rodrigo in 2008–09, and died in 2014. "Firmaba así todos sus planos."
+  - **"La Mesa"**: twelve rich, frightened men (the bomb; the 1978 Beagle crisis).
+    - **Don Anselmo Larrañaga** (Inversiones Huelén) was the money. He lent Rodrigo the Toesca money in 2005, cheap, on conditions: their engineer under every unit, a place for them and theirs, and silence. "Uno queda debiendo de otras maneras también."
+    - **Salinas** was one of them, and gave him the Ramón Carnicer wing.
+    - All are dead but one.
+  - **Toesca's −3** belongs to the Larrañaga family (leased to Huelén to 2035); Rodrigo opened it to them on 27F.
+  - **B-2 under Toesca**: "un archivo, papeles de ellos", found by accident in 2005. It held the plans of B-1 and B-2 and **two empty folders, B-3 and B-4**. "Si hay un B-1, hay un B-4. Y yo nunca supe dónde estaban los otros dos."
+  - **Rehbein:** they met once, at Larrañaga's funeral (2011). "Usted es el doctor de Anselmo… Lo que Anselmo le dio no era de Anselmo." Rodrigo heard he "tiene lo suyo en La Reina". One member of La Mesa never wanted Rodrigo in, and Rodrigo supposes it was him.
+  - **Seba typed the list** with Ximena and put no one beside himself, not even his mother. Rodrigo asked how Marcela is. He began a message for her and withdrew it.
+  - **Why he left:** he didn't know whom to tell. Seba was dead and the list was his. In 2022 he went down alone to one of his own shelters and found it rotten, and it frightened him that he no longer cared. And Carolina asked him to.
+  - "Tengo cosas escritas. No aquí. Déjeme hablarlo con la Carolina primero; lo que yo sé no es solo mío."
+  - Practical warnings: don't send him the plan by WhatsApp. "Con la DOM vayan con calma." He has an unopened email from Gonzalo.
+  - **His advice on Gustavo:** go, listen, sign nothing, and don't tell him what you don't know. If Gustavo asks straight out, say you wrote to Rodrigo and he refused to tell you anything.
+  - He will call back within the week, and asked Pietro to call him after La Reina, "a la hora que sea". "Pietro. Gracias por bajar. Llámame."
+- (S2) **Gustavo Rehbein (30 Mar, La Quinta, La Reina; Federico sent out of the room):**
+  - Why his son has sheet B-1: **"Porque yo la pagué."** He paid about half of La Capilla.
+    - **The green door with the wheel was cast in his foundry in San Miguel in 1981**: 3.5 tonnes, the wheel turned by an old machinist from Osorno.
+    - **His company imported the German ventilation unit from Hamburg**; at San Antonio customs it was declared as "ventilador para el horno tres".
+  - **Benavente's papers:** he gave each member copies of what that member had paid for ("Ordnung. Guardaba todo, todo, hasta…"). The general's own papers went to his family in 2014, "no sé dónde". Gustavo keeps his copies in his study. When Federico told him the fund was selling, he gave him B-1: "cómpralo y guarda la llave". Federico thinks it's an old man's seismic shelter. "Federico es buen hijo y mal abogado."
+  - **La Mesa**: twelve men, named after Larrañaga's dining table, meeting from January 1979. "En la mesa de Anselmo no se le discutía a Anselmo." "Tomás Salinas… quería un hijo, y se compró uno con lo nuestro." "Yo siempre estuve en contra de meter a alguien de afuera."
+  - **22 December 1978**: blacked-out windows in Las Condes, the children sleeping in the corridor, Federico (13) asking whether the Argentine planes could reach Santiago. "Le mentí."
+  - **B-4?** "Estamos sentados encima de lo mío. Veinticinco metros más abajo. Veinte personas, un año." The family used it in 2020. **In 2012 geologists showed him that the San Ramón fault runs through its access shaft.** "Tengo seis bisnietos. El más chico nació en enero."
+  - "Anselmo hizo lo mismo con Bastías en la clínica grande del centro, y pagaba cuarenta y cinco": Huelén's lease of Toesca −3.
+  - **His offer:**
+    - **(a)** Don't regularise through the DOM the ordinary way. His old firm's architects and his contacts of forty years at the Municipalidad de Providencia would regularise it as "sala de máquinas y estanques", at his cost: "el inspector que baje va a ser uno que no mira".
+    - **(b)** A 20-year lease of "bodegas" to a Rehbein family company at **120 UF a month, five years (7,200 UF) paid up front**, a key, and **twenty Rehbein names on the list**.
+    - **(c)** Off paper: "Lo que usted encuentre… que no haya construido Bastías, lo deja cerrado."
+    - No answer asked today: Federico will call during the week.
+  - **What Pietro sensed:** Gustavo isn't afraid of losing La Capilla. **He's afraid of something being opened.** His composure cracked twice: when he spoke of Benavente keeping everything, and at the word *municipality*: "las preguntas, doctor, no se paran donde uno quiere".
+  - Then, lightly: "¿Usted ha hablado con Bastías?"
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.
@@ -86,4 +118,6 @@ the network that invented the model, is being cut by the fund that owns it.
 - Does the fund know what it's selling?
 - Who is Federico Rehbein, and why does he want to look at old buildings?
 - What's in Toesca's 'menos tres'? Who was the old man on 27F?
-- Sheet B-1 of what? Where are B-2, B-3…? Who is O.B.L.?
+- ~~Sheet B-1 of what? Who is O.B.L.?~~ B-1 is La Capilla; O.B.L. is Benavente; B-2 is under Toesca. **Where are B-3 and B-4?** Is La Quinta B-4?
+- What is Gustavo Rehbein afraid someone will open?
+- What has Rodrigo written down, and where?

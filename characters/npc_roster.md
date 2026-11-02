@@ -100,6 +100,21 @@ Template:
   Kairós. His father (92) "knew Professor Salinas" and wants to meet Pietro. **Regard: 0** ·
   **Pietro knows:** yes
 
+### Dr. Rodrigo Bastías Moreno — the founder of Hora Dorada
+- **Age:** 55 · Seattle since August 2023 (visiting professor of prehospital and disaster medicine);
+  26% of Hora Dorada. Calm, few words, long silences; "puta la weá" when it hurts.
+- **Relationship:** first call 29 Mar 2025 (Pietro told him everything; he told part). Switched to
+  *tú* at the end: "Gracias por bajar. Llámame." **Regard: +2** · **Pietro knows:** since 29 Mar 2025
+
+### Gustavo Rehbein Müller — the last of "la Mesa"
+- **Age:** 92 · German-Chilean, Lutheran; a foundry in San Miguel in the 1970s–80s, then real estate;
+  widower (Ingrid). Tall even seated; a wing chair facing the cerro, an oxygen concentrator, a
+  silver-handled stick, a hearing aid. Formal *usted*, "¿ya?", "pues", "Ach", "Ordnung". His nurse,
+  **Hilda** (≈50). Six great-grandchildren.
+- **Lives:** "La Quinta", a walled estate at the top of La Reina, at the foot of the cerro; "lo mío",
+  25 m below the house.
+- **Relationship:** received Pietro on 30 Mar 2025; made him an offer. **Regard: 0** · **Pietro knows:** since 30 Mar 2025
+
 ### Javiera Bastías Moreno — journalist
 - **Age:** 51 · Investigative reporter, independent outlet; writing a book on the dictatorship's
   private collaborators after the 2023 Plan Nacional de Búsqueda. The founder's sister.
@@ -144,7 +159,7 @@ Template:
 | **Don Anselmo Larrañaga Correa** | Inversiones Huelén; the money | **Died March 2011**, aged 91 |
 | **Gral. (R) Óscar Benavente** | Their engineer | **Died 2014**, aged 88 |
 | **Doña Pilar Ezquerra** | A widow of the group | Died 2016 |
-| **Gustavo Rehbein** | The last of them; "tiene lo suyo en La Reina" | Met once, at Larrañaga's funeral (2011) |
+| **Gustavo Rehbein** | The last of them; "tiene lo suyo en La Reina" | Met Rodrigo once, at Larrañaga's funeral (2011); alive, 92 (see Era II) |
 | **Sgto. (R) Pincheira** | Night watchman of the Caja Austral since 1990 | **Died Aug 2019**, Barrio Yungay |
 | **Mauricio Fierro** | The broker | Unknown |
 | **Verónica Saldías** | The bank's account executive | Unknown |
