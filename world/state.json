@@ -2,10 +2,10 @@
   "phase": "play",
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
-  "date": "2025-03-25",
-  "time": "21:00",
-  "weekday": "Tuesday",
-  "location": "Providencia — Pietro's flat",
+  "date": "2025-03-26",
+  "time": "22:10",
+  "weekday": "Wednesday",
+  "location": "Ñuñoa — Marcela's flat (calle Holanda near Irarrázaval)",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -81,10 +81,12 @@
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
-    "exclusivity": "5 days (to 30 Mar 2025)",
+    "exclusivity": "4 days (to 30 Mar 2025)",
     "exposure_la_capilla": "[■■■□□□] (two banks' appraisers, the fund, Federico Rehbein)"
   },
   "open_threads": [
+    "Marcela's test for Federico: lease with exclusive use of ALL basements for 30 years (no landlord access without consent), a purchase option at year 10 at a fixed price, and a capped rent. If he refuses the basement clause, 'sabemos lo que quiere'",
+    "Marcela: 'Yo no lo voy a llamar. Pero tú puedes' (Rodrigo, Seattle, 26% of Hora Dorada)",
     "DECIDE by 30 Mar: (1) father 45,000/39% + 2nd bank 24,000 = 82,500 UF; (2) father 40,000/35% + 24,000 = 77,500 (cut working capital); (3) Federico Rehbein buys the building, Kairós leases",
     "Sworn statement on the underground space required by either bank before the deed",
     "Marcela at 'Nerods ≈ 64%': 'Ah.'",

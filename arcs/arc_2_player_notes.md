@@ -64,6 +64,8 @@ the network that invented the model, is being cut by the fund that owns it.
 - (S2) **Second bank (21 Mar):** 24,000 UF at UF+5.2%, father as guarantor, partners' guarantees, and a **sworn statement** on the unpermitted underground space (its appraiser photographed the same door).
 - (S2) Marcela, looking at "Nerods ≈ 64%": "Ah."
 
+- (S2) **Talk with Marcela (26 Mar, her flat; Lucas, 16, in the next room):** for the clinic they don't need the building. With Federico's way, ≈42,000 UF opens the centre (operation 12,000 + equipment 10,000 + working capital 20,000), less of Kostas's money, no bank, no sworn statement, and Marcela doesn't drop to 26% (she admits that matters to her). But rent of ≈500–600 UF/month for 30 years vs ≈200 UF/month of bank instalments: "más barato hoy y más caro siempre". And: "Si Federico compra el edificio, lo de abajo es de él." Her **test**: accept with three conditions: exclusive use of all basements for 30 years with no landlord access without consent; a purchase option at year 10 at a fixed price; capped rent. "Si dice que no a lo del subterráneo, sabemos lo que quiere." On Rodrigo: "Yo no lo voy a llamar. Pero tú puedes."
+
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
   maybe Plaza Italia.

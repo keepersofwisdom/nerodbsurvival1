@@ -213,3 +213,8 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   wish to meet. Second bank: 24,000 UF with a sworn statement. Exposure 3/6. If Pietro picks Option
   1, Kostas + Pietro control Kairós (~64%); Marcela feels sidelined (her Cáceres channel and her
   ambition make her a potential defector to Federico's plan, who will court her next).
+- **S2 (26 Mar 2025):** Federico has NOT yet called Marcela (roll 16). Marcela's test is sound:
+  Federico will NOT accept the exclusive-basement clause as written; he'll counter with "acceso
+  del propietario para mantención estructural de subterráneos con aviso de 48 horas" and a higher
+  rent, and offer a sweetener (a lower rent for 3 years). If pushed, he reveals intent by insisting.
+  Gustavo Rehbein is lucid on good days and will receive Pietro in La Reina (B4's estate) if asked.
