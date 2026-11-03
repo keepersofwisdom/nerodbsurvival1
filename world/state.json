@@ -3,9 +3,9 @@
   "era": "II — La Herencia",
   "active_character": "Dr. Pietro Nerod Carrasco (29; EM specialist since 2023)",
   "date": "2025-03-30",
-  "time": "17:45",
+  "time": "20:15",
   "weekday": "Sunday",
-  "location": "La Reina — 'La Quinta', Gustavo Rehbein's house at the foot of the cerro",
+  "location": "Providencia — his flat near Metro Los Leones",
   "session_count": 1,
   "last_session_file": "sessions/session_001.md",
   "active_arc": "arc_2 — Kairós",
@@ -94,7 +94,14 @@
     "gustavo_paid_la_capilla": "about half: the green door cast in his San Miguel foundry (1981, 3.5 t); the German ventilation unit imported via Hamburg as 'ventilador para el horno tres'; Benavente gave each member copies of what he paid for; Gustavo gave Federico sheet B-1",
     "knows_b4_la_quinta": "25 m under Gustavo's house; twenty people, a year; family used it in 2020; the San Ramón fault crosses its access shaft (geologists, 2012)",
     "gustavo_offer": "(a) a quiet DOM regularisation as 'sala de máquinas y estanques' through his old firm and his Providencia contacts, at his cost ('el inspector que baje va a ser uno que no mira'); (b) a 20-year lease of 'bodegas' to a Rehbein family company at 120 UF/month, 5 years (7,200 UF) prepaid at signing, a key, twenty Rehbein names on the list; (c) off paper: anything not built by Bastías stays closed",
-    "gustavo_afraid_of_opening": "Pietro sensed it (Empathy): not afraid of losing La Capilla; afraid of something being opened (cracks at Benavente's papers and at the municipality/inspectors)"
+    "gustavo_afraid_of_opening": "Pietro sensed it (Empathy): not afraid of losing La Capilla; afraid of something being opened (cracks at Benavente's papers and at the municipality/inspectors)",
+    "lied_to_gustavo": "30 Mar: used Rodrigo's cover ('Le escribí. No me quiso contar nada'); Gustavo did not believe it: 'Miente mal, joven'",
+    "gustavo_knows_rodrigo_talked": true,
+    "q1_2025_turn_presented": true,
+    "doctors_chain_bunker_pinochet": "30 Mar: a doctors' WhatsApp chain: 'búnker de Pinochet' under the Plaza Italia unit, 'puerta al Metro', 'el Benja lo vio', Riquelme and 'el doctor del video' buying it",
+    "acHS_manager_asked_marcela": "Fri 28 Mar: the HT's medical manager asked Marcela, in passing, whether she was 'armando algo'; she said no",
+    "matias_unwell": "Francisca: '¿Has hablado con el Mati? Llámalo esta semana. No le digas que yo te dije.'",
+    "martin_aguilera": "San José internist (32); breakfast to noon in mid-March; his 19 Mar '¿Repetimos?' unanswered; new message 30 Mar"
   },
   "clocks": {
     "refuge_battery": "78% at 20:10, back on float",
@@ -103,14 +110,16 @@
     "gustavo_offer": "no answer asked today; his deadline: before Kairós files anything with the DOM, at the latest the deed (30 Apr)"
   },
   "open_threads": [
-    "Gustavo Rehbein's question, pending: '¿Usted ha hablado con Bastías?' — and his three-part offer",
+    "Gustavo Rehbein's offer (a quiet DOM fix; 7,200 UF prepaid lease, a key, 20 places; silence): Federico calls this week; deadline before any DOM filing, at the latest the deed (30 Apr)",
+    "Exposure 4/6: the doctors' chain ('búnker de Pinochet'); Benjamín Soto",
     "Call Rodrigo after La Reina (he asked, 'a la hora que sea'); Rodrigo will call within the week after talking to Carolina",
     "Deed of the Plaza Italia unit by 30 Apr 2025; the bank's 24,000 UF at the deed",
     "Regularise the underground space with the DOM (sworn statement signed) — or Gustavo's way",
     "Federico: 'La oferta queda abierta... en Chile las cosas cambian'",
     "B-2 is under Toesca; where are B-3 and B-4? (B-4: La Quinta?)",
     "Josefina's question; Marcela's line to Cáceres",
-    "Q1 2025 Turn rolled: news, family and books reach Pietro on Monday 31 March"
+    "Matías (Francisca's message); Martín Aguilera's message",
+    "Marcela: the HT medical manager's question (ACHS clock 1/4)"
   ],
   "venture": {
     "name": "Kairós SpA",

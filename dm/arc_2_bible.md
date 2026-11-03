@@ -320,3 +320,16 @@ they choose otherwise. Strategic background: `dm/era_2_bible.md`.*
   - **News reaching Pietro on Mon 31 Mar:** (1) the doctors' chain "búnker de Pinochet" (half true);
     (2) the "ciberataque" chain (false, early March); (3) an HT colleague on the frozen closures.
   - **Books:** cash 5,800 (≈300 UF payables). Stress 8 → 8. BTC −14%.
+- **S2 (30 Mar, ≈18:50): the cover.** Pietro used Rodrigo's line.
+  - **Secret roll:** Deception 6+4 (rolled 13, failed) vs Gustavo's Empathy 15+2 (rolled 3).
+    **Gustavo saw through it**: "Miente mal, joven…" He reads it as loyalty to Bastías (Regard
+    stays 0) and is now certain that Bastías talks to Pietro.
+  - **Gustavo's next moves:**
+    - Tonight, to Federico: "Ha hablado con Bastías… Llámalo el jueves… Compra lo de Agustinas
+      igual."
+    - He'll **write to Rodrigo by hand**, posted Tue 1 Apr to the Ñuñoa house (the only address
+      he has). It arrives ≈Thu 3 Apr. Vicente photographs the envelope and sends it to his father
+      (it's a nudge toward the cellar).
+  - **Federico at Kostas's Saturday asado (5 Apr)** = the pressure channel.
+- **S2 (30 Mar, 20:15): Q1 Turn presented** (news, ACHS 1/4, Cristóbal, Matías via Francisca,
+  Martín, books). The decision on Sunday night is open.

@@ -68,7 +68,7 @@ Standing: Medicine +2 · Business +2 · State 0 · Street +1 (the riders) · Uni
 ## Threats (clocks)
 | Threat | Clock | Trigger |
 |---|---|---|
-| Marcela's conflict of interest at the Hospital del Trabajador | [□□□□] | If ACHS learns its ED chief is planning a competitor |
+| Marcela's conflict of interest at the Hospital del Trabajador | [■□□□] | If ACHS learns its ED chief is planning a competitor. Q1 Turn: the HT's medical manager asked her (28 Mar) whether she was "armando algo"; she denied it |
 | Poaching backlash (San José, the HT) | [□□□□] | Formal offers |
 
 ## Books

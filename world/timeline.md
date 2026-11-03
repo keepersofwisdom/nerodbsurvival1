@@ -248,6 +248,7 @@ written) history is the campaign's own.
 | 2025-03-29 | Sworn statement; promesa de compraventa for the Plaza Italia unit (49,000 UF; deed by 30 Apr) | 2 |
 | 2025-03-29 | Pietro calls Rodrigo Bastías in Seattle: La Mesa, Benavente (O.B.L.), B-2 under Toesca, the empty B-3/B-4 folders | 2 |
 | 2025-03-30 | Tea with Gustavo Rehbein (92) at La Quinta, La Reina: "Porque yo la pagué"; B-4 on the San Ramón fault; his offer | 2 |
+| 2025-03-30 | End of Q1: a doctors' chain calls the Plaza Italia basement "un búnker de Pinochet" (Exposure 4/6) | 2 |
 
 ### Era I, played (detail)
 | Date | What happened | Session |

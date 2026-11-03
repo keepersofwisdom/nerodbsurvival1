@@ -104,6 +104,17 @@ the network that invented the model, is being cut by the fund that owns it.
     - No answer asked today: Federico will call during the week.
   - **What Pietro sensed:** Gustavo isn't afraid of losing La Capilla. **He's afraid of something being opened.** His composure cracked twice: when he spoke of Benavente keeping everything, and at the word *municipality*: "las preguntas, doctor, no se paran donde uno quiere".
   - Then, lightly: "¿Usted ha hablado con Bastías?"
+  - Pietro used Rodrigo's cover: "Le escribí. No me quiso contar nada." **Gustavo didn't believe it**: "Miente mal, joven. En un médico es una virtud." "Si le vuelve a escribir, y él vuelve a no contarle nada, dígale que el alemán viejo sigue vivo. Y que tenía razón."
+  - Parting: "Hay cosas, doctor, que se construyeron para que nadie las abriera. Algunas por buenas razones."
+  - Federico, driving down: his father gave Pietro two hours ("a mí me da veinte minutos los domingos"); "Su papá me invitó al asado del sábado."
+- (S2) **Sunday night, 30 Mar (the end of Q1):**
+  - **A doctors' WhatsApp chain:** "búnker de Pinochet" under the Plaza Italia unit, "con camarotes y una puerta al Metro. El Benja lo vio la noche del apagón", and "la Riquelme del Trabajador con el doctor del video" buying the unit.
+  - An HT colleague: the fund has frozen the Estación Central and Independencia closures.
+  - **Marcela:** on Friday the HT's medical manager asked her, in passing, whether she was "armando algo". She said no.
+  - **Cristóbal:** a celebrated save at the HT (an awake fibre-optic intubation of a welder with an inhalation burn); his photo in ACHS's newsletter.
+  - **His mother:** "¿Has hablado con el Mati? Llámalo esta semana. No le digas que yo te dije." She knew about La Reina from Kostas.
+  - **Martín Aguilera** (San José internist): "¿Eres tú el del búnker? 😂… Lo del desayuno sigue en pie."
+  - **Books:** Kairós has ≈5,800 UF on hand, with ≈300 UF of March fees owed. At the deed (30 Apr) ≈43,600 UF is due, from Kostas's 35,000 and the bank's 24,000, which leaves ≈20,900 UF. His 2 BTC is worth ≈US$164,000, down 14%.
 
 ## Rumours heard (true or not)
 - The fund that owns Hora Dorada will sell or close units: Estación Central, Independencia,
